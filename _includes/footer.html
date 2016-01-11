@@ -1,15 +1,12 @@
-{% assign links = "Home|About Us|F.A.Q.|Who We Are" | split: "|" %}
-{% assign files = "index.html|about-us.html|faq.html|team.html" | split: "|" %}
-
 <footer class="page-footer blue-grey">
   <div class="container">
     <div class="row">
       <div class="col l6 s12">
         <h5 class="white-text">Further Reading</h5>
         <ul>
-          {% for link in links %}
-            {% if page.path != files[forloop.index0] %}
-              <li><a class="white-text" href="{{ files[forloop.index0] }}">{{ link }}</a></li>
+          {% for link in site.data.footer.links %}
+            {% if page.path != link.page %}
+              <li><a class="white-text" href="{{ link.page }}">{{ link.name }}</a></li>
             {% endif %}
           {% endfor %}
           <li><a class="white-text modal-trigger" href="#modal1">Contact Us</a></li>

@@ -1,0 +1,9 @@
+links:
+  - name: Home
+    page: index.html
+  - name: About Us
+    page: about-us.html
+  - name: F.A.Q.
+    page: faq.html
+  - name: Who We Are
+    page: team.html
