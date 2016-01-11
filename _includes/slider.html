@@ -1,0 +1,15 @@
+{% assign photos = include.photos | split: "|" %}
+{% assign photographers = include.photographers | split: "|" %}
+
+<div class="slider">
+   <ul class="slides">
+     {% for photo in photos %}
+       <li>
+         <img src="images/{{ photo }}">
+         <div class="caption right-align bright-content">
+           <span class="content">&copy; {{ photographers[forloop.index0] }}</span>
+         </div>
+       </li>
+     {% endfor %}
+   </ul>
+ </div>
