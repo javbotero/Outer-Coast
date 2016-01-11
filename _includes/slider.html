@@ -5,7 +5,7 @@
    <ul class="slides">
      {% for photo in photos %}
        <li>
-         <img src="images/{{ photo }}">
+         <img src="{{ site.imagesurl }}{{ photo }}">
          <div class="caption right-align bright-content">
            <span class="content">&copy; {{ photographers[forloop.index0] }}</span>
          </div>
