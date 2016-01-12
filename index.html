@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include slider.html photos="ben-adams-4.jpg|james-poulson-2.jpg|berett-wilber-7.jpg|kendall-rock-1.jpg|berett-wilber-5.jpg|james-poulson-7.jpg|sfac-1.jpg|berett-wilber-4.jpg|james-poulson-12.jpg|ben-adams-3.jpg|berett-wilber-9.jpg" photographers="Ben Adams|James Poulson|Berett Wilber|Kendall Rock|Berett Wilber|James Poulson|SFAC|Berett Wilber|James Poulson|Ben Adams|Berett Wilber" %}
+{% include slider.html photos=site.data.images.front_page.top %}
 
 <div class="main-section">
 
@@ -46,11 +46,7 @@ layout: default
   </div>
 
   <div class="center">
-
-    <img class="materialboxed" width="75%" src="{{ site.imagesurl }}berett-wilber-1.jpg">
-    <div class="caption materialboxed-caption right-align">
-      <span class="content">&copy; Berett Wilber</span>
-    </div>
+    {% include img-materialboxed.html image=site.data.images.front_page.above_three_pillars %}
   </div>
 
   <div class="main-section">
@@ -115,10 +111,7 @@ layout: default
   </div>
 
   <div class="center">
-    <img class="materialboxed" width="75%" src="{{ site.imagesurl }}berett-wilber-6.jpg">
-    <div class="caption materialboxed-caption right-align">
-      <span class="content">&copy; Berett Wilber</span>
-    </div>
+    {% include img-materialboxed.html image=site.data.images.front_page.above_the_campus %}
   </div>
 
   <div class="main-section">
@@ -155,13 +148,6 @@ layout: default
     </div>
   </div>
 
-  <div class="parallax-container">
-    <div class="parallax">
-      <img src="{{ site.imagesurl }}ben-adams-5.jpg">
-    </div>
-    <div class="caption right-align">
-      <span class="content">&copy; Ben Adams</span>
-    </div>
-  </div>
+  {% include img-parallax.html image=site.data.images.front_page.footer %}
 
 </div>

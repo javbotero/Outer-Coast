@@ -1,13 +1,11 @@
-{% assign photos = include.photos | split: "|" %}
-{% assign photographers = include.photographers | split: "|" %}
-
 <div class="slider">
-   <ul class="slides">
-     {% for photo in photos %}
+  <ul class="slides">
+    {% for item in include.photos %}
+      {% assign image_file = item.photographer | downcase | append: " " | append: item.image | replace: " ", "-" | append: ".jpg" %}
        <li>
-         <img src="{{ site.imagesurl }}{{ photo }}">
+         <img src="{{ site.imagesurl }}{{ image_file }}">
          <div class="caption right-align bright-content">
-           <span class="content">&copy; {{ photographers[forloop.index0] }}</span>
+           <span class="content">&copy; {{ item.photographer }}</span>
          </div>
        </li>
      {% endfor %}

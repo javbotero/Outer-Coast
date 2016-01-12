@@ -1,0 +1,45 @@
+front_page:
+  top:
+    - photographer: Ben Adams
+      image: 4
+    - photographer: James Poulson
+      image: 2
+    - photographer: Berett Wilber
+      image: 7
+    - photographer: Kendall Rock
+      image: 1
+    - photographer: Berett Wilber
+      image: 5
+    - photographer: James Poulson
+      image: 7
+    - photographer: SFAC
+      image: 1
+    - photographer: Berett Wilber
+      image: 4
+    - photographer: James Poulson
+      image: 12
+    - photographer: Ben Adams
+      image: 3
+    - photographer: Berett Wilber
+      image: 9
+  above_three_pillars:
+    photographer: Berett Wilber
+    image: 1
+  above_the_campus:
+    photographer: Berett Wilber
+    image: 6
+  footer:
+    photographer: Ben Adams
+    image: 5
+faq_page:
+  top:
+    - photographer: Berett Wilber
+      image: 10
+who_we_are_page:
+  top:
+    - photographer: James Poulson
+      image: 11
+about_us_page:
+  top:
+    - photographer: Berett Wilber
+      image: 4
