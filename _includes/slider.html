@@ -3,7 +3,7 @@
     {% for item in include.photos %}
       {% assign image_file = item.photographer | downcase | append: " " | append: item.image | replace: " ", "-" | append: ".jpg" %}
        <li>
-         <img src="{{ site.imagesurl }}{{ image_file }}">
+         <img src="{{ site.imagesurl }}{{ image_file }}" alt="{{ item.alt }}. Credit: {{ item.photographer }}.">
          <div class="caption right-align bright-content">
            <span class="content">&copy; {{ item.photographer }}</span>
          </div>

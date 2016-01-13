@@ -1,7 +1,7 @@
 {% assign image_file = include.image.photographer | downcase | append: " " | append: include.image.image | replace: " ", "-" | append: ".jpg" %}
 <div class="parallax-container">
   <div class="parallax">
-    <img src="{{ site.imagesurl }}{{ image_file }}">
+    <img src="{{ site.imagesurl }}{{ image_file }}" alt="{{ include.image.alt }}. Credit: {{ include.image.photographer }}.">
   </div>
   <div class="caption right-align">
     <span class="content">&copy; {{ include.image.photographer }}</span>

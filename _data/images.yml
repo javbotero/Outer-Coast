@@ -2,44 +2,61 @@ front_page:
   top:
     - photographer: Ben Adams
       image: 4
+      alt: Sun coming through mountains
     - photographer: James Poulson
       image: 2
+      alt: Bridge in front of mountains
     - photographer: Berett Wilber
       image: 7
+      alt: Sea and mountains
     - photographer: Kendall Rock
       image: 1
+      alt: People hiking into mist
     - photographer: Berett Wilber
       image: 5
+      alt: Town of Sitka
     - photographer: James Poulson
       image: 7
+      alt: Ocean breaking between rocks
     - photographer: SFAC
       image: 1
+      alt: Man carrying lumber
     - photographer: Berett Wilber
       image: 4
+      alt: Bridge and mountains in blue light
     - photographer: James Poulson
       image: 12
+      alt: Sitka at night
     - photographer: Ben Adams
       image: 3
+      alt: Salmon
     - photographer: Berett Wilber
       image: 9
+      alt: Woman in life jacket on boat
   above_three_pillars:
     photographer: Berett Wilber
     image: 1
+    alt: Woman in forest in wonder
   above_the_campus:
     photographer: Berett Wilber
     image: 6
+    alt: North Pacific Hall, Sheldon Jackson Campus
   footer:
     photographer: Ben Adams
     image: 5
+    alt: Fishing boat
 faq_page:
   top:
     - photographer: Berett Wilber
       image: 10
+      alt: Olga and Neva straits
 who_we_are_page:
   top:
     - photographer: James Poulson
       image: 11
+      alt: Harbor in Sitka
 about_us_page:
   top:
     - photographer: Berett Wilber
       image: 4
+      alt: Bridge and mountains in blue light

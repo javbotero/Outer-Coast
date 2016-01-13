@@ -1,5 +1,5 @@
 {% assign image_file = include.image.photographer | downcase | append: " " | append: include.image.image | replace: " ", "-" | append: ".jpg" %}
-<img class="materialboxed" width="75%" src="{{ site.imagesurl }}{{ image_file }}">
+<img class="materialboxed" width="75%" src="{{ site.imagesurl }}{{ image_file }}" alt="{{ include.image.alt }}. Credit: {{ include.image.photographer }}.">
 <div class="caption materialboxed-caption right-align">
   <span class="content">&copy; {{ include.image.photographer }}</span>
 </div>
