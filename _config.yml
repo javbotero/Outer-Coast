@@ -21,3 +21,4 @@ github_username:  javbotero
 
 # Build settings
 markdown: kramdown
+exclude: [vendor] # For travis: http://jekyllrb.com/docs/continuous-integration/
