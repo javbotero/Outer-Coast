@@ -126,9 +126,11 @@ p {
 
 .first-p::first-line {
   font-size: 1.3rem;
+  color: #424242 !important;
 }
 
 .first-p::first-letter {
+  font-weight: normal;
   font-size: 2.8rem;
   line-height: 2rem;
   margin-right: -.2rem;
