@@ -13,6 +13,7 @@ deploy:
   secret_access_key:
     secure: duT/lY4VRiEncu8rdN5wQcChI3YZwD85uD9FQw7vlsLtsLLmtcT04/KHR4MmQN0e/KCrQS0P+iofLTBxg8i5ay5kFeoskuLYRfVWYP0vIVvyzDNOY3BpUE7FP87+54HOz/b37wd/WM1WOKv/+6XdxW5bwq3jOvvELo4BpQdgRbinV3nC0JMk9GN9B7rHQvIqKpqp1LiqmKRtp8AIEnxErnMvZ6ONiuqVC+fZ1t5a93BSeOH0N5t1PY3/aK3j6bj7+bZo8dZykbFR6/yS5EqVvw3pohxp3my0JmFVW5JJxsPV2mEHA1dGSVSOgL7vJllGMgVBa+SrPz+uQcUC8gltMKA6/bnXlUibVog4fNgLjk+Susk7NGHoIFsANOF8Uca6RIgIVkJkopZDKHc24VS8oG6Kbql+EEM4pHm9PkPyFJk2N1hZqyOhp5/VL4darwkCxDvdNeO9JxeiAJNiX9OTEpDWlKa9SViPieKdSRyA3asaJFPcKoKvCOsibaBGJWYED4dfxjxsCXs4WREMsJMtZQrogsDP5e1WEwSzaPWCGiDifRq43No9R8mmG2t1XEpMCpmN3p/2wlo2o4exSaXwLCh+kHc30EkgcV4I4DPTUL/yQQ5z/341I3zRalApQVXlnG4VCZPEFRPyTXFmFwX1gn/cPX3XnRs+VJszLdOAlUo=
   bucket: outercoast.org
+  region: us-west-2
   skip_cleanup: true
   local-dir: _site
   acl: public_read
