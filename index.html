@@ -7,146 +7,131 @@ published: true
 {% include slider.html photos=site.data.images.front_page.top %}
 
 <div class="main-section">
-
   <div class="container">
-    <h1 class="black-text text-darken-3">Outer Coast College</h1>
+    {% if site.data.front_page.title %}
+      <h1 class="black-text text-darken-3">{{ site.data.front_page.title }}</h1>
+    {% endif %}
 
-    <p class="lead">
-      What if we could start over with higher education?
-    </p>
+    {% if site.data.front_page.subtitle %}
+      <p class="lead">
+        {{ site.data.front_page.subtitle }}
+      </p>
+    {% endif %}
 
-    <p class="first-p">
-      <span class="grey-text text-darken-3">W<span class="bold">e love our colleges and universities.</span></span> After all, college is where we solidify our deepest beliefs and forge our dearest friendships. It’s where many of us proudly take responsibility for our lives for the first time. Long after graduation, we recall our college years with fondness.
-    </p>
+    {% if site.data.front_page.opening %}
+      {% if site.data.front_page.opening.pre_cards %}
+        <p class="first-p">
+          {{ site.data.front_page.opening.pre_cards | newline_to_br }}
+        </p>
+      {% endif %}
 
-    <p>
-      But many of us know that these rosy feelings mask the truth about higher education in the United States&mdash;that it’s showing its wear. Crises loom:
-    </p>
+      {% if site.data.front_page.opening.cards %}
+        {% for card in site.data.front_page.opening.cards %}
+          <div class="card z-depth-0 grey lighten-4">
+            <div class="card-content">
+              <span class="card-title blue-grey-text text-darken-2"><em>{{ card.title }}</em></span>
+              <p>{{ card.content | newline_to_br }}</p>
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
 
-    <div class="card z-depth-0 grey lighten-4">
-      <div class="card-content">
-        <span class="card-title blue-grey-text text-darken-2"><em>1) Quality:</em></span>
-        <p>At many colleges and universities <a class="blue-text text-lighten-1" href="http://www.press.uchicago.edu/ucp/books/book/chicago/A/bo10327226.html" target="_blank">students simply aren't learning</a>...</p>
+      {% if site.data.front_page.opening.post_cards %}
+        <p>
+          {{ site.data.front_page.opening.post_cards | newline_to_br }}
+        </p>
+      {% endif %}
+  {% endif %}
+
+    </div>
+  </div>
+
+  {% if site.data.front_page.opening %}
+    <div class="center">
+      {% include img-materialboxed.html image=site.data.images.front_page.above_three_pillars %}
+    </div>
+  {% endif %}
+
+  {% if site.data.front_page.pillars_section %}
+    <div class="main-section">
+      <div class="container">
+        <div class="divider"> </div>
+
+        {% if site.data.front_page.pillars_section.title %}
+          <h2>{{ site.data.front_page.pillars_section.title }}</h2>
+        {% endif %}
+
+        {% if site.data.front_page.pillars_section.pre_cards %}
+          <p>{{ site.data.front_page.pillars_section.pre_cards | newline_to_br }}</p>
+        {% endif %}
+
+        {% if site.data.front_page.pillars_section.cards %}
+          <p>
+            <div class="row">
+              <div class="col s12 m6">
+                <div class="card blue-grey lighten-2 secondary-card">
+                  <div class="card-content white-text">
+                    <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[0].title }}</em></span>
+                    <p>{{ site.data.front_page.pillars_section.cards[0].content | newline_to_br }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col s12 m6">
+                <div class="card blue-grey lighten-2 secondary-card">
+                  <div class="card-content white-text">
+                    <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[1].title }}</em></span>
+                    <p>{{ site.data.front_page.pillars_section.cards[1].content | newline_to_br }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col s12">
+                <div class="card blue-grey lighten-2 secondary-card">
+                  <div class="card-content white-text">
+                    <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[2].title }}</em></span>
+                    <p>{{ site.data.front_page.pillars_section.cards[2].content | newline_to_br }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </p>
+        {% endif %}
+
+        {% if site.data.front_page.pillars_section.post_cards %}
+          <p>{{ site.data.front_page.pillars_section.post_cards | newline_to_br }}</p>
+        {% endif %}
+
       </div>
     </div>
-    <div class="card z-depth-0 grey lighten-4">
-      <div class="card-content">
-        <span class="card-title blue-grey-text text-darken-2"><em>2) Cost:</em></span>
-        <p>...while the price of a college education <a class="blue-text text-lighten-1" href="http://tcftakingnote.typepad.com/.a/6a00e54ffb969888330168e965d8c7970c-pi" target="_blank">continues to skyrocket</a>.</p>
-      </div>
+  {% endif %}
+
+  {% if site.data.front_page.campus_section %}
+    <div class="center">
+      {% include img-materialboxed.html image=site.data.images.front_page.above_the_campus %}
     </div>
-
-    <p>
-      <a class="blue-grey-text body-link" href="http://www.youtube.com/watch?v=eLdU7uts4ws" target="_blank">Films</a> have been shot, <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college" target="_blank">articles</a> have been written, <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college" target="_blank">bills</a> have been passed. But these problems persist, to the point where they can seem intractable.
-    </p>
-
-    <p>
-      We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
-    </p>
-
-    </div>
-  </div>
-
-  <div class="center">
-    {% include img-materialboxed.html image=site.data.images.front_page.above_three_pillars %}
-  </div>
-
-  <div class="main-section">
-    <div class="container">
-      <div class="divider"> </div>
-
-      <h2>Three Pillars</h2>
-
-      <p>
-        Outer Coast College is a nascent two-year institution of higher education in Sitka, Alaska. Our curriculum is one for the whole person, built upon the three pillars of <strong>Academics</strong>, <strong>Service &amp; Labor</strong>, and <strong>Self-governance</strong>.
-      </p>
-
-      <p>
-        We draw our inspiration from <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2006/09/04/the-searchers-2" target="_blank">Deep Springs College</a>, a small and remarkable postsecondary institution nestled in a quiet valley just east of the Sierra Nevada. Although a remarkably successful and admired educational institution, nearly a century after its founding Deep Springs remains the only college of its kind.
-      </p>
-
-      <p>
-        <div class="row">
-          <div class="col s12 m6">
-            <div class="card blue-grey lighten-2 secondary-card">
-              <div class="card-content white-text">
-                <span class="card-title"><em>Self-governance</em></span>
-                <p>As at Deep Springs, Outer Coast College students self-govern. Students hire faculty, determine curriculum and course offerings, serve on the Board of Trustees, legislate academic and student life policies, and serve as the admissions committee to select incoming classes.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col s12 m6">
-            <div class="card blue-grey lighten-2 secondary-card">
-              <div class="card-content white-text">
-                <span class="card-title"><em>Academics</em></span>
-                <p>Outer Coast College provides a rigorous liberal arts environment, in which a sincere appreciation for learning and intellectual inquiry is encouraged. Excellence in pedagogy and student scholarship are hallmarks of the college.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col s12">
-            <div class="card blue-grey lighten-2 secondary-card">
-              <div class="card-content white-text">
-                <span class="card-title"><em>Service &amp; Labor</em></span>
-                <p>We believe in the value of labor as soulcraft and the power of service as a moral education that can instill a lifelong obligation of service to society. Students assume a labor responsibility to sustain the college’s day-to-day operations: running the kitchen and dining hall; growing and harvesting food (vegetables from the garden, salmon from the ocean, etc.); a “work crew,” guided by a foreman-carpenter, that assists with the historic restoration and rehabilitation of Sheldon Jackson Campus’s 100-year-old buildings; and the important work of dishwashing and custodial upkeep. Similarly, students rotate through service positions and apprenticeships with organizations in the community, contributing to Sitka and its vibrant culture.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </p>
-
-      <p>
-        Today's universities function more as sprawling conglomerates than as schools: they manage multi-million-dollar athletic programs, police departments, hospitals, science research facilities, massive food and residential services operations, and sprawling real estate portfolios. Meanwhile, the academic job market often discourages great teaching by providing incentives for faculty to focus primarily on research.
-      </p>
-
-      <p>
-        Outer Coast is a relentlessly student-focused institution. Excellence in scholarship is different from excellence in teaching. Outer Coast College faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast College, excellence in teaching is the expectation.
-      </p>
-
-      <p>
-        After two years Outer Coast students transfer to four-year institutions, where they can take advantage of the resources of a larger institution. This model aspires to be the “best of the both worlds”: students can complete a robust two-year liberal arts education without crippling debt, then transition into two years of a traditional undergraduate education with a far clearer sense of themselves.
-      </p>
-
-    </div>
-  </div>
-
-  <div class="center">
-    {% include img-materialboxed.html image=site.data.images.front_page.above_the_campus %}
-  </div>
+  {% endif %}
 
   <div class="main-section">
       <div class="container">
-      <div class="divider"> </div>
 
-      <h2>The Campus</h2>
+      {% if site.data.front_page.campus_section %}
+        <div class="divider"> </div>
+        <h2>{{ site.data.front_page.campus_section.title }}</h2>
+        <p>{{ site.data.front_page.campus_section.content | newline_to_br }}</p>
+      {% endif %}
 
-      <p>
-        Founded in 1878, Sheldon Jackson College was the oldest institution of higher learning in Alaska until its closure in 2007. Title to the deteriorating campus was transferred to the nationally recognized Sitka Fine Arts Camp.
-      </p>
-
-      <p>
-        In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the community of Sitka rallied to rejuvenate the campus in the largest singular volunteer effort in the history of Alaska.
-      </p>
-
-      <p>
-        Today, the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
-      </p>
-
-      <div class="divider"> </div>
-
-      <h2><em>Join us!</em></h2>
-
-      <p>
-        We’re working toward a new, scalable model for higher education. We think we’re off to a pretty great start.
-      </p>
-
-      <p>
-        <div class="center-align bottom-appeal">
-          <a href="#modal1" class="waves-effect waves-default btn white grey-text text-darken-4 modal-trigger">Click here if you’d like to be involved in any way</a>
-        </div>
-      </p>
+      {% if site.data.front_page.contact_us_section %}
+        <div class="divider"> </div>
+        <h2>{{ site.data.front_page.contact_us_section.title }}</h2>
+        <p>{{ site.data.front_page.contact_us_section.content | newline_to_br }}</p>
+        <p>
+          <div class="center-align bottom-appeal">
+            <a href="#modal1" class="waves-effect waves-default btn white grey-text text-darken-4 modal-trigger">{{ site.data.front_page.contact_us_section.button_text }}</a>
+          </div>
+        </p>
+      {% endif %}
     </div>
   </div>
 

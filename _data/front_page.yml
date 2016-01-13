@@ -1,0 +1,48 @@
+title: Outer Coast College
+subtitle: What if we could start over with higher education?
+opening:
+  pre_cards: |
+    <span class="grey-text text-darken-3">W<span class="bold">e love our colleges and universities.</span></span> After all, college is where we solidify our deepest beliefs and forge our dearest friendships. It’s where many of us proudly take responsibility for our lives for the first time. Long after graduation, we recall our college years with fondness.
+
+    But many of us know that these rosy feelings mask the truth about higher education in the United States&mdash;that it’s showing its wear. Crises loom:
+  post_cards: |
+      <a class="blue-grey-text body-link" href="http://www.youtube.com/watch?v=eLdU7uts4ws" target="_blank">Films</a> have been shot, <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college" target="_blank">articles</a> have been written, <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college" target="_blank">bills</a> have been passed. But these problems persist, to the point where they can seem intractable.
+
+      We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
+  cards:
+    - title: 1) Quality&colon;
+      content: At many colleges and universities <a class="blue-text text-lighten-1" href="http://www.press.uchicago.edu/ucp/books/book/chicago/A/bo10327226.html" target="_blank">students simply aren't learning</a>...
+    - title: 2) Cost&colon;
+      content: ...while the price of a college education <a class="blue-text text-lighten-1" href="http://tcftakingnote.typepad.com/.a/6a00e54ffb969888330168e965d8c7970c-pi" target="_blank">continues to skyrocket</a>.
+pillars_section:
+  title: Three Pillars
+  pre_cards: |
+    Outer Coast College is a nascent two-year institution of higher education in Sitka, Alaska. Our curriculum is one for the whole person, built upon the three pillars of <strong>Academics</strong>, <strong>Service &amp; Labor</strong>, and <strong>Self-governance</strong>.
+
+    We draw our inspiration from <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2006/09/04/the-searchers-2" target="_blank">Deep Springs College</a>, a small and remarkable postsecondary institution nestled in a quiet valley just east of the Sierra Nevada. Although a remarkably successful and admired educational institution, nearly a century after its founding Deep Springs remains the only college of its kind.
+  post_cards: |
+    Today's universities function more as sprawling conglomerates than as schools: they manage multi-million-dollar athletic programs, police departments, hospitals, science research facilities, massive food and residential services operations, and sprawling real estate portfolios. Meanwhile, the academic job market often discourages great teaching by providing incentives for faculty to focus primarily on research.
+
+    Outer Coast is a relentlessly student-focused institution. Excellence in scholarship is different from excellence in teaching. Outer Coast College faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast College, excellence in teaching is the expectation.
+
+    After two years Outer Coast students transfer to four-year institutions, where they can take advantage of the resources of a larger institution. This model aspires to be the “best of the both worlds”: students can complete a robust two-year liberal arts education without crippling debt, then transition into two years of a traditional undergraduate education with a far clearer sense of themselves.
+  cards:
+    - title: Self-governance
+      content: As at Deep Springs, Outer Coast College students self-govern. Students hire faculty, determine curriculum and course offerings, serve on the Board of Trustees, legislate academic and student life policies, and serve as the admissions committee to select incoming classes.
+    - title: Academics
+      content: Outer Coast College provides a rigorous liberal arts environment, in which a sincere appreciation for learning and intellectual inquiry is encouraged. Excellence in pedagogy and student scholarship are hallmarks of the college.
+    - title: Service &amp; Labor
+      content: We believe in the value of labor as soulcraft and the power of service as a moral education that can instill a lifelong obligation of service to society. Students assume a labor responsibility to sustain the college’s day-to-day operations&colon; running the kitchen and dining hall; growing and harvesting food (vegetables from the garden, salmon from the ocean, etc.); a “work crew,” guided by a foreman-carpenter, that assists with the historic restoration and rehabilitation of Sheldon Jackson Campus’s 100-year-old buildings; and the important work of dishwashing and custodial upkeep. Similarly, students rotate through service positions and apprenticeships with organizations in the community, contributing to Sitka and its vibrant culture.
+campus_section:
+  title: The Campus
+  content: |
+    Founded in 1878, Sheldon Jackson College was the oldest institution of higher learning in Alaska until its closure in 2007. Title to the deteriorating campus was transferred to the nationally recognized Sitka Fine Arts Camp.
+
+    In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the community of Sitka rallied to rejuvenate the campus in the largest singular volunteer effort in the history of Alaska.
+
+    Today, the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
+contact_us_section:
+  title: <em>Join us!</em>
+  content: |
+    We’re working toward a new, scalable model for higher education. We think we’re off to a pretty great start.
+  button_text: Click here if you’d like to be involved in any way
