@@ -6,15 +6,15 @@ front_page:
     - photographer: James Poulson
       image: 2
       alt: Bridge in front of mountains
-    - photographer: Berett Wilber
-      image: 7
-      alt: Sea and mountains
     - photographer: Kendall Rock
       image: 1
       alt: People hiking into mist
     - photographer: Berett Wilber
       image: 5
       alt: Town of Sitka
+    - photographer: Berett Wilber
+      image: 11
+      alt: Esther on the Dryas
     - photographer: James Poulson
       image: 7
       alt: Ocean breaking between rocks
@@ -30,9 +30,6 @@ front_page:
     - photographer: Ben Adams
       image: 3
       alt: Salmon
-    - photographer: Berett Wilber
-      image: 9
-      alt: Woman in life jacket on boat
   above_three_pillars:
     photographer: Berett Wilber
     image: 1
