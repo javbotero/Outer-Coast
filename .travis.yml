@@ -19,3 +19,9 @@ deploy:
   acl: public_read
   on:
     repo: javbotero/Outer-Coast-College
+notifications:
+  email:
+    recipients:
+      - javier.botero@gmail.com
+    on_success: always
+    on_failure: always
