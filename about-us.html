@@ -9,10 +9,42 @@ published: true
 
 <div class="main-section">
   <div class="container">
-    <h3 class="collaborators center-align"><em>Mission Statement</em></h3>
-    <div class="divider"> </div>
 
-    <p>{{ site.data.statements.mission_statement }}</p>
+    <h1 class="black-text text-darken-3">About us</h1>
+
+    {% if site.data.statements.project_history %}
+      {% if site.data.statements.project_history.title %}
+        <h4 class="collaborators center-align"><em>{{ site.data.statements.project_history.title }}</em></h4>
+        <!-- <div class="divider"> </div> -->
+      {% endif %}
+      <p>{{ site.data.statements.project_history.text | newline_to_br }}</p>
+    {% endif %}
+
+    {% if site.data.statements.project_history %}
+        </div>
+      </div>
+
+      {% if site.data.images.about_us_page.after_project_history %}
+        <div class="center">
+          {% include img-materialboxed.html image=site.data.images.about_us_page.after_project_history %}
+        </div>
+      {% endif %}
+
+      <div class="main-section">
+        <div class="container">
+          <div class="divider"> </div>
+    {% endif %}
+
+    {% if site.data.statements.mission_statement %}
+      {% if site.data.statements.mission_statement.title %}
+        <h4 class="center-align"><em>{{ site.data.statements.mission_statement.title }}</em></h4>
+        <!-- <div class="divider"> </div> -->
+      {% endif %}
+      <p>{{ site.data.statements.mission_statement.text | newline_to_br }}</p>
+
+      <br/>
+    {% endif %}
+
 
     <br/><br/>
     <br/><br/>
