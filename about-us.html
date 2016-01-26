@@ -12,13 +12,16 @@ published: true
 
     <h1 class="black-text text-darken-3">About us</h1>
 
-    {% if site.data.statements.project_history %}
-      {% if site.data.statements.project_history.title %}
-        <h4 class="collaborators center-align"><em>{{ site.data.statements.project_history.title }}</em></h4>
+    {% if site.data.statements.mission_statement %}
+      {% if site.data.statements.mission_statement.title %}
+        <h4 class="center-align"><em>{{ site.data.statements.mission_statement.title }}</em></h4>
         <!-- <div class="divider"> </div> -->
       {% endif %}
-      <p>{{ site.data.statements.project_history.text | newline_to_br }}</p>
+      <p>{{ site.data.statements.mission_statement.text | newline_to_br }}</p>
+
+      <br/>
     {% endif %}
+
 
     {% if site.data.statements.project_history %}
         </div>
@@ -35,16 +38,13 @@ published: true
           <div class="divider"> </div>
     {% endif %}
 
-    {% if site.data.statements.mission_statement %}
-      {% if site.data.statements.mission_statement.title %}
-        <h4 class="center-align"><em>{{ site.data.statements.mission_statement.title }}</em></h4>
+    {% if site.data.statements.project_history %}
+      {% if site.data.statements.project_history.title %}
+        <h4 class="collaborators center-align"><em>{{ site.data.statements.project_history.title }}</em></h4>
         <!-- <div class="divider"> </div> -->
       {% endif %}
-      <p>{{ site.data.statements.mission_statement.text | newline_to_br }}</p>
-
-      <br/>
+      <p>{{ site.data.statements.project_history.text | newline_to_br }}</p>
     {% endif %}
-
 
     <br/><br/>
     <br/><br/>
