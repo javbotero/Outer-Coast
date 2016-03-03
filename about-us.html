@@ -18,9 +18,17 @@ published: true
         <!-- <div class="divider"> </div> -->
       {% endif %}
       <p>{{ site.data.statements.mission_statement.text | newline_to_br }}</p>
-
-      <br/>
     {% endif %}
+
+    {% if site.data.statements.who_we_serve %}
+      {% if site.data.statements.who_we_serve.title %}
+        <h4 class="center-align"><em>{{ site.data.statements.who_we_serve.title }}</em></h4>
+        <!-- <div class="divider"> </div> -->
+      {% endif %}
+      <p>{{ site.data.statements.who_we_serve.text | newline_to_br }}</p>
+    {% endif %}
+
+    <br/>
 
 
     {% if site.data.statements.project_history %}
@@ -35,7 +43,7 @@ published: true
 
       <div class="main-section">
         <div class="container">
-          <div class="divider"> </div>
+          <!-- <div class="divider"> </div> -->
     {% endif %}
 
     {% if site.data.statements.project_history %}
