@@ -1,14 +1,4 @@
-title: Outer Coast College
-subtitle: What if we could start over with higher education?
 opening:
-  pre_cards: |
-    W<span class="bold">e love our colleges and universities.</span> After all, college is where we solidify our deepest beliefs and forge our dearest friendships. It’s where many of us proudly take responsibility for our lives for the first time. Long after graduation, we recall our college years with fondness.
-
-    But many of us know that these rosy feelings mask the truth about higher education in the United States&mdash;that it’s showing its wear. Crises loom:
-  post_cards: |
-      <a class="blue-grey-text body-link" href="http://www.youtube.com/watch?v=eLdU7uts4ws" target="_blank">Films</a> have been shot, <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college" target="_blank">articles</a> have been written, <a class="blue-grey-text body-link" href="http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college" target="_blank">bills</a> have been passed. But these problems persist, to the point where they can seem intractable.
-
-      We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
   cards:
     - title: 1) Quality&colon;
       content: At many colleges and universities <a class="blue-text text-lighten-1" href="http://www.press.uchicago.edu/ucp/books/book/chicago/A/bo10327226.html" target="_blank">students simply aren't learning</a>...
@@ -34,7 +24,4 @@ pillars_section:
     - title: Service &amp; Labor
       content: We believe in the value of labor as soulcraft and the power of service as a moral education that can instill a lifelong obligation of service to society. Students assume a labor responsibility to sustain the college’s day-to-day operations&colon; running the kitchen and dining hall; growing and harvesting food (vegetables from the garden, salmon from the ocean, etc.); a “work crew,” guided by a foreman-carpenter, that assists with the historic restoration and rehabilitation of Sheldon Jackson Campus’s 100-year-old buildings; and the important work of dishwashing and custodial upkeep. Similarly, students rotate through service positions and apprenticeships with organizations in the community, contributing to Sitka and its vibrant culture.
 contact_us_section:
-  title: <em>Join us!</em>
-  content: |
-    We’re working toward a new, scalable model for higher education. We think we’re off to a pretty great start.
   button_text: Contact us
