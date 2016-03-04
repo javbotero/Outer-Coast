@@ -136,6 +136,10 @@ p {
   font-weight: bold;
 }
 
+.first-p {
+  font-size: 1.1rem;
+}
+
 .first-p::first-line {
   font-size: 1.3rem;
   color: #424242 !important;
