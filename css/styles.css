@@ -8,6 +8,18 @@ p {
   margin: 1.7em 0 1.7em 0;
 }
 
+h4 {
+  font-style: italic;
+  text-align: center;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
 .hidden {
   display: none;
 }
@@ -193,10 +205,45 @@ a.btn:hover {
 
 
 
+/* Index page */
+
+.index-page h3 {
+  text-align: center;
+  font-size: 2em;
+  margin: 0 0 2.6rem 0;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+}
+
+.index-page a {
+  color: #607d8b;
+  font-style: italic;
+}
+
+/* FAQ page */
+
+.faq-page {
+  padding-bottom: 3em;
+}
+
+.faq-page h3 {
+  margin-top: 2.5em;
+  font-size: 1.4em;
+  font-style: italic;
+}
+
+.faq-page a {
+  color: #607d8b;
+  font-style: italic;
+}
+
+
 /* Team page */
 
 
 h4.collaborators {
+  font-style: normal;
   text-align: center;
   margin-top: 1rem;
 }

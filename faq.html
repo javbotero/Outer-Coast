@@ -5,17 +5,11 @@ title: FAQ
 
 {% include slider.html photos=site.data.images.faq_page.top %}
 
-<div class="main-section">
+<div class="main-section faq-page">
   <div class="container">
-    <h1 class="black-text text-darken-3">F.A.Q.</h1>
-    <div class="divider"> </div>
 
-    {% for faq in site.data.faq.questions %}
-      <div class="faq-question">
-        <h3>{{ faq.question }}</h3>
-        <p>{{ faq.answer | newline_to_br }}</p>
-      </div>
-    {% endfor %}
+    {% capture my-include %}{% include faq.md %}{% endcapture %}
+    {{ my-include | markdownify }}
 
   </div>
 </div>

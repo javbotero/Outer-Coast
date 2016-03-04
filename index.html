@@ -6,135 +6,14 @@ published: true
 
 {% include slider.html photos=site.data.images.front_page.top %}
 
-<div class="main-section">
+<div class="main-section index-page">
   <div class="container">
-    {% if site.data.front_page.title %}
-      <h1 class="black-text text-darken-3">{{ site.data.front_page.title }}</h1>
-    {% endif %}
 
-    {% if site.data.front_page.subtitle %}
-      <p class="lead">
-        {{ site.data.front_page.subtitle }}
-      </p>
-    {% endif %}
+    {% capture my-include %}{% include index.md %}{% endcapture %}
+    {{ my-include | markdownify }}
 
-    {% if site.data.front_page.opening %}
-      {% if site.data.front_page.opening.pre_cards %}
-        <p class="first-p">
-          {{ site.data.front_page.opening.pre_cards | newline_to_br }}
-        </p>
-      {% endif %}
 
-      {% if site.data.front_page.opening.cards %}
-        {% for card in site.data.front_page.opening.cards %}
-          <div class="card z-depth-0 grey lighten-4">
-            <div class="card-content">
-              <span class="card-title blue-grey-text text-darken-2"><em>{{ card.title }}</em></span>
-              <p>{{ card.content | newline_to_br }}</p>
-            </div>
-          </div>
-        {% endfor %}
-      {% endif %}
-
-      {% if site.data.front_page.opening.post_cards %}
-        <p>
-          {{ site.data.front_page.opening.post_cards | newline_to_br }}
-        </p>
-      {% endif %}
-  {% endif %}
-
-    </div>
   </div>
-
-  {% if site.data.front_page.opening %}
-    <div class="center">
-      {% include img-materialboxed.html image=site.data.images.front_page.above_three_pillars %}
-    </div>
-  {% endif %}
-
-  {% if site.data.front_page.pillars_section %}
-    <div class="main-section">
-      <div class="container">
-        <div class="divider"> </div>
-
-        {% if site.data.front_page.pillars_section.title %}
-          <h2>{{ site.data.front_page.pillars_section.title }}</h2>
-        {% endif %}
-
-        {% if site.data.front_page.pillars_section.pre_cards %}
-          <p>{{ site.data.front_page.pillars_section.pre_cards | newline_to_br }}</p>
-        {% endif %}
-
-        {% if site.data.front_page.pillars_section.cards %}
-          <p>
-            <div class="row">
-              <div class="col s12 m6">
-                <div class="card blue-grey lighten-2 secondary-card">
-                  <div class="card-content white-text">
-                    <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[0].title }}</em></span>
-                    <p>{{ site.data.front_page.pillars_section.cards[0].content | newline_to_br }}</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col s12 m6">
-                <div class="card blue-grey lighten-2 secondary-card">
-                  <div class="card-content white-text">
-                    <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[1].title }}</em></span>
-                    <p>{{ site.data.front_page.pillars_section.cards[1].content | newline_to_br }}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col s12">
-                <div class="card blue-grey lighten-2 secondary-card">
-                  <div class="card-content white-text">
-                    <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[2].title }}</em></span>
-                    <p>{{ site.data.front_page.pillars_section.cards[2].content | newline_to_br }}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </p>
-        {% endif %}
-
-        {% if site.data.front_page.pillars_section.post_cards %}
-          <p>{{ site.data.front_page.pillars_section.post_cards | newline_to_br }}</p>
-        {% endif %}
-
-      </div>
-    </div>
-  {% endif %}
-
-  {% if site.data.front_page.campus_section %}
-    <div class="center">
-      {% include img-materialboxed.html image=site.data.images.front_page.above_the_campus %}
-    </div>
-  {% endif %}
-
-  <div class="main-section">
-      <div class="container">
-
-      {% if site.data.front_page.campus_section %}
-        <div class="divider"> </div>
-        <h2>{{ site.data.front_page.campus_section.title }}</h2>
-        <p>{{ site.data.front_page.campus_section.content | newline_to_br }}</p>
-      {% endif %}
-
-      {% if site.data.front_page.contact_us_section %}
-        <div class="divider"> </div>
-        <h2>{{ site.data.front_page.contact_us_section.title }}</h2>
-        <p>{{ site.data.front_page.contact_us_section.content | newline_to_br }}</p>
-        <p>
-          <div class="center-align bottom-appeal">
-            <a href="#modal1" class="waves-effect waves-default btn white grey-text text-darken-4 modal-trigger">{{ site.data.front_page.contact_us_section.button_text }}</a>
-          </div>
-        </p>
-      {% endif %}
-    </div>
-  </div>
-
-  {% include img-parallax.html image=site.data.images.front_page.footer %}
-
 </div>
+
+{% include img-parallax.html image=site.data.images.front_page.footer %}

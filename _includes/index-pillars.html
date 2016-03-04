@@ -1,0 +1,33 @@
+{% if site.data.front_page.pillars_section.cards %}
+  <p>
+    <div class="row">
+      <div class="col s12 m6">
+        <div class="card blue-grey lighten-2 secondary-card">
+          <div class="card-content white-text">
+            <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[0].title }}</em></span>
+            <p>{{ site.data.front_page.pillars_section.cards[0].content | newline_to_br }}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6">
+        <div class="card blue-grey lighten-2 secondary-card">
+          <div class="card-content white-text">
+            <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[1].title }}</em></span>
+            <p>{{ site.data.front_page.pillars_section.cards[1].content | newline_to_br }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s12">
+        <div class="card blue-grey lighten-2 secondary-card">
+          <div class="card-content white-text">
+            <span class="card-title"><em>{{ site.data.front_page.pillars_section.cards[2].title }}</em></span>
+            <p>{{ site.data.front_page.pillars_section.cards[2].content | newline_to_br }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </p>
+{% endif %}

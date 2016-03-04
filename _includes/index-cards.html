@@ -1,0 +1,10 @@
+{% if site.data.front_page.opening.cards %}
+  {% for card in site.data.front_page.opening.cards %}
+<div class="card z-depth-0 grey lighten-4">
+  <div class="card-content">
+    <span class="card-title blue-grey-text text-darken-2"><em>{{ card.title }}</em></span>
+    <p>{{ card.content | newline_to_br }}</p>
+  </div>
+</div>
+  {% endfor %}
+{% endif %}
