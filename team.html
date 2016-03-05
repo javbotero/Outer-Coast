@@ -3,6 +3,8 @@ layout: default
 title: Who We Are
 ---
 
+<script src="{{ "/js/team.js" | prepend: site.baseurl }}"></script>
+
 {% include slider.html photos=site.data.images.who_we_are_page.top %}
 
  <div class="main-section">
@@ -27,7 +29,7 @@ title: Who We Are
       <div class="col s12 m8 l9">
 
         {% for team in site.data.team.teams %}
-          <div id="{{ team.name | downcase | replace: " ", "-" }}-team" class="team{% if forloop.first == false %} hidden{% endif %}">
+          <div id="{{ team.name | slugify }}-team" class="team{% if forloop.first == false %} hidden{% endif %}">
             <h4 class="collaborators">{{ team.name }} Team</h4>
             {% if team.subtitle %}
               <h5 class="collaborators blue-grey-text text-darken-1">{{ team.subtitle }}</h5>
@@ -35,7 +37,7 @@ title: Who We Are
 
             <ul class="team-members">
               {% for member in team.members %}
-                <li>
+                <li id="{{ member.name | slugify }}">
                   <span class="team-member">{{ member.name }}</span> {{ member.bio }}
                 </li>
               {% endfor %}
