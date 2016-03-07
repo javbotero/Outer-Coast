@@ -25,6 +25,6 @@ In summer of 2014, Jonathan Kreiss-Tomkins and Roger Schmidt began discussing th
 
 In January of 2015, Jonathan visited Deep Springs College to explore the possibility of bringing the Deep Springs model to Sitka. At Deep Springs Jonathan met Will Hunt, a second year student who promptly committed to move to Sitka in the fall in order to examine the feasibility of creating a new Nunnian college on the Sheldon Jackson Campus.
 
-Jonathan, Will, and Javier Botero began working on the project in early September, 2015. In mid-November, the team organized a two-day meeting on the campus, inviting collaborators from Sitka, Alaska, and the lower 48 to review drafts of the curricular structure, accreditation timeline, admissions procedure, and much more.
+Jonathan, Will, and Javier Botero began working on the project in early September 2015. In mid-November, the team organized a two-day meeting on the campus, inviting collaborators from Sitka, Alaska, and the lower 48 to review drafts of the curricular structure, accreditation timeline, admissions procedure, and much more.
 
 Following the November meeting Stephanie Gilardi joined the primary collaborator team. The team of four created seven committees, collectively charged with overseeing all aspects of the college-building process, from accreditation to pedagogy to fundraising.
