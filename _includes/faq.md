@@ -8,7 +8,7 @@
 
 ### Do you have a campus?
 
-No, but we're talking about it! The nationally renowned Sitka Fine Arts Camp owns and is restoring the Sheldon Jackson Campus. We are both excited about the possibility of Outer Coast College on Sheldon Jackson Campus, but nothing is decided and there are many important details to work through.
+We're talking about it! The nationally renowned Sitka Fine Arts Camp owns and is restoring the Sheldon Jackson Campus. We are both excited about the possibility of Outer Coast College on Sheldon Jackson Campus, but nothing is decided and there are many important details to work through.
 
 ### Where is the campus?
 
