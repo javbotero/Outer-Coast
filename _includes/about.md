@@ -15,16 +15,16 @@ The student body of Outer Coast College will be national and international in br
 
 #### Brief History of the Project
 
-Founded in 1878, Sheldon Jackson College was the oldest institution of higher learning in Alaska until its closure in 2007. Title to the deteriorating campus was transferred to the nationally recognized Sitka Fine Arts Camp.
+Founded in 1878, Sheldon Jackson College was the oldest institution of higher learning in Alaska until its closure in 2007. At that time, title to the deteriorating campus was transferred to the nationally recognized Sitka Fine Arts Camp.
 
-In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the community of Sitka rallied to rejuvenate the campus in the largest singular volunteer effort in the history of Alaska.
+In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the community of Sitka rallied to restore the campus in perhaps the largest volunteer effort in the history of Alaska.
 
-Today, the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
+Today the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
 
-In summer of 2014, Jonathan Kreiss-Tomkins and Roger Schmidt began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp.
+In summer 2014 Jonathan Kreiss-Tomkins and Roger Schmidt began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp.
 
-In January of 2015, Jonathan visited Deep Springs College to explore the possibility of bringing the Deep Springs model to Sitka. At Deep Springs Jonathan met Will Hunt, a second year student who promptly committed to move to Sitka in the fall in order to examine the feasibility of creating a new Nunnian college on the Sheldon Jackson Campus.
+In January 2015 Jonathan visited Deep Springs College to explore adapting its model to Sitka. While there, Jonathan met Will Hunt, a second year student who subsequently committed to move to Sitka in the fall to join the effort to create a Deep Springs-inspired college on Sheldon Jackson Campus.
 
-Jonathan, Will, and Javier Botero began working on the project in early September 2015. In mid-November, the team organized a two-day meeting on the campus, inviting collaborators from Sitka, Alaska, and the lower 48 to review drafts of the curricular structure, accreditation timeline, admissions procedure, and much more.
+Full-time work to create the college began September 2015. A four-person principal team of Jonathan, Will, Stephanie Gilardi, and Javier Botero coalesced through the fall. In mid-November, the team organized a two-day convening on the campus, bringing together collaborators from Sitka, Alaska, and the Lower 48 to contribute to the vision of Outer Coast College.
 
-Following the November meeting Stephanie Gilardi joined the primary collaborator team. The team of four created seven committees, collectively charged with overseeing all aspects of the college-building process, from accreditation to pedagogy to fundraising.
+Through the fall and winter Jonathan, Will, Stephanie, and Javier created seven working committees, collectively charged with advancing the disparate work of creating a college, from accreditation to pedagogy to fundraising to admissions and recruitment. All aspects of the Outer Coast College project are actively progressing through present (March 2016).
