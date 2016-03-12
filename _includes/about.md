@@ -1,4 +1,4 @@
-# About Outer Coast College
+# About the College
 
 #### Mission Statement
 
