@@ -9,4 +9,13 @@ $(document).ready(function () {
     interval: 2100,
     transition: 800,
   });
+
+  // Make nav appear on scrolldown
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 250) {
+      $('nav').fadeIn(500);
+    } else {
+      $('nav').fadeOut(500);
+    }
+  });
 });

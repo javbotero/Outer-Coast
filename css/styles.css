@@ -124,8 +124,31 @@ footer.page-footer {
   margin: 0;
 }
 
+.dropdown-content {
+  width: 16rem !important;
+}
+
+nav {
+  filter: alpha(opacity=90);
+  opacity: 0.90;
+  position: fixed;
+  z-index: 10;
+}
+
+nav .brand-logo {
+  margin-left: .5em;
+}
+
 nav .brand-logo, nav ul a {
   color: #4C4C4C;
+}
+
+nav li {
+  margin: 0;
+}
+
+nav li a:hover {
+  text-decoration: none;
 }
 
 p {
