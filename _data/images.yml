@@ -61,3 +61,8 @@ about_us_page:
     photographer: Berett Wilber
     image: 6
     alt: North Pacific Hall, Sheldon Jackson Campus
+blog_page:
+  top:
+    - photographer: Berett Wilber
+      image: 6
+      alt: North Pacific Hall, Sheldon Jackson Campus

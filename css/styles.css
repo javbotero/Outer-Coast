@@ -306,6 +306,63 @@ h5.collaborators {
 }
 
 
+/* Blog */
+.blog-page h1 {
+  font-size: 3.2rem !important;
+}
+
+.blog-page a h2 {
+  font-style: normal;
+}
+
+.blog-post h2 {
+  font-style: normal;
+  font-size: 3rem;
+}
+
+.blog-post.blog-post-excerpt h2 {
+  font-size: 2.1rem;
+}
+
+.blog-post h3 {
+  font-size: 2.5rem;
+  line-height: 130%;
+}
+.blog-post h4 {
+  font-size: 2rem;
+  font-style: normal;
+  text-align: left;
+}
+
+.blog-post ul {
+  /* doesn't work for some reason
+  list-style-type: bullet !important;*/
+}
+
+.blog-post ul li {
+  font-size: 1.1rem;
+}
+
+.blog-post ul li::before {
+  content: '\2022  ';
+}
+
+.blog-post-excerpt:first-child {
+  border-top: none;
+}
+
+.blog-post-excerpt {
+  border-top: .1em solid #cccccc;
+  margin: 2em 0;
+}
+
+.blog-post img {
+  max-height: 60rem;
+  max-width: 100%;
+}
+
+
+
 /* FAQ page */
 .faq-question {
   margin-bottom: 2.5em;

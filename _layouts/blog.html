@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="white">
+
+    <!-- {% include header.html %} -->
+
+    <main>
+      {% include slider.html photos=site.data.images.blog_page.top %}
+
+      <div class="main-section">
+        <div class="container">
+          <div class="blog-post">
+            <h3>{{ page.title }}</h3>
+            <p>
+              <em>{{ page.date | date_to_long_string }}</em>
+            </p>
+            {{ content }}
+            <hr/>
+            <p>
+              <a href="{{ site.root }}/blog.html">&lt;&lt; Back to the blog</a>
+            </p>
+          </hr/>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    {% include contact-us-modal.html %}
+
+  </body>
+
+</html>
