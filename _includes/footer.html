@@ -6,7 +6,7 @@
         <ul>
           {% for link in site.data.footer.links %}
             {% if page.path != link.page %}
-              <li><a class="white-text" href="{{ link.page }}">{{ link.name }}</a></li>
+              <li><a class="white-text" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
             {% endif %}
           {% endfor %}
           <li><a class="white-text modal-trigger" href="#modal1">Contact Us</a></li>
