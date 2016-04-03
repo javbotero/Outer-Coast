@@ -1,0 +1,18 @@
+top:
+  - name: About
+    page: about-us.html
+  - name: F.A.Q.
+    page: faq.html
+  - name: News
+    page: news.html
+  - name: Who We Are
+    page: team.html
+footer:
+  - name: About the College
+    page: about-us.html
+  - name: F.A.Q.
+    page: faq.html
+  - name: News
+    page: news.html
+  - name: Who We Are
+    page: team.html

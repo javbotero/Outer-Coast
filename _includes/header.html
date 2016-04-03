@@ -1,5 +1,5 @@
 <ul id="dropdown1" class="dropdown-content">
-  {% for link in site.data.footer.links %}
+  {% for link in site.data.nav.top %}
     {% if page.path != link.page %}
       <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
     {% endif %}
@@ -16,7 +16,7 @@
     </ul>
 
     <ul class="right hide-on-med-and-down">
-      {% for link in site.data.footer.links %}
+      {% for link in site.data.nav.top %}
         {% if page.path != link.page %}
           <li><a class="blue-grey-text text-darken-2" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
         {% endif %}

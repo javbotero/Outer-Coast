@@ -4,7 +4,7 @@
       <div class="col l6 s12">
         <h5 class="white-text">Further Reading</h5>
         <ul>
-          {% for link in site.data.footer.links %}
+          {% for link in site.data.nav.footer %}
             {% if page.path != link.page %}
               <li><a class="white-text" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
             {% endif %}
