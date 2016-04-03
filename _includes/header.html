@@ -1,31 +1,31 @@
 <ul id="dropdown1" class="dropdown-content">
   {% for link in site.data.footer.links %}
     {% if page.path != link.page %}
-      <li><a href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
+      <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
     {% endif %}
   {% endfor %}
-  <li><a class="modal-trigger" href="#modal1">Contact Us</a></li>
+  <li><a class="modal-trigger blue-grey-text" href="#modal1">Contact Us</a></li>
 </ul>
-<nav class="hidden blue-grey darken-2">
+<nav class="hidden white blue-text">
   <div class="nav-wrapper">
 
     <ul>
       <li>
-        <a href="{{ site.root }}/" class="white-text brand-logo">Outer Coast College</a>
+        <a href="{{ site.root }}/" class="blue-grey-text brand-logo">Outer Coast College</a>
       </li>
     </ul>
 
     <ul class="right hide-on-med-and-down">
       {% for link in site.data.footer.links %}
         {% if page.path != link.page %}
-          <li><a class="white-text" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
+          <li><a class="blue-grey-text text-darken-2" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
         {% endif %}
       {% endfor %}
-      <li><a class="white-text modal-trigger" href="#modal1">Contact Us</a></li>
+      <li><a class="blue-grey-text text-darken-2 modal-trigger" href="#modal1">Contact Us</a></li>
     </ul>
 
     <ul class="right hide-on-large-only">
-      <li><a class="white-text dropdown-button" href="#" data-activates="dropdown1"><i class="material-icons">toc</i></a></li>
+      <li><a class="blue-grey-text text-darken-2 dropdown-button" href="#" data-activates="dropdown1"><i class="material-icons">toc</i></a></li>
     </ul>
   </div>
 </nav>
