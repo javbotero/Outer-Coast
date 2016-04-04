@@ -34,7 +34,7 @@ We are charging forward (we're pondering a new team motto: "Why wait around?") a
 
 _Outer Coast College seeks to teach and inspire promising young people to create virtuous change in the world and in their own lives. It aims to accomplish this mission by providing a rigorous and challenging academic curriculum marked by exceptional pedagogy and faculty engagement; by imparting the value of labor and service to a diverse student body entrusted with broad powers of self-governance; by cultivating love for community and respect for nature within the setting of Sitka;by fostering creativity, curiosity, honesty, generosity, self-reliance, and good humor; and by accompanying students in their search for self-understanding and moral worth._
 
-We want to end with a good, old-fashioned cliffhanger. We hope, soon, perhaps in the next email, to share what we're calling our "College Blueprint."
+We want to end with a good, old-fashioned cliffhanger. We hope, soon, perhaps in the next update, to share what we're calling our "College Blueprint."
 
 The "College Blueprint" is an under-the-hood look and what we envision Outer Coast College to be. It's a 40-odd-page Google Doc that is part vision statement, part operations plan, part brainstorming whiteboard.
 

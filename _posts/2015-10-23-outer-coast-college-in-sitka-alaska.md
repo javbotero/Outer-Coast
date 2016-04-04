@@ -8,11 +8,9 @@ excerpt_separator: <!--more-->
 
 We are creating a college in Sitka, Alaska.
 
-"We" is an inclusive pronoun. The principal collaborators are Jonathan Kreiss-Tomkins, Will Hunt, and Javier Botero. You're receiving this email either because you've expressed interest in the project or you're a friend of ours and we thought you'd find this cool and want to follow along.
+"We" is an inclusive pronoun. The principal collaborators are Jonathan Kreiss-Tomkins, Will Hunt, and Javier Botero. We've been working on the college for a little more than a year.
 
 <!--more-->
-
-We've been working on the college for a little more than a year.
 
 The idea was conceived summer 2014 by JKT, and he did diligence on the idea until September 2015, including a visit to [Deep Springs College](http://www.vanityfair.com/news/2004/06/deep-springs-college200406) January 2015.
 
@@ -28,6 +26,6 @@ The college has a modest website: [outercoast.org](http://outercoast.org)
 
 We will keep you apprised as we forge ahead.
 
-If you have suggestions or want to be involved, let us know: "we" is an inclusive pronoun.
+If you have suggestions or want to be involved, <a class="modal-trigger" href="#modal1">let us know</a>: "we" is an inclusive pronoun.
 
 Jonathan, Will, and Javier
