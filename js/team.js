@@ -3,19 +3,30 @@
 
 $(document).ready(function () {
   var hash = window.location.hash;
+  var navHeight;
+  var memberPos;
 
   {% for team in site.data.team.teams %}
       {% for member in team.members %}
         if (hash === '#{{ member.name | slugify }}') {
           showSection('{{ team.name | slugify }}-team');
-          window.location.href = "#{{ member.name | slugify }}";
+
+          // Scroll by more than height of navbar so first lines won't be obscured
+          navHeight = _.parseInt($('nav').css('height').replace(/\D/g,'')) + 10;
+          memberPos = _.parseInt($('#{{ member.name | slugify }}').position().top);
+
+          // Can't use scrollTo. Some reason won't work on load here.
+          $('html, body').animate({
+            scrollTop: $('#{{ member.name | slugify }}').offset().top - navHeight,
+          }, 'slow');
         }
       {% endfor %}
   {% endfor %}
 });
 
+window.scrollBy(0, -74);
+
 function showSection(sectionName) {
-  console.log(sectionName);
   hideAllSections();
   $('#' + sectionName).fadeIn(800);
 }
