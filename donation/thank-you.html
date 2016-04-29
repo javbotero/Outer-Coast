@@ -1,0 +1,16 @@
+---
+layout: default
+title: Thank you!
+permalink: /donate/thankyou
+---
+
+{% include slider.html photos=site.data.images.donate_page.top %}
+
+<div class="main-section donate-page">
+  <div class="container">
+
+    {% capture my-include %}{% include donate-thankyou.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
