@@ -2,6 +2,6 @@
 
 #### Thank you!
 
-We received your donation. We'll be in touch soon.
+Your donation was successful. Thank you so much for your support!
 
-More stuff here.
+- Javier, Stephanie, Will, and Jonathan
