@@ -12,7 +12,7 @@ But many of us know that these rosy feelings mask the truth about higher educati
 <!-- This inserts the Quality and Cost cards -->
 {% include index-cards.html %}
 
-[Films](http://www.youtube.com/watch?v=eLdU7uts4ws) have been shot, [articles](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been written, [bills](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been passed. But these problems persist, to the point where they can seem intractable.
+[Films](http://www.youtube.com/watch?v=eLdU7uts4ws) have been shot, [articles](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been written, [bills](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been passed. But these problems persist, to the poiscnt where they can seem intractable.
 
 We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
 
@@ -34,7 +34,7 @@ We draw our inspiration from [Deep Springs College](http://www.newyorker.com/mag
 
 Today's universities function more as sprawling conglomerates than as schools: they manage multi-million-dollar athletic programs, police departments, hospitals, science research facilities, massive food and residential services operations, and sprawling real estate portfolios. Meanwhile, the academic job market often discourages great teaching by providing incentives for faculty to focus primarily on research.
 
-Outer Coast is a relentlessly student-focused institution. Excellence in scholarship is different from excellence in teaching. Outer Coast College faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast College, excellence in teaching is the expectation.
+Outer Coast is a relentlessly student-focused institution. Outer Coast College faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast College, excellence in teaching is the expectation.
 
 After two years Outer Coast students transfer to four-year institutions, where they can take advantage of the resources of a larger institution. This model aspires to be the “best of the both worlds”: students can complete a robust two-year liberal arts education without crippling debt, then transition into two years of a traditional undergraduate education with a far clearer sense of themselves.
 
