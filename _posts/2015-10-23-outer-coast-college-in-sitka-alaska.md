@@ -26,6 +26,6 @@ The college has a modest website: [outercoast.org](http://outercoast.org)
 
 We will keep you apprised as we forge ahead.
 
-If you have suggestions or want to be involved, <a class="modal-trigger" href="#modal1">let us know</a>: "we" is an inclusive pronoun.
+If you have suggestions or want to be involved, [let us know]({{ site.root }}/contact): "we" is an inclusive pronoun.
 
 Jonathan, Will, and Javier

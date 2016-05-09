@@ -103,21 +103,6 @@ strong {
   display: none;
 }
 
-/* Modal */
-.modal {
-  overflow-x: hidden;
-  overflow-y: hidden;
-  width: 40%;
-}
-
-.modal .modal-content {
-  padding-top: 0;
-}
-
-.contact-us-page .contact-form {
-
-}
-
 /* OCC stuff */
 
 .main-section {
@@ -401,7 +386,7 @@ h5.collaborators {
 }
 
 
-/* Contact Us modal */
+/* Contact Us */
 iframe.google-form {
   width: 100%;
   height: 76em;
@@ -422,10 +407,6 @@ iframe.google-form {
   .btn {
     height: auto;
     display: inline-block !important;
-  }
-
-  .modal {
-    width: 90%;
   }
 
   iframe.google-form {
