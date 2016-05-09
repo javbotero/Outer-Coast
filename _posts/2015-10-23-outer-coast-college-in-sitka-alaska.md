@@ -22,7 +22,7 @@ The college has a name: Outer Coast College.
 
 The college has a modest website: [outercoast.org](http://outercoast.org)
 
-[We're working with a terrific group of collaborators.]({{ site.root }}/team.html)
+[We're working with a terrific group of collaborators.]({{ site.root }}/team)
 
 We will keep you apprised as we forge ahead.
 

@@ -114,6 +114,10 @@ strong {
   padding-top: 0;
 }
 
+.contact-us-page .contact-form {
+
+}
+
 /* OCC stuff */
 
 .main-section {
@@ -399,14 +403,22 @@ h5.collaborators {
 
 /* Contact Us modal */
 iframe.google-form {
-  margin-left: -3em;
-  width: 690px;
-  height: 650px;
+  width: 100%;
+  height: 76em;
+  margin-top: -15.5em;
 }
 
 /* For mobile */
 
 @media all and (max-width: 600px) {
+  nav .brand-logo {
+    font-size: 1.2em;
+  }
+
+  nav i.material-icons {
+    margin-top: .4em;
+  }
+
   .btn {
     height: auto;
     display: inline-block !important;
@@ -416,12 +428,17 @@ iframe.google-form {
     width: 90%;
   }
 
-  iframe {
-    width: 28em !important;
+  iframe.google-form {
+    height: 80em;
+    margin-top: 0;
   }
 
   .main-section {
-    padding: 0 3em;
+    padding: 0 1.2em;
+  }
+
+  .main-section.contact-us-page {
+    padding: 0;
   }
 
   h1 {

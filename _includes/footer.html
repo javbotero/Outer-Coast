@@ -5,11 +5,10 @@
         <h5 class="white-text">Further Reading</h5>
         <ul>
           {% for link in site.data.nav.footer %}
-            {% if page.path != link.page %}
+            {% if page.title != link.name %}
               <li><a class="white-text" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
             {% endif %}
           {% endfor %}
-          <li><a class="white-text modal-trigger" href="#modal1">Contact Us</a></li>
         </ul>
       </div>
     </div>
