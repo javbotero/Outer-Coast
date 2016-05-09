@@ -109,10 +109,6 @@ strong {
   padding: 0 5em;
 }
 
-.main-section.contribute-page {
-  padding: 0 5em 5em;
-}
-
 footer.page-footer {
   margin: 0;
 }
@@ -387,6 +383,26 @@ h5.collaborators {
 .faq-question h3 {
   font-size: 1.4em;
   font-style: italic;
+}
+
+/* Contribute page */
+
+.main-section.contribute-page {
+  padding: 0 5em 5em;
+}
+
+.main-section.contribute-page h1 {
+  font-size: 3.8rem;
+}
+
+.main-section.contribute-page h2 {
+  font-size: 1.8rem;
+}
+
+.main-section.contribute-page blockquote {
+  border: 0;
+  font-style: italic;
+  padding-left: 2rem;
 }
 
 
