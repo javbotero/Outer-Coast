@@ -46,5 +46,5 @@ Weâ€™re working toward a new, scalable model for higher education. We think weâ€
 
 <!-- Inserts the Contact button -->
 <div class="center-align bottom-appeal">
-  <a href="{{ site.root }}/contact" class="waves-effect waves-default btn white grey-text text-darken-4">{{ site.data.front_page.contact_us_section.button_text }}</a>
+  <a href="{{ site.root }}/contact.html" class="waves-effect waves-default btn white grey-text text-darken-4">{{ site.data.front_page.contact_us_section.button_text }}</a>
 </div>

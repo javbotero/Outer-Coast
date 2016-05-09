@@ -10,7 +10,7 @@ Last week, on November 11 and 12, more than a dozen creative, entrepreneurial, i
 
 Will, Javier, and Jonathan presented  the foundational documents for Outer Coast College they had prepared over the preceding two months: a detailed draft budget and what we are calling a "college blueprint" — a comprehensive blend of student handbook and operations plan.
 
-Our band of inspired [collaborators]({{ site.root }}/team) interrogated every sentence of these documents, further invigorating the vision of the school and strengthening and deepening the detail of our plans.
+Our band of inspired [collaborators]({{ site.root }}/team.html) interrogated every sentence of these documents, further invigorating the vision of the school and strengthening and deepening the detail of our plans.
 
 We are excited to share this college blueprint in the coming weeks. We are also excited to share a shot of last week’s gathering, taken by the inimitable [James Poulson](http://www.alaskapublic.org/2015/04/24/ak-the-sitka-sentinel-remains-a-family-affair/):
 

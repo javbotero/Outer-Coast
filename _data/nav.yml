@@ -1,26 +1,26 @@
 top:
   - name: About
-    page: about
+    page: about.html
   - name: F.A.Q.
-    page: faq
+    page: faq.html
   - name: News
-    page: news
+    page: news.html
   - name: Who We Are
-    page: team
+    page: team.html
   # - name: Contribute
-  #   page: contribute
+  #   page: contribute.html
   - name: Contact Us
-    page: contact
+    page: contact.html
 footer:
   - name: About the College
-    page: about
+    page: about.html
   - name: F.A.Q.
-    page: faq
+    page: faq.html
   - name: News
-    page: news
+    page: news.html
   - name: Who We Are
-    page: team
+    page: team.html
   # - name: Contribute
-  #   page: contribute
+  #   page: contribute.html
   - name: Contact Us
-    page: contact
+    page: contact.html
