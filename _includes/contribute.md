@@ -1,10 +1,10 @@
 # Contribute
 
-Please consider contributing to the Outer Coast project. At this stage every contribution, large or small, financial or otherwise, makes a disproportionate difference to our ultimate success.
+The vision for Outer Coast has made improbable progress over the last year and a half because many motivated people have pooled their time, dollars, and expertise. Would like to contribute to the cause?
 
 ## Legal & Graphic Design Help
 
-We are seeking pro bono assistance with graphic design and logo design, as well as pro bono legal assistance — especially from lawyers with nonprofit experience. If you, or anyone, might be able to offer help, [please let us know]({{ site.root }}/contact.html).
+Are you a lawyer with nonprofit experience? Are you a visual artist with experience in graphic design and logo design? Are you interested in collaborating with Outer Coast on a pro bono basis? If so, [please let us know]({{ site.root }}/contact.html).
 
 ## Donations
 
