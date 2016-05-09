@@ -7,8 +7,8 @@ top:
     page: news.html
   - name: Who We Are
     page: team.html
-  # - name: Contribute
-  #   page: contribute.html
+  - name: Contribute
+    page: contribute
   - name: Contact Us
     page: contact.html
 footer:
@@ -20,7 +20,7 @@ footer:
     page: news.html
   - name: Who We Are
     page: team.html
-  # - name: Contribute
-  #   page: contribute.html
+  - name: Contribute
+    page: contribute
   - name: Contact Us
     page: contact.html

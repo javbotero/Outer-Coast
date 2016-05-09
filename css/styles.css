@@ -109,6 +109,10 @@ strong {
   padding: 0 5em;
 }
 
+.main-section.contribute-page {
+  padding: 0 5em 5em;
+}
+
 footer.page-footer {
   margin: 0;
 }
