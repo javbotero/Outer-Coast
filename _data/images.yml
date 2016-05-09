@@ -18,9 +18,6 @@ front_page:
     - photographer: James Poulson
       image: 7
       alt: Ocean breaking between rocks
-    - photographer: SFAC
-      image: 1
-      alt: Man carrying lumber
     - photographer: Berett Wilber
       image: 4
       alt: Bridge and mountains in blue light
@@ -66,8 +63,13 @@ blog_page:
     - photographer: Berett Wilber
       image: 6
       alt: North Pacific Hall, Sheldon Jackson Campus
-donate_page:
+contribute_page:
+  top:
+    - photographer: SFAC
+      image: 1
+      alt: Man carrying lumber
+contribute_thank_you_page:
   top:
     - photographer: Berett Wilber
-      image: 6
-      alt: North Pacific Hall, Sheldon Jackson Campus
+      image: 12
+      alt: Twin Island
