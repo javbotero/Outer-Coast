@@ -2,7 +2,7 @@
 
 The vision for Outer Coast has made improbable progress over the last year and a half because many motivated people have pooled their time, dollars, and expertise. Would you like to contribute to the cause?
 
-## Contribute your time
+## Contribute Your Time
 
 Are you a lawyer with nonprofit experience? Are you a visual artist with experience in graphic design and logo design? Are you interested in collaborating with Outer Coast on a pro bono basis? If so, [please let us know]({{ site.root }}/contact.html).
 
