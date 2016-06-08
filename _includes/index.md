@@ -12,7 +12,7 @@ But many of us know that these rosy feelings mask the truth about higher educati
 <!-- This inserts the Quality and Cost cards -->
 {% include index-cards.html %}
 
-[Films](http://www.youtube.com/watch?v=eLdU7uts4ws) have been shot, [articles](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been written, [bills](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been passed. But these problems persist, to the poiscnt where they can seem intractable.
+[Films](http://www.youtube.com/watch?v=eLdU7uts4ws) have been shot, [articles](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been written, [bills](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been passed. But these problems persist, to the point where they can seem intractable.
 
 We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
 
