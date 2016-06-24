@@ -21,10 +21,10 @@ In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the com
 
 Today the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
 
-In summer 2014 Jonathan Kreiss-Tomkins and Roger Schmidt began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp.
+In summer 2014, Jonathan Kreiss-Tomkins and Roger Schmidt began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp.
 
-In January 2015 Jonathan visited Deep Springs College to explore adapting its model to Sitka. While there, Jonathan met Will Hunt, a second year student who subsequently committed to move to Sitka in the fall to join the effort to create a Deep Springs-inspired college on Sheldon Jackson Campus.
+In January 2015, Jonathan visited Deep Springs College to explore adapting its model to Sitka. (For more on Deep Springs, a small, highly successful two-year liberal arts college in the dessert of California, read [this article] (http://www.huffingtonpost.com/frank-h-wu/deep-springs-college_b_2944946.html) or see [this compilation of media coverage] (http://www.deepsprings.edu/publications/).) While there, Jonathan met Will Hunt, a second year student who subsequently committed to move to Sitka in the fall to join the effort to create a Deep Springs-inspired college on Sheldon Jackson Campus.
 
 Full-time work to create the college began September 2015. A four-person principal team of Jonathan, Will, Stephanie Gilardi, and Javier Botero coalesced through the fall. In mid-November, the team organized a two-day convening on the campus, bringing together collaborators from Sitka, Alaska, and the Lower 48 to contribute to the vision of Outer Coast College.
 
-Through the fall and winter Jonathan, Will, Stephanie, and Javier created seven working committees, collectively charged with advancing the disparate work of creating a college, from accreditation to pedagogy to fundraising to admissions and recruitment. All aspects of the Outer Coast College project are actively progressing through present (<span id="current-month-year">March 2016</span>).
+Through the fall and winter, Jonathan, Will, Stephanie, and Javier created seven working committees, collectively charged with advancing the disparate work of creating a college, from accreditation to pedagogy to fundraising to admissions and recruitment. All aspects of the Outer Coast College project are actively progressing through present (<span id="current-month-year">March 2016</span>).
