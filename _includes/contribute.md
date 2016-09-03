@@ -10,7 +10,7 @@ Are you a lawyer with nonprofit experience? Are you a visual artist with experie
 
 We also welcome early financial contributions. As we take steps forward with accreditation, Alaska Commission on Postsecondary Education regulatory processes, incorporating as a nonprofit and writing bylaws, negotiating an MOU partnership with Sheldon Jackson Campus, and more, we increasingly need to match our sweat equity and pro bono contributions with financial contributions.
 
-To make a financial contribution to Outer Coast, use the PayPal button below or send a check (made out to Outer Coast College) to this address:
+To make a financial contribution to Outer Coast, use the PayPal button below or send a check (made out to Outer Coast) to this address:
 
 > PO Box 6615  
 > Sitka, AK 98835
