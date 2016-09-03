@@ -1,4 +1,4 @@
-# Outer Coast College
+# Outer Coast
 
 ### What if we could start over with higher education?
 
@@ -25,7 +25,7 @@ We think otherwise. We think a college education can be affordable and transform
 
 ## Three Pillars
 
-Outer Coast College is a nascent two-year institution of higher education in Sitka, Alaska. Our curriculum is one for the whole person, built upon the three pillars of __Academics__, __Service & Labor__, and __Self-governance__.
+Outer Coast is a nascent two-year institution of higher education in Sitka, Alaska. Our curriculum is one for the whole person, built upon the three pillars of __Academics__, __Service & Labor__, and __Self-governance__.
 
 We draw our inspiration from [Deep Springs College](http://www.newyorker.com/magazine/2006/09/04/the-searchers-2), a small and remarkable postsecondary institution nestled in a quiet valley just east of the Sierra Nevada. Although a remarkably successful and admired educational institution, nearly a century after its founding Deep Springs remains the only college of its kind.
 
@@ -34,7 +34,7 @@ We draw our inspiration from [Deep Springs College](http://www.newyorker.com/mag
 
 Today's universities function more as sprawling conglomerates than as schools: they manage multi-million-dollar athletic programs, police departments, hospitals, science research facilities, massive food and residential services operations, and sprawling real estate portfolios. Meanwhile, the academic job market often discourages great teaching by providing incentives for faculty to focus primarily on research.
 
-Outer Coast is a relentlessly student-focused institution. Outer Coast College faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast College, excellence in teaching is the expectation.
+Outer Coast is a relentlessly student-focused institution. Outer Coast faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast , excellence in teaching is the expectation.
 
 After two years Outer Coast students transfer to four-year institutions, where they can take advantage of the resources of a larger institution. This model aspires to be the “best of the both worlds”: students can complete a robust two-year liberal arts education without crippling debt, then transition into two years of a traditional undergraduate education with a far clearer sense of themselves.
 
