@@ -12,7 +12,7 @@ top:
   - name: Contact Us
     page: contact.html
 footer:
-  - name: About the College
+  - name: About the Project
     page: about.html
   - name: F.A.Q.
     page: faq.html
