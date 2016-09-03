@@ -22,7 +22,7 @@ If you’re interested in applying, <a href="{{ site.root }}/contact.html" class
 
 ### Will there be any gender-based eligibility requirements?
 
-No, none at all. A point of differentiation from Deep Springs, Outer Coast College welcomes all students, regardless of gender.
+No, none at all. A point of differentiation from Deep Springs, Outer Coast welcomes all students, regardless of gender.
 
 ### Will credits from Outer Coast be transferable to four-year universities?
 
