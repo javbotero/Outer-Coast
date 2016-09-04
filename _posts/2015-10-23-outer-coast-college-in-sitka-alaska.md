@@ -1,14 +1,14 @@
 ---
 layout: blog
-title: Outer Coast College in Sitka, Alaska
+title: Outer Coast in Sitka, Alaska
 date: October 23, 2015
 published: true
 excerpt_separator: <!--more-->
 ---
 
-We are creating a college in Sitka, Alaska.
+We are creating an institution of higher learning in Sitka, Alaska.
 
-"We" is an inclusive pronoun. The principal collaborators are Jonathan Kreiss-Tomkins, Will Hunt, and Javier Botero. We've been working on the college for a little more than a year.
+"We" is an inclusive pronoun. The principal collaborators are Jonathan Kreiss-Tomkins, Will Hunt, and Javier Botero. We've been working on the project for a little more than a year.
 
 <!--more-->
 
@@ -18,9 +18,9 @@ This September, Will Hunt, an alumnus of Deep Springs, moved to Sitka to lend hi
 
 A few exciting updates!
 
-The college has a name: Outer Coast College.
+The project has a name: Outer Coast.
 
-The college has a modest website: [outercoast.org](http://outercoast.org)
+The project has a modest website: [outercoast.org](http://outercoast.org)
 
 [We're working with a terrific group of collaborators.]({{ site.root }}/team.html)
 

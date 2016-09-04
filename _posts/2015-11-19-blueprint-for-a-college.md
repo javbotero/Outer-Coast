@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 Last week, on November 11 and 12, more than a dozen creative, entrepreneurial, idealistic minds from across the country gathered in the Del Shirley room of [Allen Hall](http://sitkafineartscamp.org/facilities/allen-hall-2/), the heart of Sitka's Sheldon Jackson Campus.
 
-Will, Javier, and Jonathan presented  the foundational documents for Outer Coast College they had prepared over the preceding two months: a detailed draft budget and what we are calling a "college blueprint" — a comprehensive blend of student handbook and operations plan.
+Will, Javier, and Jonathan presented  the foundational documents for Outer Coast they had prepared over the preceding two months: a detailed draft budget and what we are calling a "college blueprint" — a comprehensive blend of student handbook and operations plan.
 
 Our band of inspired [collaborators]({{ site.root }}/team.html) interrogated every sentence of these documents, further invigorating the vision of the school and strengthening and deepening the detail of our plans.
 

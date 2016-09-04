@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 Musicals are complex creative products. You need a librettist, a director, a choreographer, a composer, a producer. A diverse team with disparate expertise working together to make the whole production sparkle.
 
-The same is true of Outer Coast College, especially as we look back on the last two-plus months of progress. It's a team effort. A medley of amazing people across Alaska, the U.S., and the world, working together to make real a new college that scintillates with creative, intellectual, and entrepreneurial energy.
+The same is true of Outer Coast, especially as we look back on the last two-plus months of progress. It's a team effort. A medley of amazing people across Alaska, the U.S., and the world, working together to make real a new institution of higher learning that scintillates with creative, intellectual, and entrepreneurial energy.
 
 ![Sitka]({{ site.assetsurl }}news/2016-06-01/BerettWilber_Sitka.jpg)
 
@@ -18,7 +18,7 @@ We want to showcase our own choreographers, lyricists, producers, etc., along wi
 
 <!--more-->
 
-**Academic Vision:** Our [core team](http://outercoast.org/team.html), with incoming help from [Laura Nelson](http://outercoast.org/team.html#laura-nelson), has been hard at work crafting an academic vision for the college.
+**Academic Vision:** Our [core team](http://outercoast.org/team.html), with incoming help from [Laura Nelson](http://outercoast.org/team.html#laura-nelson), has been hard at work crafting an academic vision for Outer Coast.
 
 We're committed to "disciplinary agnosticism," in which all disciplines are equally valued and celebrated. But we’re working to explore unique community partnerships and student opportunities in three areas:
 
@@ -26,7 +26,7 @@ We're committed to "disciplinary agnosticism," in which all disciplines are equa
 - entrepreneurship; and
 - languages, especially Alaska Native language learning.
 
-**Accreditation:** If Outer Coast College were the new kid at the dance populated by colleges and universities, the two chaperones would be the Alaska Commission on Postsecondary Education (ACPE) and Northwest Commission on Colleges and Universities (NWCCU). These are our principal regulators. They are charged with protecting the student consumer, and preventing diploma mills — or Trump Universities — from cropping up in Alaska.
+**Accreditation:** If Outer Coast were the new kid at the dance populated by colleges and universities, the two chaperones would be the Alaska Commission on Postsecondary Education (ACPE) and Northwest Commission on Colleges and Universities (NWCCU). These are our principal regulators. They are charged with protecting the student consumer, and preventing diploma mills — or Trump Universities — from cropping up in Alaska.
 
 Our conversations continue with both ACPE and NWCCU, with Will in the lead. In fact, Will is prepping paperwork for the first step in the ACPE regulatory process (an application for what is called "Initial Authorization").
 
@@ -52,13 +52,13 @@ Simultaneous to the friends and family round, we're talking with several foundat
 
 [Laura Nelson](http://outercoast.org/team.html#laura-nelson) (arriving June 29) and [Terrell Carter](http://outercoast.org/team.html#terrell-carter) (arrived in Sitka three days ago having been in and out of Sitka these last four years) will join us in Sitka for the summer.
 
-[Cecilia Dumouchel](http://outercoast.org/team.html#cecilia-dumouchel) and [Harry Choee](http://outercoast.org/team.html#harry-choee) will move to Sitka in late August as a part of the [Sitka Winter Fellows](http://summerinsitka.com/winter-fellowships.html) program to work on the Outer Coast College project.
+[Cecilia Dumouchel](http://outercoast.org/team.html#cecilia-dumouchel) and [Harry Choee](http://outercoast.org/team.html#harry-choee) will move to Sitka in late August as a part of the [Sitka Winter Fellows](http://summerinsitka.com/winter-fellowships.html) program to work on the Outer Coast project.
 
 ![Sitka]({{ site.assetsurl }}news/2016-06-01/WillHuntOnEdgecumbe.jpg)
 
 _Background: mountains of Baranof Island, with Sitka in the distance. Foreground: Will Hunt, having just ascended [Mount Edgecumbe](https://upload.wikimedia.org/wikipedia/commons/3/34/EdgecumbeSitka.jpg) volcano in sandals (seriously!), contemplating the world. Photo credit: Javier Botero._
 
-We also want to wish the industrious, indefatigably positive, and unfailingly thoughtful Will Hunt the very best as he wraps up his tenure in Sitka. Will took a gap year after finishing his two years at Deep Springs College to work on this project when Outer Coast College was little more than a whimsical idea. Will will return to the world of higher ed to finish his undergraduate studies at Yale — and will continue to participate remotely with the core Outer Coast College team.
+We also want to wish the industrious, indefatigably positive, and unfailingly thoughtful Will Hunt the very best as he wraps up his tenure in Sitka. Will took a gap year after finishing his two years at Deep Springs College to work on this project when Outer Coast was little more than a whimsical idea. Will will return to the world of higher ed to finish his undergraduate studies at Yale — and will continue to participate remotely with the core Outer Coast team.
 
 Thanks for joining us on this journey,
 

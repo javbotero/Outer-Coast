@@ -1,3 +1,3 @@
-# Outer Coast College
+# Outer Coast
 
-This is the website for Outer Coast College (outercoast.org).
+This is the website for Outer Coast (outercoast.org).
