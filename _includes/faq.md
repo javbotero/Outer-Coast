@@ -16,7 +16,7 @@ Sheldon Jackson Campus is in the heart of Sitka, Alaska, a few hundred meters fr
 
 ### When do you start taking applications?
 
-At the earliest, fall 2017, with admitted students enrolling in fall 2018. We want to emphasize that this is the most optimistic possible timeline.
+At the earliest, fall 2018, with admitted students enrolling in fall 2019. We want to emphasize that this is the most optimistic possible timeline.
 
 If you’re interested in applying, <a href="{{ site.root }}/contact.html" class="blue-grey-text body-link">let us know</a>. We’ll keep in touch and contact you when applications are open.
 
