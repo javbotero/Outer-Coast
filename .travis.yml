@@ -18,7 +18,7 @@ deploy:
   local-dir: _site
   acl: public_read
   on:
-    repo: javbotero/Outer-Coast-College
+    repo: javbotero/Outer-Coast
 notifications:
   email:
     recipients:
