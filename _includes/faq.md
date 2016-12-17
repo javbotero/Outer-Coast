@@ -26,4 +26,4 @@ No, none at all. A point of differentiation from Deep Springs, Outer Coast welco
 
 ### Will credits from Outer Coast be transferable to four-year universities?
 
-Yes. Outer Coast is exploring accreditation through partner institutions, simultaneous to the larger process of applying for independent accreditation.
+Outer Coast is exploring accreditation through partner institutions, simultaneous to the larger process of applying for independent accreditation.  Our goal is to have credits transferable to four-year institutions upon accreditation.
