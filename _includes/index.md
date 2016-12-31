@@ -34,9 +34,9 @@ We draw our inspiration from [Deep Springs College](http://www.newyorker.com/mag
 
 Today's universities function more as sprawling conglomerates than as schools: they manage multi-million-dollar athletic programs, police departments, hospitals, science research facilities, massive food and residential services operations, and sprawling real estate portfolios. Meanwhile, the academic job market often discourages great teaching by providing incentives for faculty to focus primarily on research.
 
-Outer Coast is a relentlessly student-focused institution. Outer Coast faculty’s foremost obligation is to create a dazzling, neuron-bending pedagogic and intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast , excellence in teaching is the expectation.
+Our vision with Outer Coast is to create a relentlessly student-focused institution. Outer Coast faculty’s foremost obligation will be to provide a dazzling, neuron-bending intellectual experience for students, and to treat teaching as a craft in its own right. At Outer Coast, excellence in teaching is the priority.
 
-After two years Outer Coast students transfer to four-year institutions, where they can take advantage of the resources of a larger institution. This model aspires to be the “best of the both worlds”: students can complete a robust two-year liberal arts education without crippling debt, then transition into two years of a traditional undergraduate education with a far clearer sense of themselves.
+After two years, we want Outer Coast students to have the option to transfer to four-year institutions, where they can take advantage of the resources of a larger institution. This model aspires to be the “best of the both worlds”: students can complete a robust two-year liberal arts education without crippling debt, then transition into two years of a traditional undergraduate education with a far clearer sense of themselves.
 
 ***
 
