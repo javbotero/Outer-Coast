@@ -26,7 +26,7 @@ We're committed to "disciplinary agnosticism," in which all disciplines are equa
 - entrepreneurship; and
 - languages, especially Alaska Native language learning.
 
-**Accreditation:** If Outer Coast were the new kid at the dance populated by colleges and universities, the two chaperones would be the Alaska Commission on Postsecondary Education (ACPE) and Northwest Commission on Colleges and Universities (NWCCU). These are our principal regulators. They are charged with protecting the student consumer, and preventing diploma mills — or Trump Universities — from cropping up in Alaska.
+**Accreditation:** If Outer Coast were the new kid at the dance populated by colleges and universities, the two chaperones would be the Alaska Commission on Postsecondary Education (ACPE) and Northwest Commission on Colleges and Universities (NWCCU). These are our principal regulators. They are charged with protecting the student consumer and preventing diploma mills from cropping up in Alaska.
 
 Our conversations continue with both ACPE and NWCCU, with Will in the lead. In fact, Will is prepping paperwork for the first step in the ACPE regulatory process (an application for what is called "Initial Authorization").
 
