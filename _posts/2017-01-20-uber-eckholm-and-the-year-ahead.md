@@ -28,6 +28,8 @@ _Photo credit: Michelle Parke_
 
 In this New Year, we are looking forward to developments in the areas of nonprofit incorporation, partnerships, and authorization from the Alaska Commission on Postsecondary Education.
 
+We are also incredibly excited and humbled to announce that we’ve reached our $20,000 fundraising goal! Thank you to our families, friends and supporters who generously donated to the project. 
+
 Onward,
 
 The Outer Coast Team  
