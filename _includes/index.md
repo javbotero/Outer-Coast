@@ -27,7 +27,7 @@ We think otherwise. We think a college education can be affordable and transform
 
 Outer Coast is a nascent two-year institution of higher education in Sitka, Alaska. Our curriculum is one for the whole person, built upon the three pillars of __Academics__, __Service & Labor__, and __Self-governance__.
 
-We draw our inspiration from [Deep Springs College](http://www.newyorker.com/magazine/2006/09/04/the-searchers-2), a small and remarkable postsecondary institution nestled in a quiet valley just east of the Sierra Nevada. Although a remarkably successful and admired educational institution, nearly a century after its founding Deep Springs remains the only college of its kind.
+We draw our inspiration from [Deep Springs College](http://www.newyorker.com/magazine/2006/09/04/the-searchers-2), a unique postsecondary institution nestled in a desert valley just east of the Sierra Nevada. Although remarkably successful and widely admired, nearly a century after its founding Deep Springs remains the only college of its kind.
 
 <!-- This inserts the Pillar cards -->
 {% include index-pillars.html %}
