@@ -1,14 +1,14 @@
 # Contribute
 
-The vision for Outer Coast has made improbable progress over the last year and a half because many motivated people have pooled their time, dollars, and expertise. Would you like to contribute to the cause?
+The vision for Outer Coast has made improbable progress over the two-plus years because many motivated people have invested their time, dollars, and expertise. Would you like to contribute to the cause?
 
 ## Contribute Your Time
 
-Are you a lawyer with nonprofit experience? Are you a visual artist with experience in graphic design and logo design? Are you interested in collaborating with Outer Coast on a pro bono basis? If so, [please let us know]({{ site.root }}/contact.html).
+Are you a lawyer with expertise in the nonprofit sector? Are you a visual artist with experience in graphic design and logo design? Are you interested in collaborating with Outer Coast on a pro bono basis? If so, [please let us know]({{ site.root }}/contact.html).
 
 ## Contribute Financially
 
-We also welcome early financial contributions. As we take steps forward with accreditation, Alaska Commission on Postsecondary Education regulatory processes, incorporating as a nonprofit and writing bylaws, negotiating an MOU partnership with Sheldon Jackson Campus, and more, we increasingly need to match our sweat equity and pro bono contributions with financial contributions.
+We welcome financial contributions. As we take steps forward with accreditation, Alaska Commission on Postsecondary Education regulatory processes, incorporating as a nonprofit and writing bylaws, negotiating an MOU partnership with Sheldon Jackson Campus, and more, we increasingly need to match our sweat equity and pro bono contributions with financial contributions.
 
 To make a financial contribution to Outer Coast, use the PayPal button below or send a check (made out to Outer Coast) to this address:
 
