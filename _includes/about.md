@@ -21,7 +21,7 @@ In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the com
 
 Today the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
 
-In summer 2014, Jonathan Kreiss-Tomkins and Roger Schmidt began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp. Conversations on this front continue.
+In summer 2014, Jonathan Kreiss-Tomkins began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp and the Deep Springs College community. Conversations on this front continue.
 
 In January 2015, Jonathan visited Deep Springs College to explore adapting its model to Sitka. (For more on Deep Springs, a small, highly successful two-year liberal arts college in the desert of California, read <A HREF = "http://www.huffingtonpost.com/frank-h-wu/deep-springs-college_b_2944946.html">this article</A> or see <A HREF = "http://www.deepsprings.edu/publications/">this compilation of media coverage</A>.) While there, Jonathan met Will Hunt, a second year student who subsequently committed to move to Sitka in the fall to join the effort to create a Deep Springs-inspired college on Sheldon Jackson Campus.
 
@@ -29,4 +29,6 @@ Full-time work to create Outer Coast began September 2015. A four-person princip
 
 Through the consequent year, Jonathan, Will, Stephanie, and Javier created seven working committees, collectively charged with advancing the disparate work of creating a college, from accreditation to pedagogy to fundraising to admissions and recruitment.
 
-In the fall of 2016, the principal team officially expanded to include Bryden Sweeney-Taylor, Cecilia Dumouchel, and Harry Choee. At that time, the core team of collaborators convened once more in Sitka to synthesize collective energy and develop a strategic vision for the project’s second year of operations. All aspects of the Outer Coast project are actively progressing through present (<span id="current-month-year">March 2016</span>).
+In the fall of 2016, the principal team expanded to include Bryden Sweeney-Taylor, Cecilia Dumouchel, and Harry Choee. At that time, the core team of collaborators convened once more in Sitka to synthesize collective energy and develop a strategic vision for the project’s second year of operations.
+
+All aspects of the Outer Coast project are actively progressing through present (<span id="current-month-year">March 2016</span>).
