@@ -16,9 +16,11 @@ Sheldon Jackson Campus is in the heart of Sitka, Alaska, a few hundred meters fr
 
 ### When do you start taking applications?
 
-At the earliest, fall 2018, with admitted students enrolling in fall 2019. We want to emphasize that this is the most optimistic possible timeline.
+At the earliest, fall 2019, with admitted students on campus fall 2020. We want to emphasize that this is the most optimistic possible timeline.
 
 If you’re interested in applying, <a href="{{ site.root }}/contact.html" class="blue-grey-text body-link">let us know</a>. We’ll keep in touch and contact you when applications are open.
+
+We are also exploring running a pilot academic program for high school students the summer of 2018. Again, if interested, drop us a line.
 
 ### Will there be any gender-based eligibility requirements?
 
@@ -26,4 +28,4 @@ No, none at all. A point of differentiation from Deep Springs, Outer Coast welco
 
 ### Will credits from Outer Coast be transferable to four-year universities?
 
-Outer Coast is exploring accreditation through partner institutions, simultaneous to the larger process of applying for independent accreditation.  Our goal is to have credits transferable to four-year institutions upon accreditation.
+Outer Coast is in conversations with a partner institution to sponsor interim accreditation, simultaneous to the larger process of applying for independent accreditation. Our goal is to make our credits transferable to four-year institutions upon accreditation.
