@@ -12,7 +12,7 @@ We welcome financial contributions. As we take steps forward with accreditation,
 
 To make a financial contribution to Outer Coast, use the PayPal button below or send a check (made out to Outer Coast) to this address:
 
-> PO Box 6615  
+> PO Box 6573  
 > Sitka, AK 99835
 
 We (and future generations of Outer Coast students) sincerely appreciate your support. Thank you!
