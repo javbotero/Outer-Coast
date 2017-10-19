@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: 6,112 Hours...
-date: May 3, 2017
+title: Aurora Joins the Team
+date: October 10, 2017
 published: true
 excerpt_separator: <!--more-->
 ---

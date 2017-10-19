@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: 6,112 Hours...
-date: May 3, 2017
+title: Visiting the Valley
+date: June 29, 2017
 published: true
 excerpt_separator: <!--more-->
 ---
