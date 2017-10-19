@@ -59,9 +59,7 @@ The online newsmagazine [ozy.com](http://www.ozy.com/), which features “the ne
 #### Other Progress, Past and Planned
 
 - As of July 6, 2017, Outer Coast is officially incorporated! We plan to grow our board to full membership through the course of 2017.
-
 - We are on the brink of filing for tax-exempt status (known in IRS parlance as “The 1023”). We’re presently working with our New York City-based pro bono counsel to finalize the documents before submission to the IRS.
-
 - The core team will convene for a strategic planning retreat in mid-October in Sitka. We are excited to have the team together on-site during this time to dig into our work projects.
 
 #### Forthcoming $200,000 Capital Campaign
