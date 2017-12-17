@@ -8,22 +8,25 @@ Are you a lawyer with expertise in the nonprofit sector? Are you a visual artist
 
 ## Contribute Financially
 
-Please invest in the launch of the Outer Coast Summer Seminar . Your contribution, matched by larger gifts, will help us raise the $80,000 we need to secure student housing and classrooms, pay faculty and program staff, provide financial aid to all students who need it, and put in place this important stepping stone to open the college.
+Please invest in the launch of the Outer Coast Summer Seminar. Your contribution, matched by larger gifts, will help us raise the $80,000 we need to secure student housing and classrooms, pay faculty and program staff, provide financial aid to all students who need it, and put in place this important stepping stone to open the college.
 
-If you are interested in a tax receipt: 
+**If you are interested in a tax receipt:** 
 
-Please donate by check
+*Please donate by check*
+
 Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278).
 
-Please make checks out to Sitka Fine Arts Camp, and write “Outer Coast” in the memo. Please mail checks to: 
+Please make checks out to **Sitka Fine Arts Camp**, and write **“Outer Coast”** in the memo. 
+
+Please mail checks to: 
 
 > Outer Coast
 > PO Box 6573  
 > Sitka, AK 99835
 
-If you are NOT interested in a tax receipt: 
+**If you are NOT interested in a tax receipt:**
 
-Please donate by PayPal: 
+*Please donate by PayPal* 
 
 <!-- Don't edit this section; it's the PayPal button config -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
