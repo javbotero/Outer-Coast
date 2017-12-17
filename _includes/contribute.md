@@ -8,14 +8,22 @@ Are you a lawyer with expertise in the nonprofit sector? Are you a visual artist
 
 ## Contribute Financially
 
-We welcome financial contributions. As we take steps forward with accreditation, Alaska Commission on Postsecondary Education regulatory processes, incorporating as a nonprofit and writing bylaws, negotiating an MOU partnership with Sheldon Jackson Campus, and more, we increasingly need to match our sweat equity and pro bono contributions with financial contributions.
+Please invest in the launch of the Outer Coast Summer Seminar . Your contribution, matched by larger gifts, will help us raise the $80,000 we need to secure student housing and classrooms, pay faculty and program staff, provide financial aid to all students who need it, and put in place this important stepping stone to open the college.
 
-To make a financial contribution to Outer Coast, use the PayPal button below or send a check (made out to Outer Coast) to this address:
+If you are interested in a tax receipt: 
 
+Please donate by check
+Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278).
+
+Please make checks out to Sitka Fine Arts Camp, and write “Outer Coast” in the memo. Please mail checks to: 
+
+> Outer Coast
 > PO Box 6573  
 > Sitka, AK 99835
 
-We (and future generations of Outer Coast students) sincerely appreciate your support. Thank you!
+If you are NOT interested in a tax receipt: 
+
+Please donate by PayPal: 
 
 <!-- Don't edit this section; it's the PayPal button config -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -25,6 +33,8 @@ We (and future generations of Outer Coast students) sincerely appreciate your su
   <img alt="PayPal pixel" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 <!-- ==================================================== -->
+
+We (and future generations of Outer Coast students) sincerely appreciate your support. Thank you!
 
 ------------------
 
