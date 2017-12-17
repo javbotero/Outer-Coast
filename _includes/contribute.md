@@ -21,7 +21,7 @@ Please invest in the launch of the Outer Coast Summer Seminar. Your contribution
 
 Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278).
 
-Please make checks out to **Sitka Fine Arts Camp**, and write **“Outer Coast”** in the memo and mail checks to: 
+Please make checks out to **Sitka Fine Arts Camp**, and write **Outer Coast** in the memo and mail checks to: 
 
 > Outer Coast
 > PO Box 6573  
