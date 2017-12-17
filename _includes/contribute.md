@@ -24,9 +24,7 @@ Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax exempt organi
 Please make checks out to **Sitka Fine Arts Camp**, and write **“Outer Coast”** in the memo and mail checks to: 
 
 > Outer Coast
-
 > PO Box 6573  
-
 > Sitka, AK 99835
 
 We (and future generations of Outer Coast students) sincerely appreciate your support. Thank you!
