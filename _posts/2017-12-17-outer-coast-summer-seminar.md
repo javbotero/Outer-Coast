@@ -22,9 +22,11 @@ The mission of Outer Coast is audacious: to prepare its students to [make virtuo
 
 Please invest in the launch of the Summer Seminar. Your contribution, matched by larger gifts, will help us raise the $80,000 we need to secure student housing and classrooms, pay faculty and program staff, provide financial aid to all students who need it, and take this important step to opening the college.
 
-**[Contribute to Outer Coast](http://outercoast.org/contribute/)**
+**[CONTRIBUTE TO OUTER COAST](http://outercoast.org/contribute/)**
 
-_Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax-exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278). **All contributions made by check are tax deductible.** _
+_(Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax-exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278). **All contributions made by check are tax deductible.**)_
+
+<!--more-->
 
 In addition to looking forward to the Summer Seminar, let’s also look back:
 
@@ -38,7 +40,7 @@ We’ve asked the question “who?” And we’re excited about recruiting brigh
 
 _Photo credit: James Poulson_
 
-**[Contribute to Outer Coast](http://outercoast.org/contribute/)**
+**[CONTRIBUTE TO OUTER COAST](http://outercoast.org/contribute/)**
 
 And with your help, the Summer Seminar will pave the way for a college that will matriculate its first class of 20 students in 2020.
 
