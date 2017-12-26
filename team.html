@@ -14,6 +14,24 @@ sitemap:
 
    <div class="container">
     <h1 class="black-text text-darken-3">Who We Are</h1>
+
+    <div class="divider"> </div>
+
+    <div class="row">
+      
+      <h4 class="collaborators">Join Our Team</h4>
+
+      <div>
+        <ul class="positions">
+          {% for position in site.data.positions.positions %}
+            <li>
+              <a href="{{ position.posting_url }}">{{ position.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
     <div class="divider"> </div>
 
     <div class="row">

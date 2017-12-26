@@ -257,6 +257,15 @@ a.btn:hover {
 
 /* Team page */
 
+ul.positions {
+  width: 45%;
+  margin: auto;
+  text-align: center;
+}
+
+ul.positions li {
+  margin: 0.5rem 0;
+}
 
 h4.collaborators {
   font-style: normal;
