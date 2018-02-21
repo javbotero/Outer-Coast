@@ -49,7 +49,7 @@ postmarked by March 15, 2018
 
 ### Teacher Recommendation
 
-To recommend a student for the Summer Seminar, please complete the online teacher recommendation form. 
+To recommend a student for the Summer Seminar, please complete the online [teacher recommendation form](https://fs29.formsite.com/Gd7elL/form3/index.html). 
 
 ***
 
