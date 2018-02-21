@@ -237,6 +237,37 @@ a.btn:hover {
   font-style: italic;
 }
 
+/* Summer Seminar page */
+
+.summer-seminar-page {
+  padding-bottom: 3em;
+}
+
+.summer-seminar-page h2,
+.summer-seminar-page h3 {
+  text-align: center;
+}
+
+.summer-seminar-page h2 {
+  font-size: 2.4rem;
+}
+
+.summer-seminar-page h3 {
+  font-size: 2rem;
+  padding-top: 2rem;
+}
+
+.summer-seminar-page a {
+  color: #607d8b;
+  font-style: italic;
+}
+
+.summer-seminar-page li {
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+
 /* FAQ page */
 
 .faq-page {
