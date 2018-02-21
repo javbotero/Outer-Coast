@@ -36,7 +36,7 @@ Summer Seminar applications may be completed online or by mail.
 
 ### Mail-in Student Application 
 
-Download mail-in version of[Student Application](https://drive.google.com/file/d/1CtnJiQxRJHF2odufdE1eI9AJsqavVcX8/view) and [Set Your Own Cost of Attendance Form](https://drive.google.com/file/d/1ovzhQ0NpmymsLt_HszWOiU27VGyKyjCj/view). **Note: teachers must complete their recommendations online.**
+Download mail-in version of [Student Application](https://drive.google.com/file/d/1CtnJiQxRJHF2odufdE1eI9AJsqavVcX8/view) and [Set Your Own Cost of Attendance Form](https://drive.google.com/file/d/1ovzhQ0NpmymsLt_HszWOiU27VGyKyjCj/view). **Note: teachers must complete their recommendations online.**
 
 Please mail your paper Student Application and Set Your Own Cost of Attendance Form in one envelope to: 
 
