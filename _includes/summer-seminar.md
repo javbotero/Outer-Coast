@@ -30,7 +30,7 @@ Summer Seminar applications may be completed online or by mail.
 ### Online Student Application
 
 [Student Application](https://fs29.formsite.com/Gd7elL/form1/index.html)  
-[Set Your Own Cost of Attendance Form](https://fs29.formsite.com/Gd7elL/form4/index.html)  
+[Set Your Own Cost of Attendance form](https://fs29.formsite.com/Gd7elL/form4/index.html)  
 
 ***
 
@@ -49,13 +49,13 @@ postmarked by March 15, 2018
 
 ### Teacher Recommendation
 
-To recommend a student for the Summer Seminar, please complete the online [teacher recommendation form](https://fs29.formsite.com/Gd7elL/form3/index.html). 
+To recommend a student for the Summer Seminar, please complete the online [Teacher Recommendation form](https://fs29.formsite.com/Gd7elL/form3/index.html). 
 
 ***
 
 ### Nominate a Student
 
-Nominations are a great way to connect our team with prospective students. If you are an educator or mentor and know a student who would be a good fit for this program, please nominate them using [this form](https://goo.gl/forms/SV4WxP4p3Tnsf85e2). 
+Nominations are a great way to connect our team with prospective students. If you are an educator or mentor and know a student who would be a good fit for this program, please nominate them using the online [Nominations form(https://goo.gl/forms/SV4WxP4p3Tnsf85e2). 
 
 Students do not need a nomination to apply and nominated students are at no greater advantage of being admitted.
 
