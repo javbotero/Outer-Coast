@@ -55,7 +55,7 @@ To recommend a student for the Summer Seminar, please complete the online [Teach
 
 ### Nominate a Student
 
-Nominations are a great way to connect our team with prospective students. If you are an educator or mentor and know a student who would be a good fit for this program, please nominate them using the online [Nominations form](https://goo.gl/forms/SV4WxP4p3Tnsf85e2). 
+Nominations are a great way to connect our team with prospective students. If you are an educator or mentor and know a student who would be a good fit for this program, please nominate them using the online [Nomination form](https://goo.gl/forms/SV4WxP4p3Tnsf85e2). 
 
 Students do not need a nomination to apply and nominated students are at no greater advantage of being admitted.
 
