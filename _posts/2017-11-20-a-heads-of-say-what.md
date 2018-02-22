@@ -42,9 +42,9 @@ And thanks to the estimable James Poulson, we also did a few team photos — on 
 
 The beat of the recruitment drum is strong and steady:
 
-We’re looking for faculty, or “faculty pairs,” for our 2018 Summer Seminar. [Information here]().
+We’re looking for faculty, or “faculty pairs,” for our 2018 Summer Seminar. [Information here](https://docs.google.com/document/d/1muwxmbTquGUYlPMtug0kP1e_LoY_GB08gOSjyRct_tA/edit?usp=sharing).
 
-And we’re looking for candidates for academic director — for an academic visionary excited about the potential to challenge and improve on long-held conventions of higher education, and help engineer the DNA of the Outer Coast academic program. [Information here]().
+And we’re looking for candidates for academic director — for an academic visionary excited about the potential to challenge and improve on long-held conventions of higher education, and help engineer the DNA of the Outer Coast academic program. [Information here](https://docs.google.com/document/d/1gjoutibMBPOCfTB9QDDCkgMWkTRvI-pmJD8on3c7gKA/edit?usp=sharing).
 
 ![Outer Coast team]({{ site.assetsurl }}news/2017-11-20/zero-days.jpg)
 
