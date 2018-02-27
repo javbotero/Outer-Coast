@@ -25,6 +25,8 @@ A complete application includes:
 
 Summer Seminar applications may be completed online or by mail.
 
+Admissions decision are made on a rolling basis up until April 15.
+
 ***
 
 ### Online Student Application
