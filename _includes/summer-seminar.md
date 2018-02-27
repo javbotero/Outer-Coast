@@ -14,8 +14,8 @@ For more information on the Summer Seminar, please peruse our full Summer Semina
 
 ### Student Application Materials
 
-**Student Applications Due: March 15, 2018, 11:59 p.m. AKDT**  
-**Teacher Recommendations Due: March 26, 2018, 11:59 p.m. AKDT**
+**Student Applications Due: March 25, 2018, 11:59 p.m. AKDT**  
+**Teacher Recommendations Due: April 1, 2018, 11:59 p.m. AKDT**
 
 A complete application includes:
 
@@ -43,7 +43,7 @@ Please mail your paper Student Application and Set Your Own Cost of Attendance F
 _Outer Coast  
 P.O. Box 6573  
 Sitka, Alaska 99835_  
-postmarked by March 15, 2018  
+postmarked by March 25, 2018  
 
 ***
 
