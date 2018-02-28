@@ -31,7 +31,7 @@ Admissions decision are made on a rolling basis up until April 15.
 
 ### Online Student Application
 
-[Student Application] <A HREF = "https://fs29.formsite.com/Gd7elL/form1/index.html">  
+[Student Application](https://fs29.formsite.com/Gd7elL/form1/index.html)  
 [Set Your Own Cost of Attendance form](https://fs29.formsite.com/Gd7elL/form4/index.html)  
 
 ***
