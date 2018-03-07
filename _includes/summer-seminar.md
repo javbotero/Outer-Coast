@@ -38,7 +38,7 @@ Admissions decision are made on a rolling basis up until April 15.
 
 ### Mail-in Student Application 
 
-Download mail-in version of [Student Application](https://drive.google.com/file/d/1r9pZVTNTOOQF31D3QP8bzmZ5zyf9poHQ/view?usp=sharing) and [Set Your Own Cost of Attendance Form](https://drive.google.com/file/d/1ovzhQ0NpmymsLt_HszWOiU27VGyKyjCj/view?usp=sharing). **Note: teachers must complete their recommendations online.**
+Download mail-in version of [Student Application](https://drive.google.com/file/d/1r9pZVTNTOOQF31D3QP8bzmZ5zyf9poHQ/view?usp=sharing) and [Set Your Own Cost of Attendance Form](https://drive.google.com/file/d/1OG9IxV7kBTJYVDh2oEzNvARJS22f64_c/view). **Note: teachers must complete their recommendations online.**
 
 Please mail your paper Student Application and Set Your Own Cost of Attendance Form in one envelope to: 
 
