@@ -10,7 +10,7 @@ The student body of Outer Coast will be national and international in breadth, a
 
 <!-- This inserts the image -->
 <div class="center">
-  {% include img-materialboxed.html image=site.data.images.about_us_page.after_project_history %}
+  {% include <a href='https://photos.google.com/share/AF1QipOEpVauSUvO8Pv9lg258y4jPC25ra1nLg05dBu1GnkKEOy5vavd7ZYT9p6q32TPOw?key=Uzh5MEZCNjNlQzFGUkM3X1FhNk10QTBOZUNDSjhR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/L7SfH39Ztfc88Q6gwRoynzrwkF3ti5YkVNOGLA_1SpGVEzTbiYQU-Vec-XKr_GRZSEAD_hplTIjARhsdy9LtHcO266LpjjX4moiEPVnHmJCfPV4hWE6H0fBWT9jQoC_n-huSoFXvsw=w2400' /></a> image=site.data.images.summer_seminar_page.after_Outer_Coast_Summer_Seminar_2018 %}
 </div>
 
 #### Brief History of the Project
