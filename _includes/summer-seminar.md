@@ -8,6 +8,11 @@ The goals for the Summer Seminar are threefold: to bring together a diverse coho
 
 The Summer Seminar academic course offering is *Perspectives on Freedom, Authority, and Polarization*, co-taught by X̱’unei Lance Twitchell (joining us for the first portion of the seminar) and Sharon Schuman.
 
+<!-- This inserts the image -->
+<div class="center">
+  {% include img-materialboxed.html image=site.data.images.about_us_page.after_project_history %}
+</div>
+
 The Outer Coast Summer Seminar does not have a fixed cost of attendance. Instead, we ask that the student and their parent(s)/guardian(s) complete the appropriate form (found below) to set their own cost of attendance based on their household’s financial means.
 
 The Summer Seminar runs July 6 - August 4, 2018 in Sitka, Alaska. 
