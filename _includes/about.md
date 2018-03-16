@@ -9,9 +9,7 @@ Outer Coast seeks to teach and inspire promising young people to create virtuous
 The student body of Outer Coast will be national and international in breadth, and diverse in many ways, including race, gender, and socioeconomic status. The project will make a special effort to recruit students from Alaska, particularly Alaska Natives and rural Alaskans, as well as high-achieving students from underserved backgrounds.
 
 <!-- This inserts the image -->
-<div class="center">
-  {% include img-materialboxed.html image=site.data.images.about_us_page.after_project_history %}
-</div>
+<div class="center"> {% include img-materialboxed.html image=site.data.images.about_us_page.after_project_history %} </div>
 
 #### Brief History of the Project
 
