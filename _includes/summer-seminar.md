@@ -24,8 +24,7 @@ For more information on the Summer Seminar (including course information and cos
 A complete application includes:
 
 1. Student Application  
-2. Set Your Own Cost of Attendance form  
-3. A Teacher Recommendation  
+2. A Teacher Recommendation     
 
 Summer Seminar applications may be completed online or by mail.
 
@@ -36,15 +35,14 @@ Admissions decision are made on a rolling basis up until April 15.
 ### Online Student Application
 
 [Student Application](https://fs29.formsite.com/Gd7elL/form1/index.html)  
-[Set Your Own Cost of Attendance form](https://fs29.formsite.com/Gd7elL/form4/index.html)  
 
 ***
 
 ### Mail-in Student Application 
 
-Download mail-in version of [Student Application](https://drive.google.com/file/d/1r9pZVTNTOOQF31D3QP8bzmZ5zyf9poHQ/view?usp=sharing) and [Set Your Own Cost of Attendance Form](https://drive.google.com/file/d/1OG9IxV7kBTJYVDh2oEzNvARJS22f64_c/view). **Note: teachers must complete their recommendations online.**
+Download mail-in version of [Student Application](https://drive.google.com/file/d/1r9pZVTNTOOQF31D3QP8bzmZ5zyf9poHQ/view?usp=sharing) **Note: teachers must complete their recommendations online.**
 
-Please mail your paper Student Application and Set Your Own Cost of Attendance Form in one envelope to: 
+Please mail your paper Student Application to: 
 
 _Outer Coast  
 P.O. Box 6573  
