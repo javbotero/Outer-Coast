@@ -14,6 +14,9 @@ The Summer Seminar runs July 6 - August 4, 2018 in Sitka, Alaska.
 
 For more information on the Summer Seminar (including course information and cost of attendance), please peruse our full Summer Seminar [Program Overview](https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit).
 
+<!-- This inserts the Faculty images -->
+{% include summer-seminar_faculty-photos.html %}
+
 ***
 
 ### Student Application Materials

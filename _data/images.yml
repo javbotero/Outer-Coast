@@ -73,3 +73,10 @@ contribute_thank_you_page:
     - photographer: Berett Wilber
       image: 12
       alt: Twin Island
+summer_seminar_page:
+  faculty:
+    - name: Sharon Schuman
+      image: Faculty_Sharon-Schuman.png
+      alt: Sharon Schuman
+    - name: X̱'unei Lance Twitchell
+      image: Faculty_Xunei-Lance-Twitchell.jpg
