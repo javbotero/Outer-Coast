@@ -50,7 +50,7 @@ Please mail your paper Student Application to:
 _Outer Coast  
 P.O. Box 6573  
 Sitka, Alaska 99835_  
-postmarked by March 25, 2018  
+postmarked by March 31, 2018  
 
 ***
 
