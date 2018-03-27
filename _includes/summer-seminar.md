@@ -21,8 +21,8 @@ For more information on the Summer Seminar (including course information and cos
 
 ### Student Application Materials
 
-**Student Applications Due: March 25, 2018, 11:59 p.m. AKDT**  
-**Teacher Recommendations Due: April 1, 2018, 11:59 p.m. AKDT**
+**Student Applications Due: March 31, 2018, 11:59 p.m. AKDT**  
+**Teacher Recommendations Due: April 8, 2018, 11:59 p.m. AKDT**
 
 A complete application includes:
 
@@ -43,7 +43,7 @@ Admissions decision are made on a rolling basis up until April 15.
 
 ### Mail-in Student Application 
 
-Download mail-in version of [Student Application](https://drive.google.com/file/d/1r9pZVTNTOOQF31D3QP8bzmZ5zyf9poHQ/view?usp=sharing) **Note: teachers must complete their recommendations online.**
+Download mail-in version of [Student Application](https://drive.google.com/file/d/18dgJZ8fn7a31N1XLt3EF0vSMh5XVVIWC/view?usp=sharing) **Note: teachers must complete their recommendations online.**
 
 Please mail your paper Student Application to: 
 
