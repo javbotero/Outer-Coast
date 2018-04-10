@@ -24,13 +24,6 @@ For more information on the Summer Seminar (including course information and cos
 **We are no longer accepting student applications for the 2018 Summer Seminar**  
 **Admissions decisions are made on a rolling basis up until April 22, 2018**
 
-A complete application includes:
-
-1. Student Application  
-2. A Teacher Recommendation     
-
-Summer Seminar applications may be completed online or by mail.
-
 ***
 
 ### Online Student Application
