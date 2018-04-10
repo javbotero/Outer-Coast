@@ -12,17 +12,17 @@ The Outer Coast Summer Seminar does not have a fixed cost of attendance. Instead
 
 The Summer Seminar runs July 6 - August 4, 2018 in Sitka, Alaska. 
 
-For more information on the Summer Seminar (including course information and cost of attendance), please peruse our full Summer Seminar [Program Overview](https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit).
+For more information on the Summer Seminar (including course information and cost of attendance), see our full Summer Seminar [Program Overview](https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit).
 
 <!-- This inserts the Faculty images -->
 {% include summer-seminar_faculty-photos.html %}
 
 ***
 
-### Student Application Materials
+### Student Applications
 
-**Student Applications Due: March 31, 2018, 11:59 p.m. AKDT**  
-**Teacher Recommendations Due: April 8, 2018, 11:59 p.m. AKDT**
+**We are no longer accepting student applications for the 2018 Summer Seminar**  
+**Admissions decisions are made on a rolling basis up until April 22, 2018**
 
 A complete application includes:
 
@@ -30,8 +30,6 @@ A complete application includes:
 2. A Teacher Recommendation     
 
 Summer Seminar applications may be completed online or by mail.
-
-Admissions decision are made on a rolling basis up until April 15.
 
 ***
 
