@@ -26,29 +26,4 @@ For more information on the Summer Seminar (including course information and cos
 
 ***
 
-### Online Student Application
-
-[Student Application](https://fs29.formsite.com/Gd7elL/form1/index.html)  
-
-***
-
-### Mail-in Student Application 
-
-Download mail-in version of [Student Application](https://drive.google.com/file/d/18dgJZ8fn7a31N1XLt3EF0vSMh5XVVIWC/view?usp=sharing) **Note: teachers must complete their recommendations online.**
-
-Please mail your paper Student Application to: 
-
-_Outer Coast  
-P.O. Box 6573  
-Sitka, Alaska 99835_  
-postmarked by March 31, 2018  
-
-***
-
-### Nominate a Student
-
-Nominations are a great way to connect our team with prospective students. If you are an educator or mentor and know a student who would be a good fit for this program, please nominate them using the online [Nomination form](https://goo.gl/forms/SV4WxP4p3Tnsf85e2). 
-
-Students do not need a nomination to apply and nominated students are at no greater advantage of being admitted.
-
 Questions: please contact [info@outercoast.org](mailto:info@outercoast.org)
