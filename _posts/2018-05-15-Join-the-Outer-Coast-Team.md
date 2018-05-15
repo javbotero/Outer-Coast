@@ -1,3 +1,10 @@
+---
+layout: blog
+title: Join the Outer Coast Team!
+date: May 15, 2018
+published: true
+excerpt_separator: <!--more-->
+---
 Outer Coast is hiring!
 
 Looking for a summer opportunity in Sitka? We are looking for two bright, self-directed, and mission-aligned individuals to join the Outer Coast team via the [Alaska Fellows Program](http://alaskafellows.org) beginning this September:
