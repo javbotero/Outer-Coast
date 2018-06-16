@@ -16,7 +16,7 @@ We received a bevy of applications from around Alaska and the Lower 48 and given
 
 <!--more-->
 
-Know someone interested? Put them in touch with us!
+Know someone interested? Put them [in touch with us](mailto:info@outercoast.org)!
 
 We’re excited to talk with any prospective applicants.
 
