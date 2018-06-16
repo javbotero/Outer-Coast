@@ -6,7 +6,7 @@ published: true
 excerpt_separator: <!--more-->
 ---
 
-“How do I apply for the Summer Seminar?” “What kind of course will be taught?” Two questions that have kept us busy for the last couple months as we finalized our [Program Overview] (https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit?usp=sharing), went through draft upon draft of the student application, and interviewed a handful of brilliant and insightful faculty applicants.
+“How do I apply for the Summer Seminar?” “What kind of course will be taught?” Two questions that have kept us busy for the last couple months as we finalized our [Program Overview](https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit?usp=sharing), went through draft upon draft of the student application, and interviewed a handful of brilliant and insightful faculty applicants.
 
 We have some exciting news. Really. The core team is dancing with elation. 
 
@@ -16,7 +16,7 @@ We have answers to these questions! Moreover, we are thrilled to share the follo
 
 #### Student Applications are Open
 
-[Apply for the 2018 Summer Seminar] (http://outercoast.org/summer-seminar.html)
+[Apply for the 2018 Summer Seminar](http://outercoast.org/summer-seminar.html)
 
 The Summer Seminar does not have a fixed cost of attendance. Please see the Set Your Own Cost of Attendance Form on the Summer Seminar webpage for more information.
 
@@ -30,7 +30,7 @@ Gathered on the ancestral home of the Sheetkʼá Ḵwáan (People of the Outer C
 
 _Faculty:_
 
-![X̱'unei Lance Twitchell]({{ site.imagesurl }}Faculty_Xunei-Lance-Twitchell.jpg)
+![X̱'unei Lance Twitchell]({{ site.imagesurl }}Faculty_Xunei-Lance-Twitchell.jpg){:height="65%" width="65%"}
 
 Lance Twitchell carries the Tlingit names X̱’unei & Du Aaní Kawdinook, and the Haida name Ḵ’eijáakw. He lives in Juneau with his wife and bilingual children, and is from the Tlingit, Haida, and Yupʼik native nations. He speaks & studies the Tlingit language, and advocates for indigenous language revitalization. Twitchell is a Northwest Coast Artist and instructor of formline design. He is an Assistant Professor of Alaska Native Languages at the University of Alaska Southeast, a doctoral candidate at Ka Haka ʻUla o Keʻelikōlani College of Hawaiian Language at the University of Hawaiʻi at Hilo, and is a published poet, filmmaker, and musician.
 
@@ -42,7 +42,7 @@ Sharon Schuman earned degrees in English from Stanford (BA), and University of C
 
 Are you in or about to graduate from college? Do you enjoy working with high school students? Does our vision speak to you?
 
-If so, apply to become a [Residential Teaching Assistant (RTA)] (https://docs.google.com/document/d/12gqBef8PtZRwgcMcSeyt3d1-7CqbWSx6fsJrOS9u-kw/edit?usp=sharing) and help shape the inaugural Summer Seminar.
+If so, apply to become a [Residential Teaching Assistant (RTA)](https://docs.google.com/document/d/12gqBef8PtZRwgcMcSeyt3d1-7CqbWSx6fsJrOS9u-kw/edit?usp=sharing) and help shape the inaugural Summer Seminar.
 
 Sincerely, 
 
