@@ -14,10 +14,12 @@ Looking for a summer opportunity in Sitka? We are looking for two bright, self-d
 
 Both fellows work on Outer Coast as part of the Alaska Fellows Program, a nine-month postgraduate fellowship program that places recent college graduates with organizations across Alaska, in Sitka, Anchorage, and Juneau. The Outer Coast Fellows are based in Sitka, where they live in community with other fellows who serve a variety of organizations in the Sitka community.
 
-<!--more__>
+<!--more-->
 
 Questions about the Alaska Fellows Program and working with Outer Coast? Contact Erin at [eslomskipritz@gmail.com](mailto:eslomskipritz@gmail.com) (herself an alumna of the Alaska Fellows Program).
 
 In other news, the team convened in Juneau last weekend for three days of deliberations and we are excited to announce that we have offered admission to 16 amazing young people from across the state and the country. Stay tuned for more news on our first cohort of students! 
 
+More soon, 
 
+Bryden, Cecilia, Erin, Jonathan, and the Outer Coast team 
