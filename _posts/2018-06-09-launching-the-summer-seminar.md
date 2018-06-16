@@ -32,7 +32,7 @@ Sitka, AK 99835
 
 Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax-exempt organization, are our fiscal sponsors (EIN: 23-7240278). All contributions made by check are tax deductible.  
 
-Or contribute online at [outercoast.org/contribute](outercoast.org/contribute).
+Or contribute online at [outercoast.org/contribute](http://outercoast.org/contribute).
 
 With your help, the Summer Seminar will pave the way for a college that will matriculate its first class of 20 students in 2020. The 2018 Summer Seminar is a huge milestone, and we can’t wait for next month. We (and future generations of Outer Coast students) sincerely appreciate your support. 
 
