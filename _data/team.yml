@@ -10,6 +10,8 @@ teams:
         bio: is a graduate of Whitman College, where she earned a B.A. in English. Prior to attending Whitman, she spent her first two years of college at the University of Washington. Since graduating, she has worked in various community-based organizations, aiming to make education and healthcare more accessible to individuals from low-income socioeconomic backgrounds. She currently serves as assistant poetry editor for <a class="blue-grey-text body-link" href="http://www.brackenmagazine.com/" target="_blank">Bracken Magazine</a>. Erin joined the core team as a Sitka Winter Fellow in January of 2018.
       - name: Javier Botero
         bio: is a film producer, writer, and software engineer. Javier coproduced the cyber warfare documentary Zero Days for Director <a class="blue-grey-text body-link" href="http://www.jigsawprods.com/" target="_blank">Alex Gibney</a>, which was short-listed for the 2017 Academy Award for Best Documentary. He has led software development and communications for several tech start-ups. He and Jonathan, with others, co-founded the <a class="blue-grey-text body-link" href="http://www.iialaska.org/programs/sitkafellows" target="_blank">Sitka Fellows Program</a> in 2012. Javier studied philosophy at Yale.
+      - name: Joe Weyhmiller
+        bio: grew up in Craig, Alaska and recently graduated from Boise State University with a B.A in History Secondary Education. He has taken up a variety of roles within schools, including working as a social studies teacher at Initial Point High School in Kuna, Idaho. Joe joined the principal team as a 2018-19 Alaska Fellow based in Sitka.
       - name: Johnny Elliott
         bio: was born and raised in Juneau, Alaska and currently studies at Dartmouth College where he intends to graduate in 2019 with a B.A. in Physics. At Dartmouth, Johnny is involved in the men’s Ultimate Frisbee team (as the president) and a student group called Improve Dartmouth, which runs a website that centralizes dialogue of campus issues and endeavors to implement popular ideas for making Dartmouth a better place. He joined the Outer Coast core team in December of 2017.
       - name: Jonathan Kreiss-Tomkins
@@ -21,9 +23,7 @@ teams:
       - name: Terrell Carter
         bio: took a year off between Deep Springs College and Yale University to help start Guizhou Forerunner College, in Southwest China, a program aiming to help local poor and blind students learn technology skills. At Yale, Terrell studied the history of technology. He first came to Sitka to help the Sitka Fine Arts Camp with marketing and to work on the restoration of the historic Sheldon Jackson Campus.
       - name: Will Hunt
-        bio: is a graduate of Deep Springs College and a current student at Yale College, where he is pursuing a B.A. in computer science. Will took a gap year between Deep Springs and his final two years of undergrad in order to work full-time to bring Outer Coast into existence. He transferred to Yale in the fall of 2016 but continues to work on Outer Coast remotely, overseeing the accreditation process.
-      - name: Joe Weyhmiller
-        bio: grew up in Craig, Alaska and recently graduated from Boise State University with a B.A in History Secondary Education. He has taken up a variety of roles within schools, including working as a social studies teacher at Initial Point High School in Kuna, Idaho. Joe joined the principal team as a 2018-19 Alaska Fellow based in Sitka. 
+        bio: is a graduate of Deep Springs College and a current student at Yale College, where he is pursuing a B.A. in computer science. Will took a gap year between Deep Springs and his final two years of undergrad in order to work full-time to bring Outer Coast into existence. He transferred to Yale in the fall of 2016 but continues to work on Outer Coast remotely, overseeing the accreditation process. 
   - name: Sitka
     members:
       - name: Berett Wilber
