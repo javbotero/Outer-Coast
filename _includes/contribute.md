@@ -15,8 +15,6 @@ The vision for Outer Coast has made improbable progress over the last three year
 </form>
 <!-- ==================================================== -->
 
-Please invest in the launch of the Outer Coast Summer Seminar. Your contribution, matched by larger gifts, will help us raise the $80,000 we need to secure student housing and classrooms, pay faculty and program staff, provide financial aid to all students who need it, and take this important step to opening the college. 
-
 **If you would like to receive a tax receipt please donate by check:** 
 
 Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278).
