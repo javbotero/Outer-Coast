@@ -20,8 +20,6 @@ At the earliest, fall 2019, with admitted students on campus fall 2020. We want 
 
 If you’re interested in applying, <a href="{{ site.root }}/contact.html" class="blue-grey-text body-link">let us know</a>. We’ll keep in touch and contact you when applications are open.
 
-We are also exploring running a pilot academic program for high school students the summer of 2018. Again, if interested, drop us a line.
-
 ### Will there be any gender-based eligibility requirements?
 
 No, none at all. A point of differentiation from Deep Springs, Outer Coast welcomes all students, regardless of gender.
