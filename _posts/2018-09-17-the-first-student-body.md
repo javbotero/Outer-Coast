@@ -47,12 +47,8 @@ The Inaugural Outer Coast Summer Seminar Students
 
 #### [_Contribute to Outer Coast_](http://outercoast.org/contribute/)
 
-To make a tax-exempt contribution, please make checks out to "Sitka Fine Arts Camp", write "Outer Coast" in the memo, and mail them to: 
-
 Outer Coast 
 
 PO Box 6573
 
 Sitka, AK 99835
-
-Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax-exempt organization, are our fiscal sponsors (EIN: 23-7240278). All contributions made by check are tax deductible.  
