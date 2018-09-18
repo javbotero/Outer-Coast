@@ -4,7 +4,7 @@
 
 ### Where can I read more?
 
-[Inside Higher Ed](https://www.insidehighered.com/news/2015/12/11/outer-coast-college-seeks-replicate-deep-springs-success), [Sitka Sentinel](http://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/9434-group-targets-sj-campus-for-new-college), [The Economist](https://www.economist.com/christmas-specials/2017/12/19/an-alternative-college-education), and       [Capital City Weekly/Juneau Empire](http://juneauempire.com/capitalcityweekly/ccw-features/2018-04-11/rethinking-college-experience-sitka) have all covered Outer Coast.
+[Inside Higher Ed](https://www.insidehighered.com/news/2015/12/11/outer-coast-college-seeks-replicate-deep-springs-success), [Sitka Sentinel](http://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/9434-group-targets-sj-campus-for-new-college), [Sitka Sentinel](https://www.adn.com/education/article/lawmaker-plans-new-unusual-private-college-sitka/2015/12/18/), [The Economist](https://www.economist.com/christmas-specials/2017/12/19/an-alternative-college-education), and       [Capital City Weekly/Juneau Empire](http://juneauempire.com/capitalcityweekly/ccw-features/2018-04-11/rethinking-college-experience-sitka) have all covered Outer Coast.
 
 ### Do you have a campus?
 
