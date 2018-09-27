@@ -15,11 +15,7 @@ The vision for Outer Coast has made improbable progress over the last three year
 </form>
 <!-- ==================================================== -->
 
-**If you would like to receive a tax receipt please donate by check:** 
-
-Our generous partners at the Sitka Fine Arts Camp, a 501(c)(3) tax exempt organization under their parent organization, Alaska Arts Southeast, are our fiscal sponsors (EIN: 23-7240278).
-
-Please make checks out to **Sitka Fine Arts Camp**, and write **Outer Coast** in the memo and mail checks to: 
+Outer Coast (EIN 82-3228207) is a tax-exempt charitable organization described in Section 501(c)(3) of the Internal Revenue Code.
 
 > Outer Coast
 > PO Box 6573  
