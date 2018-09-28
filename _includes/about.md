@@ -19,16 +19,14 @@ Founded in 1878, Sheldon Jackson College was the oldest institution of higher le
 
 In the ensuing years, led by the inspiring vision of the Fine Arts Camp, the community of Sitka rallied to restore the campus in perhaps the largest volunteer effort in the history of Alaska.
 
-Today the Sitka Fine Arts Camp runs its summer programs on the Sheldon Jackson Campus to national acclaim, filling Sitka with tremendous creative energy.
-
-In summer 2014, Jonathan Kreiss-Tomkins began discussing the possibility of founding a new college on the campus in partnership with the Fine Arts Camp and the Deep Springs College community. Conversations on this front continue.
+In summer 2014, Jonathan Kreiss-Tomkins began discussing with the Deep Springs community the possibility of founding a new college in partnership with the Fine Arts Camp. Conversations on this front continue.
 
 In January 2015, Jonathan visited Deep Springs College to explore adapting its model to Sitka. (For more on Deep Springs, a small, highly successful two-year liberal arts college in the desert of California, read <A HREF = "http://www.huffingtonpost.com/frank-h-wu/deep-springs-college_b_2944946.html">this article</A> or see <A HREF = "http://www.deepsprings.edu/publications/">this compilation of media coverage</A>.) While there, Jonathan met Will Hunt, a second year student who subsequently committed to move to Sitka in the fall to join the effort to create a Deep Springs-inspired college on Sheldon Jackson Campus.
 
-Full-time work to create Outer Coast began September 2015. A four-person principal team of Jonathan, Will, Stephanie Gilardi, and Javier Botero convened in Sitka, with several members uprooting their professional and personal lives to move to Sitka and devote themselves to the project. In mid-November, the team organized a two-day convening on the campus, bringing together collaborators from Sitka, Alaska, and the Lower 48 to contribute to the vision of Outer Coast.
+Full-time work to create Outer Coast began September 2015. A four-person principal team of Jonathan, Will, Stephanie Gilardi, and Javier Botero convened in Sitka, with several members uprooting their professional and personal lives to move to Sitka and devote themselves to the project. In mid-November, the team organized a two-day convening on the campus, bringing together collaborators from Sitka, Alaska, and the Lower 49 to contribute to the vision of Outer Coast.
 
-Through the following year, Jonathan, Will, Stephanie, and Javier worked on the disparate aspects of creating a college, from accreditation to pedagogy to fundraising to admissions and recruitment.
+In the fall of 2016, the principal team expanded to include Bryden Sweeney-Taylor, Cecilia Dumouchel, and Harry Choee. At that time, the core team of collaborators convened once more in Sitka to synthesize collective energy and develop a strategic vision for the project. 
 
-In the fall of 2016, the principal team expanded to include Bryden Sweeney-Taylor, Cecilia Dumouchel, and Harry Choee. At that time, the core team of collaborators convened once more in Sitka to synthesize collective energy and develop a strategic vision for the project’s second year of operations.
+In October 2017, The team made the decision to “cross the Rubicon” and commit to launching the Outer Coast Summer Seminar in the summer of 2018. The application period closed with <A HREF = https://www.google.com/maps/d/u/0/edit?mid=1Wj9-daMr085tk4BfOt3-PcijcVHpataZ&ll=39.297740669435434%2C-122.24243079999997&z=3>43 applicants</A> from across Alaska and the Lower 49. The inaugural Summer Seminar student body was sixteen strong with students hailing from Shishmaref, AK to South Pasadena, CA. The 2018 Summer Seminar was a great success, and there are plans for a bigger and better Summer Seminar in 2019. For more on this, please see the <A HREF = http://outercoast.org/summer-seminar.html>Summer Seminar</A> page. 
 
 All aspects of the Outer Coast project are actively progressing through present (<span id="current-month-year">March 2016</span>).
