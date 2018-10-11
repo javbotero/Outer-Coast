@@ -10,10 +10,6 @@
 
 We're talking about it! The nationally renowned Sitka Fine Arts Camp owns and is restoring the Sheldon Jackson Campus. We are excited about the possibility of Outer Coast on Sheldon Jackson Campus, but nothing is decided and there are many important details to work through.
 
-### Where is the campus?
-
-Sheldon Jackson Campus is in the heart of Sitka, Alaska, a few hundred meters from Sitka’s downtown and bordering the beautiful Sitka National Historical Park.
-
 ### When do you start taking applications?
 
 At the earliest, fall 2019, with admitted students on campus fall 2020. We want to emphasize that this is the most optimistic possible timeline.
