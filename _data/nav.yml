@@ -5,9 +5,9 @@ top:
     page: summer-seminar.html
       subcategories:
       - subtitle: Summer Seminar 2018
-        page: summer-seminar-2018.html
+        subhref: summer-seminar-2018.html
       - subtitle: Summer Seminar 2019
-        page: 
+        subhref: 
   - name: F.A.Q.
     page: faq.html
   - name: News
