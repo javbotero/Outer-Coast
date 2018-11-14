@@ -3,6 +3,11 @@ top:
     page: about.html
   - name: Summer Seminar
     page: summer-seminar.html
+      subcategories:
+      - subtitle: Summer Seminar 2018
+        page: summer-seminar-2018.html
+      - subtitle: Summer Seminar 2019
+        page: 
   - name: F.A.Q.
     page: faq.html
   - name: News
