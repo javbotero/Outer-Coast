@@ -3,6 +3,8 @@ top:
     page: about.html
   - name: Summer Seminar
     page: summer-seminar.html
+      - subpage name: Summer Seminar 2018
+        page: summer-seminar-2018.html
   - name: F.A.Q.
     page: faq.html
   - name: News
