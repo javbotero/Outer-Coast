@@ -4,7 +4,7 @@
       <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         <ul>
           {% for entry in item.subfolderitems %}
-          <li><a href="{{ entry.url }}" class="blue-grey-text">>{{ entry.subpage }}</a></li>
+          <li><a href="{{ site.root }}/{{ link.url }}" class="blue-grey-text">{{ link.subpage }}</a></li>
         {% endfor %}
           <li>
         </ul>
