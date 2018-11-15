@@ -6,7 +6,6 @@
           {% for entry in item.subfolderitems %}
           <li><a href="{{ entry.url }}" class="blue-grey-text">>{{ entry.subpage }}</a></li>
         {% endfor %}
-          <li>
         </ul>
     {% endif %}
   {% endfor %}
@@ -24,6 +23,11 @@
       {% for link in site.data.nav.top %}
         {% if page.title != link.name %}
           <li><a class="blue-grey-text text-darken-2" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
+            <ul>
+          {% for entry in item.subfolderitems %}
+          <li><a href="{{ entry.url }}" class="blue-grey-text">>{{ entry.subpage }}</a></li>
+        {% endfor %}
+        </ul>
         {% endif %}
       {% endfor %}
     </ul>
