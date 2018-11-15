@@ -3,6 +3,11 @@ top:
     page: about.html
   - name: Summer Seminar
     page: summer-seminar.html
+    subfolderitems:
+      - subpage: Summer Seminar 2018
+        url: summer-seminar-2018.html
+      - subpage: Summer Seminar 2018
+        url: summer-seminar-2019.html
   - name: F.A.Q.
     page: faq.html
   - name: News
