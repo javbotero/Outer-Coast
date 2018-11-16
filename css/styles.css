@@ -140,12 +140,8 @@ nav li a:hover {
   text-decoration: none;
 }
 
-nav li a:hover .dropdown-items {
-  display: inline-block;
-}
-
 .dropdown-items {
-  display: none;
+
   position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
