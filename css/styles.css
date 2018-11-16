@@ -140,6 +140,10 @@ nav li a:hover {
   text-decoration: none;
 }
 
+nav li a:hover .dropdown-items {
+  display: inline-block;
+}
+
 .dropdown-items {
   display: none;
   position: absolute;
