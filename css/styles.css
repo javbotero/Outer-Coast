@@ -150,7 +150,7 @@ nav li a:hover {
 }
 
 .dropdown-buttons:hover .dropdown-items {
-  display: flex;
+  display: block;
 }
 
 p {
