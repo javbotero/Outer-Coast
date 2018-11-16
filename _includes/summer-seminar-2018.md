@@ -18,11 +18,3 @@ Through participation in service projects, students experience the value of mean
 <strong>Self-governance</strong>
 
 Summer Seminar students are vested with responsibility to help govern their own community. RTAs facilitate the self-governing process but ultimately empower students to make and implement community decisions and navigate their consequences. The self-governance pillar is an opportunity for students to develop communication and leadership skills and mature as young adults.
-
-### Student Applications
-
-**The nominations form and student application for the Outer Coast Summer Seminar 2019 will go live in the coming months. These documents will be available through our newsletter.**  
-
-***
-
-Questions: please contact [info@outercoast.org](mailto:info@outercoast.org)
