@@ -1,16 +1,21 @@
 <ul id="dropdown1" class="dropdown-content">
+  {% if site.data.nav.top[0] %}
   {% for link in site.data.nav.top %}
     {% if page.path != link.page %}
       <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
+        {% if link.subfolderitems[0] %}
         <ul>
-          {% for link in item.subfolderitems %}
+          {% for link in link.subfolderitems %}
           <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         {% endfor %}
         </ul>
+        {% endif %}
       </li>
     {% endif %}
   {% endfor %}
+  {% endif %}
 </ul>
+
 <nav class="hidden white blue-text">
   <div class="nav-wrapper">
 
@@ -19,15 +24,27 @@
         <a href="{{ site.root }}/" class="blue-grey-text brand-logo">Outer Coast</a>
       </li>
     </ul>
+    
 
-    <ul class="right hide-on-med-and-down">
-      {% for link in site.data.nav.top %}
-        {% if page.title != link.name %}
-          <li><a class="blue-grey-text text-darken-2" href="{{ site.root }}/{{ link.page }}">{{ link.name }}</a></li>
+      <ul class="right hide-on-med-and-down">
+       {% if site.data.nav.top[0] %}
+        {% for link in site.data.nav.top %}
+         {% if page.path != link.page %}
+      <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
+        {% if link.subfolderitems[0] %}
+        <ul class="dropdown-items">
+          {% for link in link.subfolderitems %}
+          <li class=""><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
         {% endif %}
-      {% endfor %}
+      </li>
+    {% endif %}
+  {% endfor %}
+  {% endif %}
     </ul>
-
+    
+    
     <ul class="right hide-on-large-only">
       <li><a class="blue-grey-text text-darken-2 dropdown-button" href="#" data-activates="dropdown1"><i class="material-icons">toc</i></a></li>
     </ul>
