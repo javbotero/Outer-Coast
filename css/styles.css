@@ -140,7 +140,7 @@ nav li a:hover {
   text-decoration: none;
 }
 
-.right hide-on-med-and-down .dropdown-buttons .dropdown-items {
+.right .hide-on-med-and-down .dropdown-buttons .dropdown-items {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
