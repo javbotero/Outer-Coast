@@ -1,13 +1,13 @@
 <ul id="dropdown1" class="dropdown-content">
   {% for link in site.data.nav.top %}
     {% if page.path != link.page %}
-      <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+      <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
         <ul>
-          {% for entry in item.subfolderitems %}
-          <li><a href="{{ site.root }}/{{ link.url }}" class="blue-grey-text">{{ link.subpage }}</a></li>
+          {% for link in item.subfolderitems %}
+          <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         {% endfor %}
-          <li>
         </ul>
+      </li>
     {% endif %}
   {% endfor %}
 </ul>
