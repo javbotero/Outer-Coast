@@ -140,7 +140,7 @@ nav li a:hover {
   text-decoration: none;
 }
 
-.dropdown-items {
+.right hide-on-med-and-down .dropdown-buttons .dropdown-items {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -149,7 +149,7 @@ nav li a:hover {
   z-index: 1;
 }
 
-.nav li:hover .dropdown-items {
+.dropdown-buttons:hover .dropdown-items {
   display: inline-block;
 }
 
