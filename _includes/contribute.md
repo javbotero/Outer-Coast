@@ -26,7 +26,3 @@ We (and future generations of Outer Coast students) sincerely appreciate your su
 ## Contribute Your Time
 
 Are you a lawyer with expertise in the nonprofit sector? Are you a visual artist with experience in graphic design and logo design? Are you interested in collaborating with Outer Coast on a pro bono basis? If so, [please let us know]({{ site.root }}/contact.html).
-
-------------------
-
-[Let us know]({{ site.root }}/contact.html) if you would like us to contact you when we have gained tax-exempt status with the IRS.
