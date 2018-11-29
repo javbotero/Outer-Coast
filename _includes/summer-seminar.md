@@ -13,3 +13,5 @@ The inaugural Outer Coast Summer Seminar took place July 6 - August 4, 2018 in S
 Visit the <a href="http://outercoast.org/summer-seminar-2018.html">Summer Seminar 2018 page.</a> 
 
 Visit the <a href="http://outercoast.org/summer-seminar-2019.html">Summer Seminar 2019 page.</a> 
+
+For current high school juniors and seniors that are interested in Outer Coast Summer Seminar 2019, you can fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScYaNxZNDcuAIZIiFmm31_4_mK_3213GDLkTtn6OIOzIkAZ_g/viewform?usp=sf_link) to receive more information about the seminar as soon as it arrives. 
