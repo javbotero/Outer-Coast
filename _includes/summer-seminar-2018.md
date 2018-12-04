@@ -31,10 +31,6 @@ Service projects included:
 
 Over the course of the Summer Seminar, students logged a total of 84 service hours per person and 1,344 hours as a student body. And perhaps most importantly, they began to realize what is possible when a small group of people work together to achieve something beyond themselves.
 
-<!-- This inserts the Labor image -->
-{% include summer-seminar_labor-photo.html %}
-
-***
 
 <strong>Self-Governance:</strong>
 
