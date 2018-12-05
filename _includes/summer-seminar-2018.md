@@ -37,6 +37,7 @@ Over the course of the Summer Seminar, students logged a total of 84 service hou
 ***
 
 
+
 <strong>Self-Governance:</strong>
 
 At the close of the program, students reflected that self-governance was both the most rewarding and challenging aspect of the Summer Seminar. After much deliberation and discussion, students adopted and refined a consensus-based decision-making process through which to govern. 
