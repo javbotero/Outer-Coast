@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Launching the Summer Seminar
-date: June 9, 2018
+date: September 26, 2018
 published: true
 excerpt_separator: <!--more-->
 ---
