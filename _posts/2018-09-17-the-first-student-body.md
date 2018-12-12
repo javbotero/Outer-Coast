@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The First Student Body
+title: The First Student Body Reflects on the Summer Seminar
 date: September 17, 2018
 published: true
 excerpt_separator: <!--more-->
