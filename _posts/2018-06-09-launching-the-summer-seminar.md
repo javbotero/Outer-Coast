@@ -5,9 +5,6 @@ date: June 9, 2018
 published: true
 excerpt_separator: <!--more-->
 ---
-
-Dear friend,
-
 The inaugural **Outer Coast Summer Seminar** is less than a month away. On July 6th, a passionate, curious, and diverse cohort of exceptional high school students from around Alaska and across the country will arrive in Sitka.
 
 Over four weeks, students will spend mornings immersed in a college-level seminar, Perspectives on Freedom, Authority, and Polarization. Afternoons will find them beating back brush on the local trail system and re-siding an outbuilding on the historic Sheldon Jackson campus. In the evenings, they will study, host guest speakers, and determine how to live together through the practice of self-governance.
