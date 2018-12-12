@@ -1,13 +1,10 @@
 ---
 layout: blog
-title: Launching the Summer Seminar
+title: 501(c)(3) status and other annoucements
 date: September 26, 2018
 published: true
 excerpt_separator: <!--more-->
 ---
-
-September 27, 2018
-
 After what was truly an amazing summer, the Outer Coast team convened in Sitka earlier this month to take stock of where we are and make plans for the coming year. 
 
 <!--more-->
