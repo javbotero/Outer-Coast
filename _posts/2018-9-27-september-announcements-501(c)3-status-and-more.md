@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 501(c)(3)Status and Other Annoucements
+title: 501(c)(3) Status and Other Annoucements
 date: September 26, 2018
 published: true
 excerpt_separator: <!--more-->
