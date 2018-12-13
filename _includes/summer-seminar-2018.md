@@ -6,7 +6,7 @@ Outer Coast Summer Seminar 2018 brought together sixteen incredible students fro
 
 Students spent their mornings in the classroom, discussing ideas of freedom, authority, and polarization, and engaging with both Indigenous and Western literary texts. They began and ended the class with a reflection on two questions: “what does it mean to be free?” and “why do we tell stories?”
 
-The course opened with an exploration of “Raven Stories,” let by faculty member X’unei Lance Twitchell which the students thoroughly enjoyed. They read eyewitness accounts of the Battle of Sitka; delved into classic philosophical works by Plato, Aristotle, and Sophocles; read Shakespeare and presented interpretations of King Lear; and led discussions on Louise Erdrich’s The Round House. They also read and analyzed works by Summer Seminar faculty members: Sharon Schuman and Ishmael Hope.
+The course opened with an exploration of “Raven Stories,” led by faculty member X’unei Lance Twitchell which the students thoroughly enjoyed. They read eyewitness accounts of the Battle of Sitka; delved into classic philosophical works by Plato, Aristotle, and Sophocles; read Shakespeare and presented interpretations of King Lear; and led discussions on Louise Erdrich’s The Round House. They also read and analyzed works by Summer Seminar faculty members: Sharon Schuman and Ishmael Hope.
 
 <!-- This inserts the Faculty images -->
 {% include summer-seminar_faculty-photos.html %}
