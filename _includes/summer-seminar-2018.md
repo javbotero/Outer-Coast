@@ -31,11 +31,19 @@ Service projects included:
 
 Over the course of the Summer Seminar, students logged a total of 84 service hours per person and 1,344 hours as a student body. And perhaps most importantly, they began to realize what is possible when a small group of people work together to achieve something beyond themselves.
 
+![OCSS 2018 Students Painting]({{ site.imagesurl }}OCSS2018_Painting.JPG){:height="65%" width="65%"}
+
+_OCSS 2018 Students Painting the Rasmusson Building on the historic Sheldon Jackson campus._
+
 
 <strong>Self-Governance:</strong>
 
 At the close of the program, students reflected that self-governance was both the most rewarding and challenging aspect of the Summer Seminar. After much deliberation and discussion, students adopted and refined a consensus-based decision-making process through which to govern. 
 
 Over the course of the seminar, students continued to refine the skill of making group-based decisions. In addition to selecting and planning weekly service projects, they also chose local speakers from around Sitka to participate in a biweekly Community Hour,  created a values document, and reviewed and passed a number of motions pertaining to community policies. These policies included cell phone use and their curfew at night. Students learned from their mistakes, resolved internal conflict, and took responsibility for making lasting decisions for the program.
+
+![OCSS 2018 Students Voting]({{ site.imagesurl }}OCSS2018_Voting.jpg){:height="65%" width="65%"}
+
+_OCSS 2018 Students voting in a Student Body meeting._
 
 Overall, we are glad to report that the seminar was a success. If you want to learn more about Summer Seminar 2018, check out the Program Overview [here](https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit?usp=sharing).
