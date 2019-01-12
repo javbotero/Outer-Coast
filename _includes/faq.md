@@ -22,4 +22,4 @@ No, none at all. Outer Coast welcomes all students, regardless of gender.
 
 ### Will credits from Outer Coast be transferable to four-year universities?
 
-Outer Coast is in conversations with a partner institution to sponsor interim accreditation, simultaneous to the larger process of applying for independent accreditation. Our goal is to make our credits transferable to four-year institutions upon accreditation.
+Outer Coast is in conversations with prospective partner institutions to sponsor interim accreditation, simultaneous to the larger process of applying for independent accreditation. Our goal is to make our credits transferable to four-year institutions upon accreditation.
