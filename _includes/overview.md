@@ -1,7 +1,5 @@
 ### Outer Coast Summer Seminar: Overview
 
-DELETE: Outer Coast Summer Seminar 2018 brought together sixteen incredible students from across Alaska and the Lower 49 to Sitka, Alaska for a four-week exploration of Outer Coast’s three pillars of Academics, Service & Labor, and Self Governance. [Read what the student body wrote about the program here](http://outercoast.org/2018/09/17/the-first-student-body.html) or check out the following recap below:
-
 The Outer Coast Summer Seminar offers a diverse cohort of Alaskan and Lower 48 high school students (current sophomores and juniors) a transformative academic and service based experience that is founded on the belief that students can and should participate in community governance. 
 
 <strong>Program Dates</strong>
