@@ -1,7 +1,6 @@
 <ul id="dropdown1" class="dropdown-content">
   {% if site.data.nav.top[0] %}
   {% for link in site.data.nav.top %}
-    {% if page.path != link.page %}
       <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
         {% if link.subfolderitems[0] %}
         <ul>
@@ -11,7 +10,6 @@
         </ul>
         {% endif %}
       </li>
-    {% endif %}
   {% endfor %}
   {% endif %}
 </ul>
@@ -29,9 +27,7 @@
       <ul class="right hide-on-med-and-down">
        {% if site.data.nav.top[0] %}
         {% for link in site.data.nav.top %}
-         {% if page.path != link.page %}
       <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
-        {% endif %}
         {% if link.subfolderitems[0] %}
         <ul class="dropdown-items">
           {% for link in link.subfolderitems %}
