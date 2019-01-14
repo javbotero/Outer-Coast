@@ -24,6 +24,11 @@ Over the course of five weeks, students immerse themselves in two fast-paced, co
 <strong>Weekday Schedule</strong>
 On Monday through Friday, students participate in classes in the mornings, do service in the community in the afternoons, and finish off the day with community programing and unstructured time in the evenings. On Wednesday mornings and Friday evenings, students self-govern during their student body meetings.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 <strong>Program Overview</strong>
 For more details on the Summer Seminar, please see the [Program Overview](https://docs.google.com/document/d/1bCVFT9hm3qrExHA243a7rcjKcV_XDuR_1shoyceWMlo/edit). The Program Overview and website will be updated as Summer Seminar faculty and course descriptions are announced.
 
