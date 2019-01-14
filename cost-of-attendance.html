@@ -1,0 +1,16 @@
+---
+layout: default
+title: Cost of Attendance
+permalink: /cost-of-attendance.html
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include cost-of-attendance.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
