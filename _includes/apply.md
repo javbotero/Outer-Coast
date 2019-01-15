@@ -11,4 +11,4 @@ Application includes:
 
 Current high school sophomores and juniors are eligible to apply. Students do not need to be nominated to apply.
 
-For more program and eligibility information, visit the Overview.
+For more program and eligibility information, visit the [Overview](../overview.html).
