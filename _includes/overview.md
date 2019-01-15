@@ -26,10 +26,10 @@ On Monday through Friday, students participate in classes in the mornings, do se
 
 | Time          | Activity      |
 | ------------- | ------------- |
-| 7-8am  | Breakfast  |
+| 7-8a | Breakfast  |
+| 8:00-8:30a  | Unstructured |
 | 8:30-10:00a  | Class A |
 |   | Class B  |
-| 8:30-10:00a  | Class A |
 | 10-10:30a  | Unstructured  |
 | 10:30-12p  | Class C |
 | 12-1p  | Lunch  |
@@ -37,7 +37,7 @@ On Monday through Friday, students participate in classes in the mornings, do se
 | 4-5:30p | Unstructured  |
 | 5:30-6:30p | Dinner|
 | 6:30-8:00p | Community Programming  |
-| 8:00p on | Unstructured / Study space open|
+| 8:00p on | Unstructured/study space open|
 
 <strong>Program Overview</strong>
 For more details on the Summer Seminar, please see the [Program Overview](https://docs.google.com/document/d/1bCVFT9hm3qrExHA243a7rcjKcV_XDuR_1shoyceWMlo/edit). The Program Overview and website will be updated as Summer Seminar faculty and course descriptions are announced.
