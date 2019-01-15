@@ -6,7 +6,7 @@ The Outer Coast Summer Seminar offers a diverse cohort of Alaskan and Lower 48 h
 Saturday, June 29th - Saturday, August 3rd, 2019
 
 <strong>Eligibility</strong>
-Current high school sophomores and juniors are eligible to apply. We hope to bring together high-potential students who are invested in community. We place a special emphasis on recruiting students from underserved backgrounds.
+Current high school sophomores and juniors are eligible to [apply](../apply.html). We hope to bring together high-potential students who are invested in community. We place a special emphasis on recruiting students from underserved backgrounds.
 
 <strong>Location</strong>
 The Summer Seminar is hosted on the Mt. Edgecumbe High School and Sitka Fine Arts Camp campuses in Sitka, Alaska. Students live in community with their peers alongside Residential Teaching Assistants. 
