@@ -1,13 +1,17 @@
-top:
+wtop:
   - name: About
     page: about.html
   - name: Summer Seminar
-    page: summer-seminar.html
+    page: overview.html
     subfolderitems:
+      - name: Overview
+        page: overview.html
+      - name: Apply
+        page: apply.html
+      - name: Cost of Attendance
+        page: cost-of-attendance.html
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
-      - name: Summer Seminar 2019
-        page: summer-seminar-2019.html
   - name: F.A.Q.
     page: faq.html
   - name: News
