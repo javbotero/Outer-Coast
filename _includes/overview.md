@@ -14,6 +14,9 @@ Current high school sophomores and juniors are eligible to apply. We hope to bri
 
 The Summer Seminar is hosted on the Mt. Edgecumbe High School and Sitka Fine Arts Camp campuses in Sitka, Alaska. Students live in community with their peers alongside Residential Teaching Assistants. 
 
+<!-- This inserts the images -->
+{% include sfac-2.jpg %}
+
 <strong>Educational Model</strong>
 
 Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
@@ -36,6 +39,7 @@ On Monday through Friday, students participate in classes in the mornings, do se
 | 5:30-6:30p | Dinner|
 | 6:30-8:00p | Community Programming  |
 | 8:00p on | Unstructured/study space open|
+
 _Schedule is subject to change._
 
 <strong>Program Overview</strong>
