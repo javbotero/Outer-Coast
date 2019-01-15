@@ -1,6 +1,6 @@
 ### Apply
 
-Applications will be accepted from Tuesday, January 15 to Friday, February 15, 2019. 
+<strong> Applications will be accepted from Tuesday, January 15 to Friday, February 15, 2019. </strong> Please check back on January 15th for the application link. 
 
 Application includes:
 
