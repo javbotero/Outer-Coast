@@ -1,5 +1,10 @@
 ### Outer Coast Summer Seminar: Overview
 
+<!-- Inserts the Apply button -->
+<div class="center-align bottom-appeal">
+  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Apply Here</a>
+</div>
+
 The Outer Coast Summer Seminar offers a diverse cohort of Alaskan and Lower 48 high school students (current sophomores and juniors) a transformative academic and service based experience that is founded on the belief that students can and should participate in community governance. 
 
 <strong>Program Dates</strong>
