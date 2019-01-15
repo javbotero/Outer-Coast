@@ -1,10 +1,5 @@
 ### Outer Coast Summer Seminar: Overview
 
-<!-- Inserts the Apply button -->
-<div class="center-align bottom-appeal">
-  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Apply Here</a>
-</div>
-
 The Outer Coast Summer Seminar offers a diverse cohort of Alaskan and Lower 48 high school students (current sophomores and juniors) a transformative academic and service based experience that is founded on the belief that students can and should participate in community governance. 
 
 <strong>Program Dates</strong>
@@ -39,4 +34,10 @@ On Monday through Friday, students participate in classes in the mornings, do se
 
 <strong>Program Overview</strong>
 For more details on the Summer Seminar, please see the [Program Overview](https://docs.google.com/document/d/1bCVFT9hm3qrExHA243a7rcjKcV_XDuR_1shoyceWMlo/edit). The Program Overview and website will be updated as Summer Seminar faculty and course descriptions are announced.
+
+<!-- Inserts the Apply button -->
+<div class="center-align bottom-appeal">
+  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Program Application</a>
+</div>
+
 
