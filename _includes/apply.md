@@ -13,7 +13,7 @@ Current high school sophomores and juniors are eligible to apply. Students do no
 
 <!-- Inserts the Application button -->
 <div class="center-align bottom-appeal">
-  <a href="https://fs29.formsite.com/Gd7elL/sgeaffeme8/index.html" class="waves-effect waves-default btn white grey-text text-darken-4">Program Application</a>
+  <a href="https://fs29.formsite.com/Gd7elL/sgeaffeme8/index.html" class="waves-effect waves-default btn white grey-text text-darken-4">Apply Online</a>
 </div>
 
 
