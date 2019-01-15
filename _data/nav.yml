@@ -8,6 +8,8 @@ top:
         page: overview.html
       - name: Apply
         page: apply.html
+      - name: Nominate
+        page: nominate.html
       - name: Cost of Attendance
         page: cost-of-attendance.html
       - name: Summer Seminar 2018
