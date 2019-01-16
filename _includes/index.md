@@ -16,6 +16,11 @@ But many of us know that these rosy feelings mask the truth about higher educati
 
 We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
 
+<!-- Inserts the Apply button -->
+<div class="center-align bottom-appeal">
+  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Applications are live for the Outer Coast 2019 Summer Seminar</a>
+</div>
+
 <!-- This inserts the image -->
 <div class="center">
   {% include img-materialboxed.html image=site.data.images.front_page.above_three_pillars %}
