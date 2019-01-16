@@ -25,6 +25,9 @@ _The historic Sheldon Jackson campus._
 
 Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
 
+<!-- This inserts the student images -->
+{% include overviewphotos.html %}
+
 <strong>Weekday Schedule</strong>
 
 On Monday through Friday, students participate in classes in the mornings, do service in the community in the afternoons, and finish off the day with community programing and unstructured time in the evenings. On Wednesday mornings and Friday evenings, students self-govern during their student body meetings.
