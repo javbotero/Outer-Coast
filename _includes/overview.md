@@ -15,7 +15,8 @@ Current high school sophomores and juniors are eligible to apply. We hope to bri
 The Summer Seminar is hosted on the Mt. Edgecumbe High School and Sitka Fine Arts Camp campuses in Sitka, Alaska. Students live in community with their peers alongside Residential Teaching Assistants. 
 
 <!-- This inserts the campus image -->
-![SFAC]({{ site.imagesurl }}SFAC.JPG){:height="65%" width="65%"}
+![SFAC]({{ site.imagesurl }}SFAC.jpg){:height="65%" width="65%"}
+© Berett Wilber
 
 _The historic Sheldon Jackson campus._
 
