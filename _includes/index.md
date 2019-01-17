@@ -1,3 +1,8 @@
+<!-- Inserts the Apply button -->
+<div class="center-align bottom-appeal">
+  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Applications are live for the 2019 Outer Coast Summer Seminar</a>
+</div>
+
 # Outer Coast
 
 ### What if we could start over with higher education?
@@ -15,11 +20,6 @@ But many of us know that these rosy feelings mask the truth about higher educati
 [Films](http://www.youtube.com/watch?v=eLdU7uts4ws) have been shot, [articles](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been written, [bills](http://www.newyorker.com/magazine/2012/05/28/the-cost-of-college) have been passed. But these problems persist, to the point where they can seem intractable.
 
 We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
-
-<!-- Inserts the Apply button -->
-<div class="center-align bottom-appeal">
-  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Applications are live for the Outer Coast 2019 Summer Seminar</a>
-</div>
 
 <!-- This inserts the image -->
 <div class="center">
