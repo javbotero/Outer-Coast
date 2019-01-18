@@ -1,6 +1,13 @@
-Dear Friend,
-
+---
+layout: blog
+title: Final Update of 2018
+date: December 29, 2018
+published: true
+excerpt_separator: <!--more-->
+---
 Before we close out the year, we have one more thing to share with you: the latest draft of the Outer Coast prospectus -- what we are calling version 8.3.
+
+<!--more-->
 
 What is the prospectus?
 
