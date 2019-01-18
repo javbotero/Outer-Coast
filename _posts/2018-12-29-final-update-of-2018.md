@@ -5,7 +5,7 @@ date: December 29, 2018
 published: true
 excerpt_separator: <!--more-->
 ---
-Before we close out the year, we have one more thing to share with you: the latest draft of the Outer Coast prospectus -- what we are calling version 8.3.
+Before we close out the year, we have one more thing to share with you: the latest draft of the Outer Coast prospectus -- what we are calling [version 8.3](https://docs.google.com/document/u/2/d/1EiRIcR_xnQs25kSqoPNVXk4T8jHSMJDLhcpK2Wn1XPA/edit).
 
 <!--more-->
 
