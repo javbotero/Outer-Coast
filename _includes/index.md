@@ -49,6 +49,11 @@ After two years, we want Outer Coast students to have the option to transfer to 
 
 We’re working toward a new, scalable model for higher education. We think we’re off to a pretty great start.
 
+<!-- Inserts the Apply button -->
+<div class="center-align bottom-appeal">
+  <a href="https://goo.gl/forms/NgmahXQn98ZSyuPq1" class="waves-effect waves-default btn white grey-text text-darken-4">Join our Mailing List!</a>
+</div>
+
 <!-- Inserts the Contact button -->
 <div class="center-align bottom-appeal">
   <a href="{{ site.root }}/contact.html" class="waves-effect waves-default btn white grey-text text-darken-4">{{ site.data.front_page.contact_us_section.button_text }}</a>
