@@ -53,3 +53,8 @@ Weâ€™re working toward a new, scalable model for higher education. We think weâ€
 <div class="center-align bottom-appeal">
   <a href="{{ site.root }}/contact.html" class="waves-effect waves-default btn white grey-text text-darken-4">{{ site.data.front_page.contact_us_section.button_text }}</a>
 </div>
+
+<!-- Inserts the Apply button -->
+<div class="center-align bottom-appeal">
+  <a href="https://goo.gl/forms/XOajDKHq9FFwHN8r2" class="waves-effect waves-default btn white grey-text text-darken-4">Join the Outer Coast Mailing List</a>
+</div>
