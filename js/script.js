@@ -6,7 +6,7 @@ $(document).ready(function () {
     interval: 2100,
     transition: 800,
   });
-/*
+
   // Make nav appear on scrolldown
   $(window).scroll(function () {
     if ($(this).scrollTop() > 250) {
@@ -15,5 +15,4 @@ $(document).ready(function () {
       $('nav').fadeOut(500);
     }
   });
-*/
 });
