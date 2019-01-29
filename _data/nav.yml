@@ -28,7 +28,7 @@ footer:
   - name: About the Project
     page: about.html
   - name: Summer Seminar
-    page: summer-seminar.html
+    page: overview.html
   - name: F.A.Q.
     page: faq.html
   - name: News
