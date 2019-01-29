@@ -17,7 +17,7 @@ The Summer Seminar is hosted on the Mt. Edgecumbe High School and Sitka Fine Art
 <!-- This inserts the campus image -->
 ![SFAC]({{ site.imagesurl }}SFAC.jpg){:height="65%" width="65%"}
 
-_The historic Sheldon Jackson campus.Photo © Berett Wilber_
+_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
 
 ***
 
