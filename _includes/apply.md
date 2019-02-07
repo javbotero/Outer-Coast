@@ -7,7 +7,7 @@ Application includes:
 1. Electronic or paper application with attached:
     - a. Short and long answer questions
     - b. Official or unofficial transcript
-2. Teacher Recommendation (due February 22, 2019)
+2. Teacher Recommendation (due February 27, 2019)
 
 Current high school sophomores and juniors are eligible to apply. Students do not need to be nominated to apply.
 
