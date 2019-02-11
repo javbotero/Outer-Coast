@@ -35,7 +35,7 @@ function showSection(sectionName) {
 
 function hideAllSections() {
   // All page sections on the site, for simplicity's sake
-  pageSections = ['principal-team', 'sitka-team', 'alaska-team', 'lower-48-team'];
+  pageSections = ['principal-team', 'sitka-team', 'alaska-team', 'lower-48-team', 'board-of-advisors-team'];
 
   for (i = 0; i < pageSections.length; i++) {
     $('#' + pageSections[i]).hide();
