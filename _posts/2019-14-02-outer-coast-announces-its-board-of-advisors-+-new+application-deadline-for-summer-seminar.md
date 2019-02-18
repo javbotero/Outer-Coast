@@ -47,8 +47,9 @@ Brian Rogers, former chancellor, [University of Alaska Fairbanks](https://www.ua
 
 Janelle Vanasse, superintendent, [Mt. Edgecumbe High School](http://www.mehs.us/)
 
-
 These folks have been advising and supporting us over the course of the project, some even since our [humble beginnings back in 2015.](https://docs.google.com/document/u/2/d/1plW-JWg3kYI0s_65hF7ZCT7FyN84CKfcmTO1lEZ8Soo/edit?usp=sharing)
+
+<br>
 
 We're grateful to continue to benefit from their ongoing counsel and guidance.
 
