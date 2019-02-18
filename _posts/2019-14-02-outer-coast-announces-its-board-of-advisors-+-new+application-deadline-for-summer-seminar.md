@@ -16,6 +16,7 @@ We already have 61 nominations; we’d love for yours to be the 62nd.
 
 More news on the Summer Seminar to come!
 
+<br>
 
 We’re also thrilled to announce our <strong>Board of Advisors</strong>:
 
