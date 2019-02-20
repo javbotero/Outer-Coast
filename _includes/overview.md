@@ -29,23 +29,23 @@ _The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
 
 Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
 
-<br>
+***
 
-<strong>Course Descriptions</strong>
+<strong>Courses</strong>
 
-<strong>Imagining Otherwise: Utopia and Apocalypse in a Changing World</strong>
+<i>Imagining Otherwise: Utopia and Apocalypse in a Changing World</i>
 
 [Sol Neely](http://www.uas.alaska.edu/dir/sjneely.html), Associate Professor of English and Philosophy, University of Alaska Southeast
 
 Many of the world’s problems today are the result of a collapsed political imagination, which occasions a fundamental inability to imagine society otherwise than what we’ve inherited. This course will ask students to identify contemporary social problems in their genealogical contexts and boldly imagine projects of social transformation that address these issues.
 
-<strong>The Most Important Question</strong>
+<i>The Most Important Question</i>
 
 [Jenell Paris](https://www.messiah.edu/a/academics/facultydir/faculty_profile.php?directoryID=9&entryID=642), Professor of Anthropology, Messiah College
 
 This course relies on the inquiry method of anthropological study to guide students toward asking important questions and seeking answers. Students will reflect on the social construction of knowledge and societal priorities by reading works that explore nature, indigeneity, and self-reflection in several cultural traditions.
 
-<strong>Tlingit Language & Indigenous Studies</strong>
+<i>Tlingit Language & Indigenous Studies</i>
 
 [X'unei Lance Twitchell](http://www.uas.alaska.edu/dir/latwitchell.html), Associate Professor of Alaska Native Languages, University of Alaska Southeast
 
@@ -53,6 +53,8 @@ This seminar teaches students the Tlingit language and also introduces a number 
 
 <!-- This inserts the student images -->
 {% include overviewphotos.html %}
+
+***
 
 <strong>Weekday Schedule</strong>
 
