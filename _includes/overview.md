@@ -51,10 +51,10 @@ This course relies on the inquiry method of anthropological study to guide stude
 
 This seminar teaches students the Tlingit language and also introduces a number of critical concepts in the field of Indigenous Studies. The daily activities of the class will be divided between language learning and use, and the exploration of topics in Indigenous Studies in a place-based and safe learning environment. 
 
+***
+
 <!-- This inserts the student images -->
 {% include overviewphotos.html %}
-
-***
 
 <strong>Weekday Schedule</strong>
 
