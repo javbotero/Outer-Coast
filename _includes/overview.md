@@ -29,6 +29,10 @@ _The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
 
 Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
 
+<br>
+
+<strong>Course Descriptions</strong>
+
 <strong>Imagining Otherwise: Utopia and Apocalypse in a Changing World</strong>
 
 [Sol Neely](http://www.uas.alaska.edu/dir/sjneely.html), Associate Professor of English and Philosophy, University of Alaska Southeast
