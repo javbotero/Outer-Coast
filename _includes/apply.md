@@ -1,6 +1,7 @@
 ### Apply
 
 <strong> Applications will be accepted from Tuesday, January 15 to Friday, February 22, 2019. </strong>
+
 *Need more time or have questions? Email info@outercoast.org
 
 Application includes:
