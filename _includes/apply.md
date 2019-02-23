@@ -1,13 +1,13 @@
 ### Apply
 
-<strong> Applications will be accepted from Tuesday, January 15 to Friday, February 22, 2019. </strong> <br> *Need more time or have questions? Email info@outercoast.org
+<strong> Applications will be accepted until March 1, 2019. </strong>
 
 Application includes:
 
 1. Electronic or paper application with attached:
     - a. Short and long answer questions
     - b. Official or unofficial transcript
-2. Teacher Recommendation (due February 27, 2019)
+2. Teacher Recommendation
 
 Current high school sophomores and juniors are eligible to apply. Students do not need to be nominated to apply.
 
