@@ -16,7 +16,7 @@ Current high school sophomores and juniors are eligible to apply. Students do no
   <a href="https://fs29.formsite.com/Gd7elL/sgeaffeme8/index.html" class="waves-effect waves-default btn white grey-text text-darken-4">Apply Online</a>
 </div>
 <div class="center-align bottom-appeal">
-  <a href="https://drive.google.com/drive/folders/1L-m0T6hkujVp6MNSq2yIAomw0MEh0f01" class="waves-effect waves-default btn white grey-text text-darken-4">Download PDF to Apply by Mail</a>
+  <a href="https://drive.google.com/file/d/16tXILnz96RVJXfBG9ba6fJkJcrWd4vbn/view" class="waves-effect waves-default btn white grey-text text-darken-4">Download PDF to Apply by Mail</a>
 </div>
 
 
