@@ -19,6 +19,4 @@ Current high school sophomores and juniors are eligible to apply. Students do no
   <a href="https://drive.google.com/file/d/1IKUEm0BOp1sh8PZdxtbIz3PyrxTO3F5K/view?usp=sharing" class="waves-effect waves-default btn white grey-text text-darken-4">Download PDF to Apply by Mail</a>
 </div>
 
-[Pdf Version of Outer Coast Summer Seminar 2019 Student Application](https://drive.google.com/file/d/1IKUEm0BOp1sh8PZdxtbIz3PyrxTO3F5K/view?usp=sharing)
-
 For more program and eligibility information, visit the [Overview](../overview.html).
