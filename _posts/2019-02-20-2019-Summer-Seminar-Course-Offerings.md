@@ -45,11 +45,12 @@ Know a student who would be a fit? (Remember: 100% of any admitted student’s f
 [Nominate a student for the Summer Seminar](outercoast.org/nominate.html)
 
 We’re up to 84 nominations across Alaska and the Lower 48 — we’d like to see yours!
-
  
 Excitedly, 
 
 The Outer Coast team 
 
-Contribute to Outer Coast
+[Contribute to Outer Coast](outercoast.org/contribute.html)
+
+
 
