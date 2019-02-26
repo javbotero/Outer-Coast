@@ -6,7 +6,7 @@ published: true
 excerpt_separator: <!--more-->
 ---
 
-<strong>We’re extending the [Summer Seminar application deadline](http://outercoast.org/apply.html) to February 22.</strong>
+We’re extending the [Summer Seminar application deadline](http://outercoast.org/apply.html) to February 22.
 
 <!--more-->
 
