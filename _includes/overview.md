@@ -35,11 +35,21 @@ Over the course of five weeks, students immerse themselves in two fast-paced, co
 
 <i>Imagining Otherwise: Utopia and Apocalypse in a Changing World</i>
 
+<!-- This inserts Sol's image -->
+![Sol Neely]({{ site.imageurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="65%" width="65%"}
+
+_Sol Neely._
+
 [Sol Neely](http://www.uas.alaska.edu/dir/sjneely.html), Associate Professor of English and Philosophy, University of Alaska Southeast
 
 Many of the world’s problems today are the result of a collapsed political imagination, which occasions a fundamental inability to imagine society otherwise than what we’ve inherited. This course will ask students to identify contemporary social problems in their genealogical contexts and boldly imagine projects of social transformation that address these issues.
 
 <i>The Most Important Question</i>
+
+<!-- This inserts Jenell's image -->
+![Jenell Paris]({{ site.imageurl }}OCSS2019Faculty_Jenell-Paris.jpg){:height="65%" width="65%"}
+
+_Jenell Paris._
 
 [Jenell Paris](https://www.messiah.edu/a/academics/facultydir/faculty_profile.php?directoryID=9&entryID=642), Professor of Anthropology, Messiah College
 
@@ -47,7 +57,12 @@ This course relies on the inquiry method of anthropological study to guide stude
 
 <i>Tlingit Language & Indigenous Studies</i>
 
-[X'unei Lance Twitchell](http://www.uas.alaska.edu/dir/latwitchell.html), Associate Professor of Alaska Native Languages, University of Alaska Southeast
+<!-- This inserts X'unei's image -->
+![<u>X</u>'unei Lance Twitchell]({{ site.imageurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg){:height="65%" width="65%"}
+
+_X'unei Lance Twitchell._
+
+[<u>X</u>'unei Lance Twitchell](http://www.uas.alaska.edu/dir/latwitchell.html), Associate Professor of Alaska Native Languages, University of Alaska Southeast
 
 This seminar teaches students the Tlingit language and also introduces a number of critical concepts in the field of Indigenous Studies. The daily activities of the class will be divided between language learning and use, and the exploration of topics in Indigenous Studies in a place-based and safe learning environment. 
 
