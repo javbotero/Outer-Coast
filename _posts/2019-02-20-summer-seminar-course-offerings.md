@@ -36,13 +36,13 @@ We anticipate that students will be able to earn college credit for their course
 
 Interested in these course offerings? 
 
-[Apply for the Summer Seminar](outercoast.org/apply.html)
+[Apply for the Summer Seminar](http://outercoast.org/apply.html)
 
 Student applications are due <strong>March 1 at 11:59 pm AKST</strong>.
 
 Know a student who would be a fit? (Remember: 100% of any admitted student’s financial need will be met.)
 
-[Nominate a student for the Summer Seminar](outercoast.org/nominate.html)
+[Nominate a student for the Summer Seminar](http://outercoast.org/nominate.html)
 
 We’re up to 84 nominations across Alaska and the Lower 48 — we’d like to see yours!
  
@@ -50,7 +50,7 @@ Excitedly,
 
 The Outer Coast team 
 
-[Contribute to Outer Coast](outercoast.org/contribute.html)
+[Contribute to Outer Coast](http://outercoast.org/contribute/)
 
 
 
