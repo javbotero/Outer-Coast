@@ -46,21 +46,11 @@ Many of the world’s problems today are the result of a collapsed political ima
 
 <i>The Most Important Question</i>
 
-<!-- This inserts Jenell's image -->
-![Jenell Paris]({{ site.imageurl }}OCSS2019Faculty_Jenell-Paris.jpg){:height="65%" width="65%"}
-
-_Jenell Paris._
-
 [Jenell Paris](https://www.messiah.edu/a/academics/facultydir/faculty_profile.php?directoryID=9&entryID=642), Professor of Anthropology, Messiah College
 
 This course relies on the inquiry method of anthropological study to guide students toward asking important questions and seeking answers. Students will reflect on the social construction of knowledge and societal priorities by reading works that explore nature, indigeneity, and self-reflection in several cultural traditions.
 
 <i>Tlingit Language & Indigenous Studies</i>
-
-<!-- This inserts X'unei's image -->
-![<u>X</u>'unei Lance Twitchell]({{ site.imageurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg){:height="65%" width="65%"}
-
-_X'unei Lance Twitchell._
 
 [<u>X</u>'unei Lance Twitchell](http://www.uas.alaska.edu/dir/latwitchell.html), Associate Professor of Alaska Native Languages, University of Alaska Southeast
 
