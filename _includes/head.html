@@ -16,11 +16,11 @@
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.6.0/lodash.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
-    <script src="{{ "/js/script.js" | relative_url | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/script.js" | prepend: site.baseurl | relative_url }}"></script>
 
     <!-- css -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
-    <link rel="stylesheet" href="{{ "/css/styles.css" | relative_url | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl | relative_url }}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta http-equiv="refresh" content="43200">
