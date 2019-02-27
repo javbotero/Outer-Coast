@@ -48,8 +48,3 @@ Over the course of the seminar, students continued to refine the skill of making
 _OCSS 2018 Students voting in a Student Body meeting._
 
 Overall, we are glad to report that the seminar was a success. If you want to learn more about Summer Seminar 2018, check out the Program Overview [here](https://docs.google.com/document/d/17uKQuDQ-DmsDRuoPbSXRT9VK5i_VXQHQIBX-O9hsX44/edit?usp=sharing).
-
-<!-- This inserts the campus image -->
-![SFAC]({{ site.imagesurl }}Full Team.jpg){:height="65%" width="65%"}
-
-_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
