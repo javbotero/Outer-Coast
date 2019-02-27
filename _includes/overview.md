@@ -36,7 +36,7 @@ Over the course of five weeks, students immerse themselves in two fast-paced, co
 <i>Imagining Otherwise: Utopia and Apocalypse in a Changing World</i>
 
 <!-- This inserts Sol's image -->
-![Sol Neely]({{ site.imageurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="65%" width="65%"}
+![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="65%" width="65%"}
 
 _Sol Neely._
 
