@@ -36,7 +36,7 @@ Over the course of five weeks, students immerse themselves in two fast-paced, co
 <i>Imagining Otherwise: Utopia and Apocalypse in a Changing World</i>
 
 <!-- This inserts Sol's image -->
-![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="50%" width="50%"}
+![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="30%" width="30%"}
 
 [Sol Neely](http://www.uas.alaska.edu/dir/sjneely.html), Associate Professor of English and Philosophy, University of Alaska Southeast
 
@@ -45,7 +45,7 @@ Many of the world’s problems today are the result of a collapsed political ima
 <i>The Most Important Question</i>
 
 <!-- This inserts Jenell's image -->
-![Jenell Paris]({{ site.imagesurl }}OCSS2019Faculty_Jenell-Paris.jpg){:height="40%" width="40%"}
+![Jenell Paris]({{ site.imagesurl }}OCSS2019Faculty_Jenell-Paris.jpg){:height="25%" width="25%"}
 
 [Jenell Paris](https://www.messiah.edu/a/academics/facultydir/faculty_profile.php?directoryID=9&entryID=642), Professor of Anthropology, Messiah College
 
