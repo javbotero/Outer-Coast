@@ -35,17 +35,26 @@ Over the course of five weeks, students immerse themselves in two fast-paced, co
 
 <i>Imagining Otherwise: Utopia and Apocalypse in a Changing World</i>
 
+<!-- This inserts Sol's image -->
+![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="50%" width="50%"}
+
 [Sol Neely](http://www.uas.alaska.edu/dir/sjneely.html), Associate Professor of English and Philosophy, University of Alaska Southeast
 
 Many of the world’s problems today are the result of a collapsed political imagination, which occasions a fundamental inability to imagine society otherwise than what we’ve inherited. This course will ask students to identify contemporary social problems in their genealogical contexts and boldly imagine projects of social transformation that address these issues.
 
 <i>The Most Important Question</i>
 
+<!-- This inserts Jenell's image -->
+![Jenell Paris]({{ site.imagesurl }}OCSS2019Faculty_Jenell-Paris.jpg){:height="40%" width="40%"}
+
 [Jenell Paris](https://www.messiah.edu/a/academics/facultydir/faculty_profile.php?directoryID=9&entryID=642), Professor of Anthropology, Messiah College
 
 This course relies on the inquiry method of anthropological study to guide students toward asking important questions and seeking answers. Students will reflect on the social construction of knowledge and societal priorities by reading works that explore nature, indigeneity, and self-reflection in several cultural traditions.
 
 <i>Tlingit Language & Indigenous Studies</i>
+
+<!-- This inserts X'unei's image -->
+![X'unei Lance Twitchell]({{ site.imagesurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg){:height="50%" width="50%"}
 
 [<u>X</u>'unei Lance Twitchell](http://www.uas.alaska.edu/dir/latwitchell.html), Associate Professor of Alaska Native Languages, University of Alaska Southeast
 
