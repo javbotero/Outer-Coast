@@ -24,14 +24,14 @@
     </ul>
     
 
-      <ul class="right hide-on-med-and-down">
+       <ul class="right hide-on-med-and-down">
        {% if site.data.nav.top[0] %}
         {% for link in site.data.nav.top %}
       <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
         {% if link.subfolderitems[0] %}
-        <ul class="dropdown-items">
+        <ul class="dropdown-items left">
           {% for link in link.subfolderitems %}
-          <li class=""><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+          <li id="submenu-stack"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         {% endfor %}
         </ul>
         {% endif %}
