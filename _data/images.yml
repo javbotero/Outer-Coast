@@ -1,5 +1,8 @@
 front_page:
   top:
+    - photographer: Johnny Elliott
+      image: 1
+      alt: X'unei in Class
     - photographer: Ben Adams
       image: 4
       alt: Sun coming through mountains
