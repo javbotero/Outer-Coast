@@ -28,13 +28,6 @@ Service projects included:
 
 - Volunteering in support of historic building and boat restoration with the Sitka Maritime Heritage Society. The students were featured in their recent [newsletter](http://www.sitkamaritime.org/)!
 
-
-<!-- This inserts X'unei's image -->
-![X'unei]({{ site.imagesurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg){:height="65%" width="65%"}
-
-_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
-
-
 Over the course of the Summer Seminar, students logged a total of 84 service hours per person and 1,344 hours as a student body. And perhaps most importantly, they began to realize what is possible when a small group of people work together to achieve something beyond themselves.
 
 ![OCSS 2018 Students Painting]({{ site.imagesurl }}OCSS2018_Painting.JPG){:height="65%" width="65%"}
