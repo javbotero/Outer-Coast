@@ -29,8 +29,8 @@ Service projects included:
 - Volunteering in support of historic building and boat restoration with the Sitka Maritime Heritage Society. The students were featured in their recent [newsletter](http://www.sitkamaritime.org/)!
 
 
-<!-- This inserts the campus image -->
-![SFAC]({{ site.imagesurl }}SFAC.jpg){:height="65%" width="65%"}
+<!-- This inserts X'unei's image -->
+![X'unei]({{ site.imagesurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg){:height="65%" width="65%"}
 
 _The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
 
