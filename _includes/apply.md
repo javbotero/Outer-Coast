@@ -1,6 +1,6 @@
 ### Apply
 
-<strong> Applications will be accepted until March 1, 2019. </strong>
+<strong> Applications will be accepted and reviewed on a rolling basis. </strong>
 
 Application includes:
 
