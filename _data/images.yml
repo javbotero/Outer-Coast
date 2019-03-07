@@ -1,29 +1,35 @@
 front_page:
   top:
-    - photographer: Ben Adams
-      image: 4
-      alt: Sun coming through mountains
-    - photographer: James Poulson
+    - photographer: Johnny Elliott
+      image: 1
+      alt: X'unei in Class
+    - photographer: Johnny Elliott
       image: 2
-      alt: Bridge in front of mountains
-    - photographer: Berett Wilber
-      image: 5
-      alt: Town of Sitka
-    - photographer: Berett Wilber
-      image: 11
-      alt: Esther on the Dryas
-    - photographer: James Poulson
-      image: 7
-      alt: Ocean breaking between rocks
-    - photographer: Berett Wilber
-      image: 4
-      alt: Bridge and mountains in blue light
-    - photographer: James Poulson
-      image: 12
-      alt: Sitka at night
-    - photographer: Ben Adams
+      alt: Full Group in Tongass
+    - photographer: Johnny Elliott
       image: 3
-      alt: Salmon
+      alt: Crossing Bridge
+    - photographer: Johnny Elliott
+      image: 4
+      alt: Picking Berries
+    - photographer: Johnny Elliott
+      image: 5
+      alt: Carrying Rocks
+    - photographer: Johnny Elliott
+      image: 6
+      alt: Student Body
+    - photographer: Johnny Elliott
+      image: 7
+      alt: Couch
+    - photographer: Johnny Elliott
+      image: 8
+      alt: Cole and Boards
+    - photographer: Johnny Elliott
+      image: 9
+      alt: Angelina in Class
+    - photographer: Johnny Elliott
+      image: 10
+      alt: Group at End     
   above_three_pillars:
     photographer: Berett Wilber
     image: 1
