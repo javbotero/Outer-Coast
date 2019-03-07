@@ -2,6 +2,8 @@
 
 <strong> Applications will be accepted and reviewed on a rolling basis. </strong>
 
+Admissions decisions will be shared with students by Friday, March 22, 2019. 
+
 Application includes:
 
 1. Electronic or paper application with attached:
