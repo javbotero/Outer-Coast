@@ -1,9 +1,6 @@
 front_page:
   top:
     - photographer: Johnny Elliott
-      image: 1
-      alt: X'unei in Class
-    - photographer: Johnny Elliott
       image: 2
       alt: Full Group in Tongass
     - photographer: Johnny Elliott
@@ -15,9 +12,6 @@ front_page:
     - photographer: Johnny Elliott
       image: 6
       alt: Student Body
-    - photographer: Johnny Elliott
-      image: 7
-      alt: Couch
     - photographer: Johnny Elliott
       image: 8
       alt: Cole and Boards
