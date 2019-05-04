@@ -1,7 +1,4 @@
-<!-- Inserts the Apply button -->
-<div class="center-align bottom-appeal">
-  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Applications are live for the 2019 Outer Coast Summer Seminar</a>
-</div>
+
 
 # Outer Coast
 
