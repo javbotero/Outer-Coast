@@ -51,8 +51,3 @@ _Schedule is subject to change._
 
 <strong>Program Overview</strong>
 For more details on the Summer Seminar, please see the [Program Overview](https://docs.google.com/document/d/1bCVFT9hm3qrExHA243a7rcjKcV_XDuR_1shoyceWMlo/edit). The Program Overview and website will be updated as Summer Seminar faculty and course descriptions are announced.
-
-<!-- Inserts the Apply button -->
-<div class="center-align bottom-appeal">
-  <a href="{{ site.root }}/apply.html" class="waves-effect waves-default btn white grey-text text-darken-4">Program Application</a>
-</div>
