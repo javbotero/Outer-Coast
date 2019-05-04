@@ -6,8 +6,6 @@ top:
     subfolderitems:
       - name: Overview
         page: overview.html
-      - name: Apply
-        page: apply.html
       - name: Nominate
         page: nominate.html
       - name: Cost of Attendance
