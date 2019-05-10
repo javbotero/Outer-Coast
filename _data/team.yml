@@ -32,9 +32,9 @@ teams:
       - name: Sharon Schuman, Faculty 
         bio: earned degrees in English from Stanford (BA) and University of Chicago (PhD) before teaching at Deep Springs College, Willamette University, University of Oregon, and the Michigan TASP. Her publications include articles about Shakespeare, English Poetry, American Literature, and Writing. Since 2015 she has given presentations about her book, Freedom and Dialogue in a Polarized World, in Oregon, California, Sweden, and Italy. Beyond academia, she writes essays for newspapers and magazines in Oregon, and she has an active career as a violinist.
   - 2019 Summer Staff
-    members: grew up in Seattle, Washington, and her family is originally from Norway and Finland. She received her Associates of the Arts degree at Seattle Central College in 2017. She is currently a student at the University of Alaska Southeast seeking a degree in Alaska Native Languages and Studies with an emphasis in Visual Arts. 
+    members:
       - name: Claire Helgeson
-        bio: 
+        bio: grew up in Seattle, Washington, and her family is originally from Norway and Finland. She received her Associates of the Arts degree at Seattle Central College in 2017. She is currently a student at the University of Alaska Southeast seeking a degree in Alaska Native Languages and Studies with an emphasis in Visual Arts. 
   - name: Board of Advisors
     members:
       - name: Bruce Botelho
