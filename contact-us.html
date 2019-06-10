@@ -5,11 +5,17 @@ published: true
 permalink: /contact.html
 ---
 
+{% include slider.html photos=site.data.images.about_us_page.top %}
+
 <div class="main-section contact-us-page">
   <div class="container">
 
     {% capture my-include %}{% include contact-us.md %}{% endcapture %}
     {{ my-include | markdownify }}
+    
+<br></br>
+  <br></br>  
+  
 
     <div class="contact-form">
        <iframe class="google-form" src="https://docs.google.com/forms/d/1rFnqZJPkf-WHKB4--1MIfGJ6kDLQYGpGheCzrFc7JNY/viewform?embedded=true" width="650" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
