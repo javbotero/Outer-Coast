@@ -475,9 +475,9 @@ h5.collaborators {
 /* Contact Us */
 iframe.google-form {
   width: 100%;
-  height: 76em;
+  height: 100em;
   margin-top: -15.5em;
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 /* For mobile */
