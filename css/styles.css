@@ -480,6 +480,13 @@ iframe.google-form {
   padding-top: 50px;
 }
 
+/* Styles the top banner on the homepage */
+.homepage-banner-top {
+  text-align: center; 
+  color: #fff; 
+  background-color: #607C83; 
+}
+
 /* For mobile */
 
 @media all and (max-width: 600px) {
