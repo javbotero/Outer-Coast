@@ -88,4 +88,7 @@ _Schedule is subject to change._
 
 Applications are closed for the 2019 Outer Coast Summer Seminar.
 
+<!-- This inserts the campus image -->
+![SEARHC]({{ site.imagesurl }}cropped-SEARHC-Logo.png){:height="65%" width="65%"}
+
 
