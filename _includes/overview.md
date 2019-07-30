@@ -89,3 +89,7 @@ _Schedule is subject to change._
 Applications are closed for the 2019 Outer Coast Summer Seminar.
 
 
+<!-- This inserts the sponsor images -->
+{% include sponsorphotos.html %}
+
+
