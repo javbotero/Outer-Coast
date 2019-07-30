@@ -87,8 +87,10 @@ On Monday through Friday, students participate in classes in the mornings, do se
 _Schedule is subject to change._
 
 Applications are closed for the 2019 Outer Coast Summer Seminar.
-
-
+<br>
+<br>
+<br>
+<br>
 
 Big Thanks to all of the organizations who have sponsored the 2019 Summer Seminar!
 
