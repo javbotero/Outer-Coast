@@ -92,7 +92,7 @@ Applications are closed for the 2019 Outer Coast Summer Seminar.
 <br>
 <br>
 
-Big Thanks to all of the organizations who have sponsored the 2019 Summer Seminar!
+Big thanks to all of the organizations who have sponsored the 2019 Summer Seminar!
 
 <!-- This inserts the sponsor images -->
 {% include sponsorphotos.html %}
