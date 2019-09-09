@@ -45,6 +45,3 @@ On Monday through Friday, students participate in classes in the mornings, do se
 
 For more details on the Outer Coast Semester, please see the [Program Overview](https://docs.google.com/document/d/1tiCeEszHdGNpEdUcHjIt4MPacUsCDLBUoYpcmlXlrd4/edit). The Program Overview and website will be updated as faculty and course descriptions are announced.
 
-<!-- This inserts the sponsor images -->
-{% include sponsorphotos.html %}
-
