@@ -527,3 +527,12 @@ iframe.google-form {
     font-size: 1.5em;
   }
 }
+
+/* styles columns on semester pages*/
+
+.col-1 {
+  float: left;
+  padding: 15px;
+  border: 1px solid red;
+  width: 50%; 
+}
