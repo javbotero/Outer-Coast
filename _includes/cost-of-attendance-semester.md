@@ -7,4 +7,4 @@ Outer Coast will meet the financial need of all students. Cost will not be a bar
 Outer Coast Semester admissions decisions are determined through a need-blind process. This means that what the student and their parent(s)/guardian(s) are able to pay will not influence the student’s chances of admission.
 
 <!-- This inserts the image -->
-<div align="center">![classes]({{ site.imagesurl }}semester_classes.png){:height="65%" width="85%"}</div>
+![classes]({{ site.imagesurl }}semester_classes.png){:height="65%" width="85%"}
