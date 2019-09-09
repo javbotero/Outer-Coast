@@ -9,3 +9,8 @@ High school graduates are eligible to apply. We are looking for students who wan
 Applications will be available in early September. 
 
 To hear back by mid-October, submit your application by September 30, 2019. The application closes on November 15, 2019 and all decisions will be made by December 1, 2019, but students who apply earlier could hear back earlier.
+
+<!-- This inserts the image -->
+![Student Service]({{ site.imagesurl }}semester_service_2.png){:height="65%" width="65%"}
+
+_Students doing service in their community_
