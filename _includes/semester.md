@@ -16,10 +16,8 @@ High school graduates are eligible to apply. We are looking for students  who wa
 
 The Outer Coast Semester is hosted at the Sitka Fine Arts Campus, located on the former [Sheldon Jackson Campus](https://en.wikipedia.org/wiki/Sheldon_Jackson_College) at G̱eiy Ta.aan. This National Historic Landmark is set on 160 beautiful, forested acres of Tlingit land. 
 
-<!-- This inserts the campus image -->
-![SFAC]({{ site.imagesurl }}SFAC.jpg){:height="65%" width="65%"}
-
-_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
+<!-- This inserts the student images -->
+{% include semester-photos.html %}
 
 ***
 
