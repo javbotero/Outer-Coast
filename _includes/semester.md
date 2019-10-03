@@ -1,6 +1,6 @@
 ###[Apply to the Outer Coast Semester here.](https://fs29.formsite.com/Gd7elL/9c7cr766ap/index.html)
 
-***
+
 
 # The Outer Coast Semester
 
