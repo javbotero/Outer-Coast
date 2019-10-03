@@ -1,3 +1,5 @@
+[Apply to the Outer Coast Semester here.](https://fs29.formsite.com/Gd7elL/9c7cr766ap/index.html)
+
 # The Outer Coast Semester
 
 The Outer Coast Semester offers a diverse cohort of up to 15 Alaskan, Lower 48, and international high school graduates a transformative educational experience in Sitka, Alaska founded on the belief that students should have agency and ownership of every aspect of their academic and personal lives and the responsibility to affect positively the communities to which they belong.
@@ -10,7 +12,7 @@ Monday, January 20th - Saturday, May 9th, 2020
 
 ###Eligibility
 
-High school graduates are eligible to apply. We are looking for students  who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. We place a special emphasis on recruiting students from under-resourced backgrounds. [Apply here.](http://outercoast.org/apply-semester.html)
+High school graduates are eligible to apply. We are looking for students  who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. We place a special emphasis on recruiting students from under-resourced backgrounds. 
 
 ###Location
 
@@ -28,8 +30,6 @@ Over the course of four months, students immerse themselves in two fast-paced, s
 ***
 
 ##Academic Calendar
-
-On Monday through Friday, students participate in classes in the mornings, do service in the community in the afternoons, and finish off the day with community programing and unstructured time in the evenings. On Wednesday mornings and Friday evenings, students self-govern during their student body meetings.
 
 | Date          | Event      |
 | ------------- | ------------- |
