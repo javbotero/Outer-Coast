@@ -50,4 +50,4 @@ In October 2017, The team made the decision to “cross the Rubicon” and commi
 
 All aspects of the Outer Coast project are actively progressing through present (<span id="current-month-year">March 2016</span>). See the <A HREF = "https://docs.google.com/document/d/1EiRIcR_xnQs25kSqoPNVXk4T8jHSMJDLhcpK2Wn1XPA/edit?usp=sharing">Prospectus</A> for a more detailed look at Outer Coast and its progress.
 
-#### [General Employee Nondiscriminatory Policy](https://docs.google.com/document/d/10rCTsoi78XRQspAvzuLN0otwx5obNgHyfZwvYhsgD1w/edit?usp=sharing)
+[Nondiscriminatory Policy](https://docs.google.com/document/d/10rCTsoi78XRQspAvzuLN0otwx5obNgHyfZwvYhsgD1w/edit?usp=sharing)
