@@ -19,7 +19,7 @@ Virtue can be inspired. Making change can be taught. Education that succeeds doe
 
 This is the ethos of Outer Coast. We believe that students should graduate from college not only with a credential but also with the purpose and tools to improve the world. 
 
-At too many schools this fundamental mission has faded. We have seen and experienced the pressures, both internal and external, that lead today’s colleges and universities to prioritize scholarship over teaching and degrees over learning. Their students often graduate with a sense that they have neither the obligation nor the ability to affect meaningful change. And yet, amidst a shifting educational and economic landscape, the college degree is more valuable than ever: it has become not just a proxy, but a necessary prerequisite for an individual’s future potential.
+At too many schools this fundamental mission has faded. We have seen and experienced the pressures, both internal and external, that lead today’s colleges and universities to prioritize scholarship over teaching and degrees over learning. Their students often graduate with a sense that they have neither the obligation nor the ability to effect meaningful change. And yet, amidst a shifting educational and economic landscape, the college degree is more valuable than ever: it has become not just a proxy, but a necessary prerequisite for an individual’s future potential.
  
 Making change is hard; we fail at least as often as we succeed. Students must appreciate failure as well as success and understand the true stakes of both. They must take on responsibility that stretches their comfort and abilities, endeavors for which the road to success is neither clear nor guaranteed. 
 
