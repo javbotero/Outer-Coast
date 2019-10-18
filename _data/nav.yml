@@ -14,7 +14,7 @@ top:
     page: semester.html
     subfolderitems:
       - name: About
-        page: semester.html
+        page: semester
       - name: Apply
         page: apply-semester.html
       - name: Nominate a Student
