@@ -11,10 +11,10 @@ top:
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
   - name: Semester
-    page: apply-semester.html
+    page: semester.html
     subfolderitems:
       - name: About
-        page: apply-semester.html
+        page: semester.html
       - name: Apply
         page: apply-semester.html
       - name: Nominate a Student
