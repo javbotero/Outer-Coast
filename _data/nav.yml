@@ -18,9 +18,9 @@ top:
       - name: Apply
         page: semester/apply
       - name: Nominate a Student
-        page: semester-nominate.html
+        page: semester/nominate
       - name: Cost of Attendance
-        page: cost-of-attendance-semester.html
+        page: semester/cost-of-attendance-semester
   - name: F.A.Q.
     page: faq.html
   - name: News
