@@ -16,7 +16,7 @@ top:
       - name: About
         page: semester
       - name: Apply
-        page: apply-semester.html
+        page: semester/apply
       - name: Nominate a Student
         page: semester-nominate.html
       - name: Cost of Attendance
