@@ -1,6 +1,6 @@
 top:
   - name: About
-    page: about.html
+    page: about
   - name: Summer Seminar
     page: overview.html
     subfolderitems:
