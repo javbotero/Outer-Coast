@@ -20,7 +20,7 @@ top:
       - name: Nominate a Student
         page: semester/nominate
       - name: Cost of Attendance
-        page: semester/cost-of-attendance-semester
+        page: semester/cost-of-attendance
   - name: F.A.Q.
     page: faq.html
   - name: News
