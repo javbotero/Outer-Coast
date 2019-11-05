@@ -10,17 +10,6 @@ top:
         page: cost-of-attendance.html
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
-  - name: Semester
-    page: semester
-    subfolderitems:
-      - name: About
-        page: semester
-      - name: Apply
-        page: semester/apply
-      - name: Nominate a Student
-        page: semester/nominate
-      - name: Cost of Attendance
-        page: semester/cost-of-attendance
   - name: F.A.Q.
     page: faq.html
   - name: News
