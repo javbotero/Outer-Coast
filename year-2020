@@ -1,0 +1,17 @@
+---
+layout: default
+title: Year 2020-2021
+permalink: /year-2020
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include summer-seminar-2018.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
