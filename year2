@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Year 2020-2021
-permalink: /year-2020
+permalink: /year
 ---
 
 {% include slider.html photos=site.data.images.faq_page.top %}
