@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Cost of Attendance
-permalink: ../cost
 ---
 
 {% include slider.html photos=site.data.images.faq_page.top %}
