@@ -11,6 +11,8 @@ top:
         page: overview.html
       - name: Cost of Attendance
         page: cost-of-attendance.html
+      - name: Apply
+        page: summer/apply/
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
   - name: Year 2020-21
