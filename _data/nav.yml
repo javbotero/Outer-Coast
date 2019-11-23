@@ -4,7 +4,7 @@ top:
     subfolderitems:
       - name: F.A.Q.
         page: faq.html
-  - name: Summer Seminar
+  - name: Summer Seminar 2020
     page: overview.html
     subfolderitems:
       - name: Overview
