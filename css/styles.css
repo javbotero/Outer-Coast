@@ -480,7 +480,7 @@ iframe.google-form {
   padding-top: 50px;
 }
 
-/* Styles the top banner on the homepage */
+/* Styles the top banner on the homepage/ pages  */
 .homepage-banner-top {
   text-align: center; 
   color: #fff !important; 
@@ -488,6 +488,31 @@ iframe.google-form {
   padding-top: 1px; 
   padding-bottom: 1px; 
   margin-top: -45px; 
+}
+
+.homepage-banner-top a {
+ color: #fff;  
+}
+
+.homepage-banner-top a:hover {
+ color: #00ffff;  
+}
+
+.homepage-banner-top-2 {
+  text-align: center; 
+  color: #fff !important; 
+  background-color: #0099ff; 
+  padding-top: 1px; 
+  padding-bottom: 1px; 
+  margin-top: -45px; 
+}
+
+.homepage-banner-top-2 a {
+ color: #fff;  
+}
+
+.homepage-banner-top-2 a:hover {
+ color: #00ffff;  
 }
 
 /* For mobile */
