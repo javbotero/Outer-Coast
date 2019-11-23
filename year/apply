@@ -1,0 +1,16 @@
+---
+layout: default
+title: Apply to the Outer Coast Semester
+permalink: /year/apply
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include apply-semester.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
