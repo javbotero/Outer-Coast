@@ -7,6 +7,7 @@ Over the course of two four-month semesters, students immerse themselves in fast
 <strong>Program Dates:</strong>
 
 Fall Semester: Monday, August 31st – Saturday, December 19th, 2020
+
 Spring Semester: Tuesday, January 19th – Saturday, May 8th, 2021
 
 ***
