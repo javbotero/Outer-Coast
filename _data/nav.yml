@@ -1,6 +1,9 @@
 top:
   - name: About
     page: about.html
+    subfolderitems:
+      - name: F.A.Q.
+        page: faq.html
   - name: Summer Seminar
     page: overview.html
     subfolderitems:
@@ -21,8 +24,6 @@ top:
         page: year/apply/
       - name: Nominate a Student
         page: year/nominate/
-  - name: F.A.Q.
-    page: faq.html
   - name: News
     page: news.html
   - name: Who We Are
