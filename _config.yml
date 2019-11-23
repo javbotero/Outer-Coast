@@ -18,10 +18,6 @@ assetsurl: "https://s3-us-west-2.amazonaws.com/occ-assets/"
 imagesurl: "https://s3-us-west-2.amazonaws.com/occ-assets/images/"
 twitter_username: outercoastak
 github_username:  javbotero
-collections:
-  year:
-    output: true
-    permalink: /:path
 
 # Build settings
 markdown: kramdown
