@@ -10,6 +10,17 @@ top:
         page: cost-of-attendance.html
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
+  - name: Year 2020-21
+    page: year.html
+    subfolderitems:
+      - name: About
+        page: year.html
+      - name: Cost of Attendance
+        page: year-cost.html
+      - name: Apply
+        page: year-apply.html
+      - name: Nominate a Student
+        page: year-nominate.html
   - name: F.A.Q.
     page: faq.html
   - name: News
