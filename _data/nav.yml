@@ -16,11 +16,11 @@ top:
       - name: About
         page: year
       - name: Cost of Attendance
-        page: year-cost
+        page: year/cost/
       - name: Apply
-        page: year-apply
+        page: year/apply/
       - name: Nominate a Student
-        page: year-nominate
+        page: year/nominate/
   - name: F.A.Q.
     page: faq.html
   - name: News
