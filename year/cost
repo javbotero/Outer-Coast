@@ -9,7 +9,7 @@ permalink: /year-cost
 <div class="main-section summer-seminar-page">
   <div class="container">
 
-    {% capture my-include %}{% include about.md %}{% endcapture %}
+    {% capture my-include %}{% include year-cost.md %}{% endcapture %}
     {{ my-include | markdownify }}
 
   </div>
