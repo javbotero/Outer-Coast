@@ -1,0 +1,16 @@
+---
+layout: default
+title: Nominate a Student for the Outer Coast Year
+permalink: /year/nominate/
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include year-nominate.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+    <div><p>iframe goes here!</p></div>
+  </div>
+</div>
