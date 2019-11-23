@@ -14,7 +14,7 @@ top:
     page: year/
     subfolderitems:
       - name: About
-        page: year
+        page: year/
       - name: Cost of Attendance
         page: year/cost/
       - name: Apply
