@@ -6,7 +6,7 @@ The Outer Coast Summer Seminar offers a diverse cohort of Alaskan, Lower 48, and
 
 <strong>Program Dates</strong>
 
-Sunday, June 28th - Saturday, August 1st, 2020
+Saturday, June 27 - Saturday, August 1st, 2020
 
 ***
 
