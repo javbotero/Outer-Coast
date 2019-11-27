@@ -182,7 +182,7 @@ nav .sub-dropdown-items {
   overflow: hidden; 
 }
 
-nav .dropdown-items:hover .sub-dropdown-items {
+nav .dropdown-items li:hover .sub-dropdown-items {
   display: inline-block !important;
 }
 
