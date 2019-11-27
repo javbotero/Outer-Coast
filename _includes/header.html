@@ -34,9 +34,9 @@
           <li id="submenu-stack"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         {% endfor %}
           {% if link.subsubfolderitems[0] %}
-        <ul>
+        <ul class="dropdown-items left">
           {% for link in link.subsubfolderitems %}
-          <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+          <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         {% endfor %}
           </ul>
         {% endif %}
