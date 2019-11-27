@@ -171,11 +171,13 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-stack:hover .sub-dropdown-items {
-  display: block;
+  display: inline-block;
+  float: right; 
 }
 
 #submenu-right {
-  display: block; 
+  display: inline-block; 
+  float: right; 
 }
 
 p {
