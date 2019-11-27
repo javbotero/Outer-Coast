@@ -24,28 +24,29 @@
     </ul>
     
 
-       <ul class="right hide-on-med-and-down">
-       {% if site.data.nav.top[0] %}
+     <ul class="right hide-on-med-and-down">
+      {% if site.data.nav.top[0] %}
         {% for link in site.data.nav.top %}
-      <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
-        {% if link.subfolderitems[0] %}
-        <ul class="dropdown-items left">
-          {% for link in link.subfolderitems %}
-          <li id="submenu-stack"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
-        {% endfor %}
-          {% if link.subsubfolderitems[0] %}
-        <ul class="dropdown-items left">
-          {% for link in link.subsubfolderitems %}
-          <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
-        {% endfor %}
-          </ul>
-        {% endif %}
-          </ul>
-        {% endif %}
+         <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
+            {% if link.subfolderitems[0] %}
+              <ul class="dropdown-items left">
+                 {% for link in link.subfolderitems %}
+                     <li id="submenu-stack"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
+                      {% if link.subsubfolderitems[0] %}
+                         <ul class="dropdown-items left">
+                          {% for link in link.subsubfolderitems %}
+                            <li class="dropdown-buttons"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+                          {% endfor %}
+                         </ul>
+                      {% endif %}
+                     </li>
+                {% endfor %}
+              </ul>
+           {% endif %}
       </li>
-  {% endfor %}
+    {% endfor %}
   {% endif %}
-    </ul>
+ </ul>
     
     
     <ul class="right hide-on-large-only">
