@@ -147,11 +147,6 @@ nav ul li ul li a {
   float: none; 
 }
 
-#submenu-right {
-  display: inline-block; 
-  float: right; 
-}
-
 nav li a:hover {
   text-decoration: none;
 }
@@ -182,8 +177,12 @@ nav .sub-dropdown-items {
   overflow: hidden; 
 }
 
-nav .dropdown-items li:hover .sub-dropdown-items {
-  display: inline-block !important;
+#submenu-stack:hover .sub-dropdown-items {
+  display: block;
+}
+
+#submenu-right {
+  display: block; 
 }
 
 p {
