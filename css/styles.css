@@ -168,16 +168,16 @@ nav .dropdown-buttons:hover .dropdown-items {
 
 .sub-dropdown-items {
   display: none;
+  position: relative; 
 }
 
 #submenu-stack:hover .sub-dropdown-items {
   display: inline-block;
-  float: right; 
+  position: relative; 
 }
 
 #submenu-right {
   display: inline-block; 
-  float: right; 
 }
 
 p {
