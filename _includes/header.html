@@ -33,7 +33,7 @@
                  {% for link in link.subfolderitems %}
                      <li id="submenu-stack"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
                       {% if link.subsubfolderitems[0] %}
-                         <ul>
+                         <ul class="sub-dropdown-items">
                           {% for link in link.subsubfolderitems %}
                             <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
                           {% endfor %}
