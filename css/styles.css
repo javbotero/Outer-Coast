@@ -168,12 +168,12 @@ nav .dropdown-buttons:hover .dropdown-items {
 
 .sub-dropdown-items {
   display: none;
-  position: relative; 
+  position: static; 
 }
 
-#submenu-stack:hover .sub-dropdown-items li {
+#submenu-stack:hover .sub-dropdown-items {
   display: block;
-  position:absolute;
+  position:static;
   right:0px;
   top:0px;
 }
