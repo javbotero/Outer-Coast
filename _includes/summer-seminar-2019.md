@@ -14,7 +14,7 @@ This summer, Outer Coast offered three fast-paced, college-level academic course
 <!-- This inserts the campus image -->
 ![Students in class]({{ site.imagesurl }}X'unei in class.jpg){:height="65%" width="65%"}
 
-###Imagining Otherwise: Utopia and Apocalypse in a Changing World
+<strong>Imagining Otherwise: Utopia and Apocalypse in a Changing World</strong>
 
 <!-- This inserts the image -->
 ![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="25%" width="25%"}
@@ -23,7 +23,7 @@ _Sol Neely, Associate Professor of English and Philosophy, University of Alaska 
 
 Many of the world’s problems today are the result of a collapsed political imagination, which occasions a fundamental inability to imagine society otherwise than what we’ve inherited. This course asked students to identify contemporary social problems in their genealogical contexts and boldly imagine projects of social transformation that address these issues.
 
-###The Most Important Question
+<strong>The Most Important Question</strong>
 
 <!-- This inserts image -->
 ![Jenell Paris]({{ site.imagesurl }}OCSS2019Faculty_Jenell-Paris.jpg ){:height="25%" width="25%"}
@@ -32,7 +32,7 @@ _Jenell Paris, Professor of Anthropology, Messiah College._
 
 This course relied on the inquiry method of anthropological study to guide students toward asking important questions and seeking answers. Students reflected on the social construction of knowledge and societal priorities by reading works that explore nature, indigeneity, and self-reflection in several cultural traditions.
 
-###Tlingit Language & Indigenous Studies
+<strong>Tlingit Language & Indigenous Studies</strong>
 
 <!-- This inserts the image -->
 ![X'unei Lance Twitchell]({{ site.imagesurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg ){:height="25%" width="25%"}
@@ -71,9 +71,12 @@ Other volunteer organizations included: Sitka Volunteer Fire Department, The Clo
 <strong>Self-Governance:</strong>
 
 ![OCSS 2019 Students Voting]({{ site.imagesurl }}IMG_0334.jpg){:height="65%" width="65%"}
+
 _OCSS 2019 Students voting in a Student Body meeting._
 
-The 2019 Student Body was vested with responsibility to help govern their own community. Their first order of business was to develop a community values policy: a written document that outlined how students wanted their community to function — what values to uphold, how to resolve conflict, and how to make collective decisions. Students refined their own student life policies and created three committees (Service, Budget, and Fun), through which they managed their own budget across the five-week program, initiated and executed local service projects, planned a retreat to Halibut Point Recreation Site, and designed a festive Commencement Ceremony. With the desire to help develop Outer Coast’s future, students further codified resolutions for their continued involvement in Outer Coast post-Summer Seminar, notably around faculty hiring, student admission, and overall program design. 
+The 2019 Student Body was vested with responsibility to help govern their own community. Their first order of business was to develop a community values policy: a written document that outlined how students wanted their community to function — what values to uphold, how to resolve conflict, and how to make collective decisions. Students refined their own student life policies and created three committees (Service, Budget, and Fun), through which they managed their own budget across the five-week program, initiated and executed local service projects, planned a retreat to Halibut Point Recreation Site, and designed a festive Commencement Ceremony. 
+
+With the desire to help develop Outer Coast’s future, students further codified resolutions for their continued involvement in Outer Coast post-Summer Seminar, notably around faculty hiring, student admission, and overall program design. 
 
 Big thanks to all of the organizations who sponsored the 2019 Summer Seminar!
 
