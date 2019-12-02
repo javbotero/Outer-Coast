@@ -493,22 +493,51 @@ iframe.google-form {
 }
 
 /* Styles the top banner on the homepage/ pages  */
+
+@media screen and (min-width: 600px) {
+  .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      margin-top: -45px; 
+  }
+}
+
 .homepage-banner-top {
   text-align: center; 
   color: #fff !important; 
   background-color: #607C83; 
   padding-top: 1px; 
+  padding-bottom: 1px;
+  box-sizing: border-box;
+}
+
+.homepage-banner-top:hover {
+ background-color: #606B83;  
+}
+
+.homepage-banner-top-second {
+  text-align: center; 
+  color: #fff !important; 
+  background-color: #485D62; 
+  padding-top: 1px; 
   padding-bottom: 1px; 
-  margin-top: -45px; 
 }
 
-.homepage-banner-top a {
- color: #fff;  
+.homepage-banner-top-second:hover {
+ background-color: #606B83;  
 }
 
-.homepage-banner-top a:hover {
- color: #00ffff;  
+.homepage-banner-top-third {
+  text-align: center; 
+  color: #fff !important; 
+  background-color: #3C4E52; 
+  padding-top: 1px; 
+  padding-bottom: 1px; 
 }
+
+.homepage-banner-top-third:hover {
+ background-color: #606B83;  
+}
+
+/* Styles the banner on the other pages  */
 
 .homepage-banner-top-2 {
   text-align: center; 
