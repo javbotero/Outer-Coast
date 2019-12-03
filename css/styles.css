@@ -117,6 +117,15 @@ footer.page-footer {
   width: 16rem !important;
 }
 
+.dropdown-content:last-child {
+  background-color: #607C83; 
+  color: #fff; 
+}
+
+.dropdown-content:last-child:hover {
+  background-color: #606B83; 
+}
+
 nav {
   filter: alpha(opacity=90);
   opacity: 0.90;
