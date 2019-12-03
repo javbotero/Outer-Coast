@@ -74,6 +74,8 @@ Other volunteer organizations included: Sitka Volunteer Fire Department, The Clo
 
 _OCSS 2019 Students voting in a Student Body meeting._
 
+***
+
 The 2019 Student Body was vested with responsibility to help govern their own community. Their first order of business was to develop a community values policy: a written document that outlined how students wanted their community to function — what values to uphold, how to resolve conflict, and how to make collective decisions. Students refined their own student life policies and created three committees (Service, Budget, and Fun), through which they managed their own budget across the five-week program, initiated and executed local service projects, planned a retreat to Halibut Point Recreation Site, and designed a festive Commencement Ceremony. 
 
 With the desire to help develop Outer Coast’s future, students further codified resolutions for their continued involvement in Outer Coast post-Summer Seminar, notably around faculty hiring, student admission, and overall program design. 
