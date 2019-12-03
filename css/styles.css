@@ -117,13 +117,13 @@ footer.page-footer {
   width: 16rem !important;
 }
 
-ul .right .hide-on-med-and-down:last-child {
-  background-color: #607C83; 
-  color: #fff; 
+nav:last-child {
+  background-color: #607C83 !important; 
+  color: #fff !important; 
 }
 
 nav:last-child:hover {
-  background-color: #606B83; 
+  background-color: #606B83 !important; 
 }
 
 nav {
