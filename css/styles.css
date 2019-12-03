@@ -117,12 +117,12 @@ footer.page-footer {
   width: 16rem !important;
 }
 
-nav ul:last-child {
+nav:last-child {
   background-color: #607C83; 
   color: #fff; 
 }
 
-nav ul:last-child:hover {
+nav:last-child:hover {
   background-color: #606B83; 
 }
 
