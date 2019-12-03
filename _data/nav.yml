@@ -1,6 +1,6 @@
 top:
   - name: About
-    page: about.html
+    page: 
     subfolderitems:
       - name: What is Outer Coast?
         page: about.html
