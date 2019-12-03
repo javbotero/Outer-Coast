@@ -117,12 +117,12 @@ footer.page-footer {
   width: 16rem !important;
 }
 
-.dropdown-content:last-child {
+nav ul:last-child {
   background-color: #607C83; 
   color: #fff; 
 }
 
-.dropdown-content:last-child:hover {
+nav ul:last-child:hover {
   background-color: #606B83; 
 }
 
