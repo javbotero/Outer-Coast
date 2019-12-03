@@ -117,7 +117,7 @@ footer.page-footer {
   width: 16rem !important;
 }
 
-nav:last-child {
+ul .right .hide-on-med-and-down:last-child {
   background-color: #607C83; 
   color: #fff; 
 }
