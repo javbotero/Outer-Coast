@@ -19,6 +19,8 @@ top:
         page: summer/nominate/
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
+      - name: Summer Seminar 2019
+        page: summer-seminar-2019/
   - name: Year 2020-21
     page: year/
     subfolderitems:
@@ -30,10 +32,16 @@ top:
         page: year/apply/
       - name: Nominate a Student
         page: year/nominate/
-  - name: News
+  - name: Publications
     page: news.html
+    subfolderitems:
+      - name: News
+        page: news.html
   - name: Who We Are
     page: team.html
+    subfolderitems:
+      - name: Team
+        page: team.html
   - name: Contribute
     page: contribute
   - name: Contact Us
