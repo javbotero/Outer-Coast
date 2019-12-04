@@ -141,6 +141,30 @@ nav .brand-logo, nav ul a {
   color: #4C4C4C;
 }
 
+.right.hide-on-med-and-down > li:last-child {
+  background-color: #7E9374; 
+}
+
+.right.hide-on-med-and-down > li:nth-last-child(2) {
+  background-color: #6B8360; 
+}
+
+.right.hide-on-med-and-down > li:last-child a {
+  color: #fff !important; 
+}
+
+.right.hide-on-med-and-down > li:nth-last-child(2) a {
+  color: #fff !important;  
+}
+
+.right.hide-on-med-and-down > li:last-child:hover {
+  background-color: #A3B29C; 
+}
+
+.right.hide-on-med-and-down > li:nth-last-child(2):hover {
+  background-color: #A3B29C; 
+}
+
 nav li {
   margin: 0;
 }
