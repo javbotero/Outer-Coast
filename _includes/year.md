@@ -54,9 +54,9 @@ During each semester, students will participate in two consecutive, seven-week, 
 
 | Date          | Event     |
 | ------------- | ------------- |
-| January 19 &nbsp; | Arrival  |
+| January 19 | Arrival  |
 | January 20 – 22 | Orientation |
-| January 25 – March 11 | 1st term |
+| January 25 – March 11 &nbsp; &nbsp; &nbsp; | 1st term |
 | March 12 – 21 | Spring Break |
 | March 22 | Mid-semester Reflection  |
 | March 23 – May 7 | 2nd term |
