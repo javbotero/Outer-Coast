@@ -47,16 +47,14 @@ During each semester, students will participate in two consecutive, seven-week, 
 | October 23 – November 1 | Fall Break |
 | November 2  | Mid-semester Reflection  |
 | November 3 – December 18  | 2nd term |
-|   November 26 – 27  | No class  |
+| &nbsp; &nbsp; November 26 – 27  | No class  |
 | December 19  | Departure |
-
-***
 
 <strong>Spring Semester (2021)</strong>
 
 | Date          | Event     |
 | ------------- | ------------- |
-| January 19 | Arrival  |
+| January 19 &nbsp; | Arrival  |
 | January 20 – 22 | Orientation |
 | January 25 – March 11 | 1st term |
 | March 12 – 21 | Spring Break |
