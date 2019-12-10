@@ -65,6 +65,6 @@ During each semester, students will participate in two consecutive, seven-week, 
 ***
 <strong>Program Overview:</strong>
 
-For more details on the Outer Coast Year, please see the <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1XniH45s2ML6hB-8IsiKOtQ00FPKloqC_js4NkeU41ZY/edit" target="_blank">Program Overview</a>. . The Program Overview and website will be updated as faculty and course descriptions are announced.
+For more details on the Outer Coast Year, please see the <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1XniH45s2ML6hB-8IsiKOtQ00FPKloqC_js4NkeU41ZY/edit" target="_blank">Program Overview</a>. The Program Overview and website will be updated as faculty and course descriptions are announced.
 
 
