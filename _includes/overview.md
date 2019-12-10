@@ -18,6 +18,6 @@ Over the course of five weeks, students immerse themselves in two fast-paced, co
 
 <strong>Program Overview</strong>
 
-You can read more in the Summer Seminar 2020 <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1wAtxQPoqbolPe9YQuui9E3z--P9lxrwRlr9g4z9Ux44/edit" target="_blank">Program Overview</a>
+Read more in our detailed <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1wAtxQPoqbolPe9YQuui9E3z--P9lxrwRlr9g4z9Ux44/edit" target="_blank">Program Overview</a>. 
 
-We will release more details as they come available, including course descriptions and application updates.
+We will release more information as it becomes available, including course descriptions and application updates.
