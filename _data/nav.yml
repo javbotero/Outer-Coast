@@ -17,10 +17,10 @@ top:
         page: summer/apply/
       - name: Nominate
         page: summer/nominate/
-      - name: Summer Seminar 2018
-        page: summer-seminar-2018.html
       - name: Summer Seminar 2019
         page: summer-seminar-2019/
+      - name: Summer Seminar 2018
+        page: summer-seminar-2018.html
   - name: Year 2020-21
     page: year/
     subfolderitems:
