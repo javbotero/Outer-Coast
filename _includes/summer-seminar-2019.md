@@ -12,7 +12,7 @@ _The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
 This summer, Outer Coast offered three fast-paced, college-level academic courses:
 
 <!-- This inserts the campus image -->
-![Students in class]({{ site.imagesurl }}X'unei in class.jpg){:height="65%" width="65%"}
+![Students in class]({{ site.imagesurl }}seminar_academics.jpg){:height="65%" width="65%"}
 
 <strong>Imagining Otherwise: Utopia and Apocalypse in a Changing World</strong>
 
@@ -48,7 +48,7 @@ This seminar taught students the Tlingit language and also introduced a number o
 Students participated in meaningful service to the Sitka community, each completing an average of 84 hours of service over the course of the program. Students were also entrusted with the necessary, often unglamorous work of the institution, including custodial responsibilities, building maintenance, groundskeeping, and dishwashing. 
 
 <!-- This inserts the image -->
-![Students doing service]({{ site.imagesurl }}Team with buckets.jpg){:height="65%" width="65%"}
+![Students doing service]({{ site.imagesurl }}summer_service.jpg){:height="65%" width="65%"}
 
 _OCSS 2019 Students doing service._
 
@@ -70,7 +70,7 @@ Other volunteer organizations included: Sitka Volunteer Fire Department, The Clo
 
 <strong>Self-Governance:</strong>
 
-![OCSS 2019 Students Voting]({{ site.imagesurl }}IMG_0334.jpg){:height="65%" width="65%"}
+![OCSS 2019 Students]({{ site.imagesurl }}student_governance_1.png){:height="65%" width="65%"}
 
 _OCSS 2019 Students voting in a Student Body meeting._
 
