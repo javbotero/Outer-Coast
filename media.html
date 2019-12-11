@@ -1,0 +1,17 @@
+---
+layout: default
+title: Media
+permalink: /media/
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include media.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
