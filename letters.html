@@ -1,0 +1,17 @@
+---
+layout: default
+title: Letters from the Student Body
+permalink: /student-body-letters/
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include letters.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
