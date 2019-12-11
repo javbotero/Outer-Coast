@@ -1,9 +1,6 @@
 front_page:
   top:
     - photographer: Johnny Elliott
-      image: 2
-      alt: Full Group in Tongass
-    - photographer: Johnny Elliott
       image: 3
       alt: Crossing Bridge
     - photographer: Johnny Elliott
@@ -16,11 +13,8 @@ front_page:
       image: 8
       alt: Cole and Boards
     - photographer: Johnny Elliott
-      image: 9
-      alt: Angelina in Class
-    - photographer: Johnny Elliott
-      image: 10
-      alt: Group at End     
+      image: 12
+      alt: Angelina in Class   
   above_three_pillars:
     photographer: Berett Wilber
     image: 1
