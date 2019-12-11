@@ -33,10 +33,14 @@ top:
       - name: Nominate a Student
         page: year/nominate/
   - name: Publications
-    page: news.html
+    page: media/
     subfolderitems:
-      - name: News
+      - name: Media
+        page: media/
+      - name: Newsletters
         page: news.html
+      - name: Letters from the Student Body
+        page: student-body-letters/
   - name: Who We Are
     page: team.html
     subfolderitems:
