@@ -72,7 +72,7 @@ Other volunteer organizations included: Sitka Volunteer Fire Department, The Clo
 
 ![OCSS 2019 Students]({{ site.imagesurl }}student_governance_1.png){:height="65%" width="65%"}
 
-_OCSS 2019 Students voting in a Student Body meeting._
+_OCSS 2019 Students in a Student Body meeting._
 
 ***
 
