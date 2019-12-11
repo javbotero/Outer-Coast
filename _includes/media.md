@@ -30,4 +30,4 @@
 <p><a href="https://www.insidehighered.com/news/2015/12/11/outer-coast-college-seeks-replicate-deep-springs-success" target="blank">"Another Deep Springs? But With Women"</a></p>
 *December 2015*
 
-***
+
