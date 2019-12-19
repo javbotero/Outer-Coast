@@ -1,3 +1,11 @@
+---
+layout: blog
+title: Announcing the Outer Coast Semester!
+date: August 10, 2019
+published: true
+excerpt_separator: <!--more-->
+---
+
 Since early September, we have been in conversation with the Alaska Commission on Postsecondary Education (ACPE), pursuing the Alaska higher ed holy grail: Initial Authorization — a regulatory prerequisite to run any postsecondary program, including the Outer Coast Semester. We learned recently that this process cannot be completed before ACPE’s January meeting, and we will now wait to offer academic-year programming until Fall 2020.
 
 We see this circumstance as disappointing but not discouraging, as it provides an opportunity to refocus our energies. Namely, we have the capacity to commit today to offer two Outer Coast programs in 2020: the Outer Coast Summer Seminar and, from Fall 2020 through Spring 2021, the Outer Coast Year.
