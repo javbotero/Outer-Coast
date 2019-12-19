@@ -4,7 +4,7 @@
 
 High school graduates are eligible to apply for the fall semester, spring semester, or both. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. We intend to release our application in January 2020.
 
-#### Application Deadline
+#### Application Timelines
 
 Students may apply for the Year in any one of three application cycles. Students may apply for fall semester, spring semester, or both in the first two rounds, but only the spring semester in the third round. The rounds will follow the timeline below:
 
@@ -18,4 +18,4 @@ Students may apply for the Year in any one of three application cycles. Students
 <!-- This inserts the image -->
 ![Student Service]({{ site.imagesurl }}semester_service_2.png){:height="65%" width="70%"}
 
-_Students doing service in their community_
+_Students cleaning fire trucks for the Sitka Fire Department_
