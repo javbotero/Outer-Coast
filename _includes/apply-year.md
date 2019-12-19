@@ -6,7 +6,7 @@ High school graduates are eligible to apply for the fall semester, spring semest
 
 #### Application Deadline
 
-The Outer Coast Year will have three application cycles. Students may apply for fall semester, spring semester, or both in the first two rounds, but only the spring semester in the third round. The rounds will follow the timeline below:
+Students may apply for the Year in any one of three application cycles. Students may apply for fall semester, spring semester, or both in the first two rounds, but only the spring semester in the third round. The rounds will follow the timeline below:
 
 1. First round: Application open January 10 – February 29, 2020. Decisions made by March 31, 2020.
 
