@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Announcing the Outer Coast Semester!
-date: August 10, 2019
+title: What's next at Outer Coast: the twists and turns of future planning
+date: November 5, 2019
 published: true
 excerpt_separator: <!--more-->
 ---
