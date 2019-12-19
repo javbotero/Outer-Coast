@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: What's next at Outer Coast: the twists and turns of future planning
+title: What's next at Outer Coast the twists and turns of future planning
 date: November 5, 2019
 published: true
 excerpt_separator: <!--more-->
