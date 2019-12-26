@@ -19,9 +19,6 @@ But many of us know that these rosy feelings mask the truth about higher educati
 We think otherwise. We think a college education can be affordable and transformative, intellectually and personally. To prove it, we’re building a college of our own.
 
 ***
-
-## Learn About Outer Coast
-
 <!-- This inserts the video -->
 <div class="center">
 <iframe src="https://player.vimeo.com/video/375164979" width="100%" height="600px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
