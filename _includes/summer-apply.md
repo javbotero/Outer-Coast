@@ -7,6 +7,7 @@ Current high school sophomores and juniors are eligible to apply. We hope to bri
 #### Application
 
  [New Student Application](https://fs29.formsite.com/Gd7elL/jd4ednm4wy/index.html)
+ 
  [Returning Student Application](https://fs29.formsite.com/Gd7elL/abmylds10t/index.html)
  
 The application is open from January 1 to April 1, 2020. 
