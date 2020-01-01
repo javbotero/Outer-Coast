@@ -529,7 +529,7 @@ iframe.google-form {
 
 @media screen and (min-width: 600px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      margin-top: -45px; 
+      margin-top: 0px; 
   }
 }
 
