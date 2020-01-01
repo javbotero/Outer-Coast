@@ -1,5 +1,6 @@
 # Apply
 
+
 #### Eligibility
 
 Current high school sophomores and juniors are eligible to apply. We hope to bring together high-potential students who are invested in community. We place a special emphasis on recruiting students from underserved backgrounds.
