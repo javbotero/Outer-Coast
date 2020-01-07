@@ -5,7 +5,7 @@ Current high school sophomores and juniors are eligible to apply. We hope to bri
 
 #### Mail-in Application
 
-If you would like to apply to the Summer Seminar by mail, you may print [a new student application here](https://drive.google.com/file/d/1kRKV-PDdUAVEp-ean56VPQsaowGN5z1t/view?usp=sharing) or, if you attended the 2018 or 2019 Summer Seminar, [a returning student application here](https://drive.google.com/file/d/1pShOpaWSJoSXKcLTgrhFEBXvn2ftJ0P_/view?usp=sharing). Applications should be mailed to PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
+In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Summer Seminar by mail, you may print [a new student application here](https://drive.google.com/file/d/1kRKV-PDdUAVEp-ean56VPQsaowGN5z1t/view?usp=sharing) or, if you attended the 2018 or 2019 Summer Seminar, [a returning student application here](https://drive.google.com/file/d/1pShOpaWSJoSXKcLTgrhFEBXvn2ftJ0P_/view?usp=sharing). Applications should be mailed to PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
 
 #### Application Deadline
  
