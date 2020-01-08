@@ -11,7 +11,7 @@ $(document).ready(function () {
   {% for team in site.data.team.teams %}
       {% for member in team.members %}
         if (hash === '#{{ member.name | slugify }}') {
-          showSection('{{ team.name | slugify }}');
+          showSection('{{ team.name | slugify }}-team');
 
           // Scroll by more than height of navbar so first lines won't be obscured
           navHeight = _.parseInt($('nav').css('height').replace(/\D/g,'')) + 10;
