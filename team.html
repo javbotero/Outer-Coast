@@ -36,7 +36,7 @@ sitemap:
       <div class="col s12 m4 l3">
         <ul class="team-nav">
           {% for team in site.data.team.teams %}
-            <li onclick="showSection('{{ team.name | downcase | replace: " ", "-" }}');" class="blue-grey-text text-darken-2">
+            <li onclick="showSection('{{ team.name | downcase | replace: " ", "-" }}-team');" class="blue-grey-text text-darken-2">
               {{ team.name }}
             </li>
           {% endfor %}
@@ -49,7 +49,7 @@ sitemap:
 
         {% for team in site.data.team.teams %}
           <div id="{{ team.name | slugify }}-team" class="team{% if forloop.first == false %} hidden{% endif %}">
-            <h4 class="collaborators">{{ team.name }} Team</h4>
+            <h4 class="collaborators">{{ team.name }} </h4>
             {% if team.subtitle %}
               <h5 class="collaborators blue-grey-text text-darken-1">{{ team.subtitle }}</h5>
             {% endif %}
