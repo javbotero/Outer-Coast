@@ -6,17 +6,17 @@ published: true
 excerpt_separator: <!--more-->
 ---
 
-​The Outer Coast Summer Seminar application is now open!
+<strong> ​The Outer Coast Summer Seminar application is now open! </strong>
 
-<strong> Program Dates: June 27 – August 1, 2020
+<strong> Program Dates: June 27 – August 1, 2020 </strong>
 
-Location: Sitka, AK
+<strong> Location: Sitka, AK </strong>
 
-Current high school sophomores and juniors are invited to apply online or by mail.
+<strong> Current high school sophomores and juniors are invited to apply online or by mail. </strong>
 
-Applications submitted by January 31, 2020 will receive admissions decisions by February 15.
+<strong> Applications submitted by January 31, 2020 will receive admissions decisions by February 15. </strong>
 
-The final application deadline is April 1, 2020. </strong>
+<strong> The final application deadline is April 1, 2020. </strong>
 
 <!--more-->
 
