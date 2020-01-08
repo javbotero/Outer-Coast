@@ -24,7 +24,7 @@ sitemap:
           {% for position in site.data.positions.positions %}
             <li>
               <a href="{{ position.posting_url }}">{{ position.name }}</a>
-            </li>
+          </li>
           {% endfor %}
         </ul>
       </div>
@@ -36,7 +36,7 @@ sitemap:
       <div class="col s12 m4 l3">
         <ul class="team-nav">
           {% for team in site.data.team.teams %}
-            <li onclick="showSection('{{ team.name | downcase | replace: " ", "-" }}-team');" class="blue-grey-text text-darken-2">
+            <li onclick="showSection('{{ team.name | downcase | replace: " ", "-" }}');" class="blue-grey-text text-darken-2">
               {{ team.name }}
             </li>
           {% endfor %}
