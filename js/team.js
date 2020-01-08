@@ -11,7 +11,7 @@ $(document).ready(function () {
   {% for team in site.data.team.teams %}
       {% for member in team.members %}
         if (hash === '#{{ member.name | slugify }}') {
-          showSection('{{ team.name | slugify }}');
+          showSection('{{ team.name | slugify }}-hello!');
 
           // Scroll by more than height of navbar so first lines won't be obscured
           navHeight = _.parseInt($('nav').css('height').replace(/\D/g,'')) + 10;
@@ -35,7 +35,7 @@ function showSection(sectionName) {
 
 function hideAllSections() {
   // All page sections on the site, for simplicity's sake
-  pageSections = ['principal-team', 'sitka-team', 'alaska-team', 'lower-48-team', 'board-of-advisors', 'project-staff', '2018-summer-staff-team', 'collaborators-team', '2019-summer-staff-team'];
+  pageSections = ['principal-team', 'sitka-team', 'alaska-team', 'lower-48-team', 'board-of-advisors-team', 'project-staff-team', '2018-summer-staff-team', 'collaborators-team', '2019-summer-staff-team'];
 
   for (i = 0; i < pageSections.length; i++) {
     $('#' + pageSections[i]).hide();
