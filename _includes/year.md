@@ -43,10 +43,10 @@ During each semester, students will participate in two consecutive, seven-week, 
 | ------------- | ------------- |
 | August 31 | Arrival  |
 | September 1 – 4   | Orientation |
-| September 7 – October 22  | 1st term |
+| September 7 – October 22  | Term 1 |
 | October 23 – November 1 | Fall Break |
 | November 2  | Mid-semester Reflection  |
-| November 3 – December 18  | 2nd term |
+| November 3 – December 18  | Term 2 |
 | &nbsp; &nbsp; November 26 – 27  | No class  |
 | December 19  | Departure |
 
@@ -56,10 +56,10 @@ During each semester, students will participate in two consecutive, seven-week, 
 | ------------- | ------------- |
 | January 19 | Arrival  |
 | January 20 – 22 | Orientation |
-| January 25 – March 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 1st term |
+| January 25 – March 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Term 3 |
 | March 12 – 21 | Spring Break |
 | March 22 | Mid-semester Reflection  |
-| March 23 – May 7 | 2nd term |
+| March 23 – May 7 | Term 4 |
 | May 8 | Departure |
 
 ***
