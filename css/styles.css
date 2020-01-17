@@ -529,31 +529,31 @@ iframe.google-form {
 
 @media screen and (min-width: 1300px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 110px; 
+      min-height: 105px; 
   }
 }
 
 @media screen and (max-width: 1300px) and (min-width: 1100px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 125px; 
+      min-height: 120px; 
   }
 }
 
 @media screen and (max-width: 1100px) and (min-width: 900px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 120px; 
+      min-height: 115px; 
   }
 }
 
 @media screen and (max-width: 900px) and (min-width: 700px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 125px; 
+      min-height: 120px; 
   }
 }
 
 @media screen and (max-width: 700px) and (min-width: 600px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 125px; 
+      min-height: 120px; 
   }
 }
 
