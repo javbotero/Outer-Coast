@@ -14,7 +14,7 @@ Spring Semester: Tuesday, January 19th – Saturday, May 8th, 2021
 
 <strong>Eligibility:</strong>
 
-High school graduates are eligible to apply for the fall semester, spring semester, or both. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. We intend to release our application in January 2020.
+High school graduates are eligible to apply for the fall semester, spring semester, or both. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. 
 
 ***
 
