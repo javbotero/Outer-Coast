@@ -32,6 +32,11 @@ faq_page:
     - photographer: Berett Wilber
       image: 10
       alt: Olga and Neva straits
+year_page:
+  top:
+    - photographer: Johnny Elliott
+      image: 18
+      alt: The Sitka Fine Arts Campus in winter
 who_we_are_page:
   top:
     - photographer: James Poulson
