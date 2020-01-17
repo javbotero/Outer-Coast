@@ -527,9 +527,21 @@ iframe.google-form {
 
 /* Styles the top banner on the homepage/ pages  */
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 900px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      margin-top: 0px; 
+      min-height: 160px; 
+  }
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      min-height: 140px; 
+  }
+}
+
+@media screen and (max-width: 600px) {
+   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      min-height: 40px; 
   }
 }
 
