@@ -527,9 +527,15 @@ iframe.google-form {
 
 /* Styles the top banner on the homepage/ pages  */
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1300px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 115px; 
+      min-height: 110px; 
+  }
+}
+
+@media screen and (max-width: 1300px) and (min-width: 1100px) {
+  .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      min-height: 125px; 
   }
 }
 
@@ -562,7 +568,7 @@ iframe.google-form {
   color: #fff !important; 
   background-color: #607C83; 
   padding-top: 1px; 
-  padding-bottom: 1px;
+  padding-bottom: 0px;
   box-sizing: border-box;
 }
 
@@ -575,7 +581,7 @@ iframe.google-form {
   color: #fff !important; 
   background-color: #485D62; 
   padding-top: 1px; 
-  padding-bottom: 1px; 
+  padding-bottom: 0px; 
 }
 
 .homepage-banner-top-second:hover {
@@ -587,7 +593,7 @@ iframe.google-form {
   color: #fff !important; 
   background-color: #3C4E52; 
   padding-top: 1px; 
-  padding-bottom: 1px; 
+  padding-bottom: 0px; 
 }
 
 .homepage-banner-top-third:hover {
