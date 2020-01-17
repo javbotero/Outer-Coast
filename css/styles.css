@@ -529,13 +529,13 @@ iframe.google-form {
 
 @media screen and (min-width: 900px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 160px; 
+      min-height: 100px; 
   }
 }
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 140px; 
+      min-height: 120px; 
   }
 }
 
