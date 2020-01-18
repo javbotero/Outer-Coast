@@ -7,10 +7,10 @@ top:
       - name: F.A.Q.
         page: faq.html
   - name: Summer Seminar 2020
-    page: summer/apply/
+    page: summer/
     subfolderitems:
       - name: Overview
-        page: summer/apply/
+        page: summer/
       - name: Cost of Attendance
         page: cost-of-attendance.html
       - name: Apply
@@ -54,7 +54,7 @@ footer:
   - name: About the Project
     page: about.html
   - name: Summer Seminar
-    page: summer/apply/
+    page: summer/
   - name: Year
     page: year/
   - name: Publications
