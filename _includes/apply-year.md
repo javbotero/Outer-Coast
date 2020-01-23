@@ -4,6 +4,10 @@
 
 High school graduates are eligible to apply for the fall semester, spring semester, or both. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. 
 
+#### Mail-in Application
+
+In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Year by mail, you may print [a student application here](https://drive.google.com/file/d/1rWE8F6JuFHVH9Zik0gQ5BtSgMvO_jmfx/view?usp=sharing). Applications should be mailed to Outer Coast at PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
+
 #### Application Timelines
 
 Students may apply for the Year in any one of three application cycles. Students may apply for fall semester, spring semester, or both in the first two rounds, but only the spring semester in the third round. The rounds will follow the timeline below:
