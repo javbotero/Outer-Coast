@@ -1,0 +1,21 @@
+---
+layout: default
+title: Year 2020-2021
+permalink: /year
+---
+
+{% include slider.html photos=site.data.images.year_page.top %}
+
+<div class="row">
+  <a href="https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html" target="_blank"><div class="col s12 m4 homepage-banner-top"><p>Outer Coast Year 2020–21 Student Application</p></div></a>
+  <a href="https://docs.google.com/document/d/10JBcUOkhH6IzoNBpFEAw6tYNwnBYerS5b5i2GMl1rEU/edit?usp=sharing" target="_blank"><div class="col s12 m4 homepage-banner-top-second"><p>Outer Coast Year 2020-21 Faculty Application</p></div></a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlgg2cjrVCUADQl3FHmBxdR1urrUAtzzGH6t0tcIxD6DPNIg/viewform" target="_blank"><div class="col s12 m4 homepage-banner-top-third"><p>Nominate a Student for the Year Here</p></div></a>
+    </div>
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+    {% capture my-include %}{% include year.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
