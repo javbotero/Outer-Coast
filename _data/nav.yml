@@ -22,10 +22,10 @@ top:
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
   - name: Year 2020-21
-    page: year/apply/
+    page: year
     subfolderitems:
       - name: About
-        page: year/
+        page: year
       - name: Cost of Attendance
         page: year/cost/
       - name: Apply
@@ -56,7 +56,7 @@ footer:
   - name: Summer Seminar
     page: summer/
   - name: Year
-    page: year/apply/
+    page: year
   - name: Publications
     page: media/
   - name: Who We Are
