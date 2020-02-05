@@ -10,12 +10,6 @@
 
 We're talking about it! The nationally renowned Sitka Fine Arts Camp owns and is restoring the Sheldon Jackson Campus. We are excited about the possibility of Outer Coast on Sheldon Jackson Campus, but nothing is decided and there are many important details to work through.
 
-### When do you start taking applications?
-
-At the earliest, fall 2019, with admitted students on campus fall 2020. We want to emphasize that this is the most optimistic possible timeline.
-
-If you’re interested in applying, <a href="{{ site.root }}/contact.html" class="blue-grey-text body-link">let us know</a>. We’ll keep in touch and contact you when applications are open.
-
 ### Will there be any gender-based eligibility requirements?
 
 No, none at all. Outer Coast welcomes all students, regardless of gender.
