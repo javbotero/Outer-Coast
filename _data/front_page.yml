@@ -3,7 +3,7 @@ opening:
     - title: 1) Quality&colon;
       content: At many colleges and universities <a class="blue-text text-lighten-1" href="http://www.press.uchicago.edu/ucp/books/book/chicago/A/bo10327226.html" target="_blank">students simply aren't learning</a>...
     - title: 2) Cost&colon;
-      content: ...while the price of a college education continues to skyrocket.
+      content: ...while the price of a college education <a class="blue-text text-lighten-1" href="https://www.forbes.com/sites/camilomaldonado/2018/07/24/price-of-college-increasing-almost-8-times-faster-than-wages/#36741ded66c1" target="_blank">continues to skyrocket</a>.
 pillars_section:
   title: Three Pillars
   pre_cards: |
