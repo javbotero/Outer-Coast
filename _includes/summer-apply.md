@@ -12,7 +12,7 @@ In addition to the online application above, Outer Coast offers the option for s
 The application is open from January 1 to April 1, 2020. 
 
 Applications submitted by January 31 will receive admissions decisions by February 15. 
-All other applications will receive admissions decisions by April 15. 
+All other applications will receive admissions decisions by April 26. 
 A number of qualified applicants will be placed on a waitlist, with the possibility of admission through June.
 
 Email [johnny@outercoast.org](mailto:johnny@outercoast.org) with any questions about the application process. 
