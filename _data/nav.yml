@@ -46,6 +46,8 @@ top:
     subfolderitems:
       - name: Team
         page: team.html
+      - name: Join Our Team
+        page: join-our-team/
   - name: Contribute
     page: contribute
   - name: Contact Us
