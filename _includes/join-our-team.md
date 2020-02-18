@@ -8,6 +8,7 @@
 Residential Teaching Assistants are responsible for the oversight and coordination of student life in the Summer Seminar. Primary responsibilities include providing residential support, mentorship, and academic guidance to students. 
 
 [Service Coordinator:](https://docs.google.com/document/d/1Rc25MYbICypG1ryrw95a0umWGi9ZEDJrCpcHBBeFqUo/edit)
+
 Service Coordinators are responsible for the oversight and coordination of all student service & labor in the Summer Seminar. Primary responsibilities include providing service & labor leadership, training, guidance, and mentorship to students.  
 
 
