@@ -1,4 +1,3 @@
-# Join our team
 
 #### Summer Seminar Hiring
 
