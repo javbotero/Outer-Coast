@@ -1,0 +1,17 @@
+---
+layout: default
+title: Join our team
+permalink: /join-our-team/
+---
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+
+<div class="main-section" align="left">
+  <div class="container" align="left">
+
+    {% capture my-include %}{% include join-our-team.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
