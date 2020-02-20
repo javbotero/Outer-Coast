@@ -19,7 +19,7 @@ Outer Coast offers two year-long positions through the [Alaska Fellows Program](
 
 [Development and Administration Fellow](https://docs.google.com/document/d/1CBNcuQSe7UcO8kuHvtXuD1l7SHFT8c1axBIkUD1U_II/edit) 
 
-The development and Administration Fellow will manage donor relationships, apply for grants, and fine-tune essential workplace systems.
+The Development and Administration Fellow will manage donor relationships, apply for grants, and fine-tune essential workplace systems.
 
 [Programs and Operations Fellow](https://docs.google.com/document/d/1NTx3VKfctmuzvsaiT6xH0FrF2BTO95S8MnZ-R9VOwZg/edit)
 
