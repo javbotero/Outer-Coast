@@ -219,7 +219,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-right:hover {
-  min-width: 150px; 
+  min-width: 200px; 
   filter: alpha(opacity=90);
   opacity: 0.90;
 }
