@@ -6,24 +6,24 @@ top:
         page: about.html
       - name: F.A.Q.
         page: faq.html
-  - name: Summer Seminar 2020
+  - name: Summer Seminar
     page: summer/
     subfolderitems:
-      - name: Overview
+      - name: Summer Seminar 2020
         page: summer/
-      - name: Cost of Attendance
-        page: cost-of-attendance.html
-      - name: Apply
-        page: summer/apply/
-      - name: Nominate
-        page: summer/nominate/
+        subsubfolderitems:
+          - name: Overview
+            page: summer/
+          - name: Cost of Attendance
+            page: cost-of-attendance.html
+          - name: Apply
+            page: summer/apply/
+          - name: Nominate
+            page: summer/nominate/
       - name: Summer Seminar 2019
         page: summer-seminar-2019/
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
-        subsubfolderitems:
-          - name: About
-            page: summer-seminar-2018.html
   - name: Year 2020-21
     page: year/
     subfolderitems:
