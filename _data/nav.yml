@@ -21,6 +21,9 @@ top:
         page: summer-seminar-2019/
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
+        subsubfolderitems:
+          - name: About
+            page: summer-seminar-2018.html
   - name: Year 2020-21
     page: year/
     subfolderitems:
