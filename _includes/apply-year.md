@@ -8,16 +8,9 @@ High school graduates or GED holders are eligible to apply for the fall semester
 
 In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Year by mail, you may print [a student application here](https://drive.google.com/file/d/1rWE8F6JuFHVH9Zik0gQ5BtSgMvO_jmfx/view?usp=sharing). Applications should be mailed to Outer Coast at PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
 
-#### Application Timelines
+#### Application Timeline
 
-Students may apply for the Year in any one of three application cycles. Students may apply for fall semester, spring semester, or both in the first two rounds, but only the spring semester in the third round. The rounds will follow the timeline below:
-
-1. First round: Application open January 16 – February 29, 2020. Decisions made by March 31, 2020.
-
-2. Second round: Application open March 1 – May 15, 2020. Decisions made by June 1.
-
-3. Third round: Application open May 16 – September 30, 2020. Decisions made on a rolling basis with all decisions made by October 15, 2020.
-
+Students may apply for the Fall Semester, Spring Semester, or both until May 15, 2020, with decisions announced on June 1, 2020. The application for only the Spring Semester will remain open until September 30, with decisions made on a rolling basis until October 15, 2020.
 
 <!-- This inserts the image -->
 ![Student Service]({{ site.imagesurl }}semester_service_2.png){:height="65%" width="70%"}
