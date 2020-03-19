@@ -566,6 +566,7 @@ iframe.google-form {
 
 .row-announcement {
  margin-top: -50px; 
+  margin-bottom: 20px; 
 }
 
 @media screen and (min-width: 1300px) {
