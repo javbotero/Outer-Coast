@@ -557,6 +557,13 @@ iframe.google-form {
 
 /* Styles the top banner on the homepage/ pages  */
 
+@media screen and (min-width: 767px) {
+.announcement-banner {
+  margin-left: 7%; 
+  margin-right: 7%; 
+}
+}
+
 @media screen and (min-width: 1300px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
       min-height: 105px; 
