@@ -561,15 +561,11 @@ iframe.google-form {
 .announcement-banner {
   margin-left: 7%; 
   margin-right: 7%; 
-  position: absolute; 
-  top: 50%; 
-  left: 50%; 
-  transform: translate(-50%, -50%);
 }
 }
 
 .row-announcement {
-  position: relative; 
+ margin-top: -50px; 
 }
 
 @media screen and (min-width: 1300px) {
