@@ -1,4 +1,15 @@
 
+#### Outer Coast Year Hiring
+
+[Academic Life Coordinator](https://docs.google.com/document/d/1epkgNI1le5iWEtgpbrKKX8zEzo9UMsJhrREu_9rcWR0/edit?usp=sharing)
+
+The Academic Life Coordinator will support students in their academic pursuits by assisting faculty and refining Outer Coast’s pedagogical structures for the long term.
+
+[Residential Life Coordinator](https://docs.google.com/document/d/1KcfmbXKztxfmpBzblRpu1axEgIz_gR7DdpaId0vvZYA/edit?usp=sharing)
+
+The Residential Life Coordinator will support students in their lives outside the classroom by building meaningful relationships and fostering a safe and vibrant campus culture.
+
+
 #### Summer Seminar Hiring
 
 
