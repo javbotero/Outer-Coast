@@ -10,19 +10,6 @@ The Academic Life Coordinator will support students in their academic pursuits b
 The Residential Life Coordinator will support students in their lives outside the classroom by building meaningful relationships and fostering a safe and vibrant campus culture.
 
 
-#### Summer Seminar Hiring
-
-
-[Residential Teaching Assistant](https://docs.google.com/document/d/1yEze_z8bmGGj1oG9fsLikLWs4oEw905Rf03x8HfPNT0/edit)
-
-Residential Teaching Assistants create positive student life systems and provide residential support, mentorship, and academic guidance to students.
-
-[Service Coordinator](https://docs.google.com/document/d/1Rc25MYbICypG1ryrw95a0umWGi9ZEDJrCpcHBBeFqUo/edit)
-
-Service Coordinators coordinate all student service & labor, and provide leadership, guidance, and mentorship to students.  
-
-
-
 #### Join the Project Staff
 
 Outer Coast offers two year-long positions through the [Alaska Fellows Program](http://alaskafellows.org/), a residential fellowship program that nurtures the next generation of Alaska-based leaders by pairing talented young people with strong communities and professional mentors.
