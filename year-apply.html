@@ -5,8 +5,9 @@ permalink: /year/apply/
 ---
 
 {% include slider.html photos=site.data.images.year_page.top %}
-<div class="row-announcement">
-  <p align="center" class="announcement-banner">COVID-19 (coronavirus) is in our communities and on our minds. We here at Outer Coast hope you and your loved ones are safe and healthy. We are monitoring COVID-19 developments closely and working to understand the implications for future Outer Coast programs. <strong>At this point, we plan to run the Summer Seminar as scheduled</strong>, and if there are any updates to our plans, we will share them here.</p>
+<div class="row-announcement announcement-banner" align="center">
+  {% capture my-include %}{% include announcement.md %}{% endcapture %}
+  {{ my-include | markdownify }}
 </div>
 <div class="row">
   <a href="https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html" target="_blank"><div class="col s12 m4 homepage-banner-top"><p>Outer Coast Year 2020–21 Student Application</p></div></a>
