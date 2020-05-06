@@ -7,10 +7,9 @@ sitemap:
 
 
 {% include slider.html photos=site.data.images.front_page.top %}
-<div class="row-announcement">
+<div class="row-announcement announcement-banner" align="center">
   {% capture my-include %}{% include announcement.md %}{% endcapture %}
-   <p align="center" class="announcement-banner"> {{ my-include | markdownify }}
-  </p>
+  {{ my-include | markdownify }}
 </div>
 <div class="row">
   <a href="http://outercoast.org/summer/apply/" target="_blank"><div class="col s12 m4 homepage-banner-top"><p>Click to Apply to the Summer Seminar</p></div></a>
