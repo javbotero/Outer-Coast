@@ -10,6 +10,20 @@ Saturday, June 27th - Saturday, August 1st, 2020
 
 ***
 
+<strong>Educational Model</strong>
+
+Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
+
+***
+
+<strong>Program Overview</strong>
+
+Read more in our detailed <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1wAtxQPoqbolPe9YQuui9E3z--P9lxrwRlr9g4z9Ux44/edit" target="_blank">Program Overview</a>. 
+
+We will release more information as it becomes available, including course descriptions and application updates.
+
+***
+
 <strong>Summer Seminar 2020 Course List</strong>
 
 
@@ -42,15 +56,3 @@ What are we talking about when we talk about democracy? This course will examine
 This course will be an intensive that teaches students the Tlingit language and also introduces a number of critical    concepts in the field of Indigenous Studies. The daily activities of the class will be divided between language learning and use and the exploration of topics in Indigenous Studies in a place-based and safe learning environment. 
 
 ***
-
-<strong>Educational Model</strong>
-
-Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
-
-***
-
-<strong>Program Overview</strong>
-
-Read more in our detailed <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1wAtxQPoqbolPe9YQuui9E3z--P9lxrwRlr9g4z9Ux44/edit" target="_blank">Program Overview</a>. 
-
-We will release more information as it becomes available, including course descriptions and application updates.
