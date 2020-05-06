@@ -8,9 +8,10 @@ sitemap:
 
 {% include slider.html photos=site.data.images.front_page.top %}
 <div class="row-announcement">
+  <p align="center" class="announcement-banner">
   {% capture my-include %}{% include announcement.md %}{% endcapture %}
     {{ my-include | markdownify }}
-  <p align="center" class="announcement-banner">COVID-19 (coronavirus) is in our communities and on our minds. To ensure the safety of Outer Coast students, staffulty, and the community of Sitka, we will be running a <strong>virtual model</strong> of the Summer Seminar 2020 for students to participate in from their homes. </p>
+  </p>
 </div>
 <div class="row">
   <a href="http://outercoast.org/summer/apply/" target="_blank"><div class="col s12 m4 homepage-banner-top"><p>Click to Apply to the Summer Seminar</p></div></a>
