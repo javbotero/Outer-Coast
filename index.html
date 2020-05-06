@@ -8,9 +8,8 @@ sitemap:
 
 {% include slider.html photos=site.data.images.front_page.top %}
 <div class="row-announcement">
-  <p align="center" class="announcement-banner">
   {% capture my-include %}{% include announcement.md %}{% endcapture %}
-    {{ my-include | markdownify }}
+   <p align="center" class="announcement-banner"> {{ my-include | markdownify }}
   </p>
 </div>
 <div class="row">
