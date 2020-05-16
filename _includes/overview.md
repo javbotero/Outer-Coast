@@ -2,6 +2,8 @@
 
 The Outer Coast Summer Seminar offers a diverse cohort of Alaskan, Lower 48, and international high school students (current sophomores and juniors) a transformative academic and service based experience that is founded on the belief that students should have agency and ownership of every aspect of their academic and personal lives and the responsibility to positively affect the communities to which they belong.
 
+Due to circumstances of the COVID-19 pandemic, and concerns for the health and safety of Outer Coast students, faculty and staff, and the community of Sitka, we will be moving forward with a virtual program for students to participate in from home. This program will be a unique endeavor, designed for this specific moment in time — but will maintain the dynamic learning environment of past Summer Seminars. In the interest of best serving our students we are crafting a program with a focus on promoting intellectual engagement, purpose, and belonging during this uncertain time.
+
 ***
 
 <strong>Program Dates</strong>
@@ -12,20 +14,32 @@ Saturday, June 27th - Saturday, August 1st, 2020
 
 <strong>Educational Model</strong>
 
-Over the course of five weeks, students immerse themselves in two fast-paced, college-level academic courses; participate in a meaningful, work-based service program; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
+Over the course of five weeks, students immerse themselves in three fast-paced, college-level academic courses; engage virtually in service to their communities and to the community of Sitka; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
+
 
 ***
 
 <strong>Program Overview</strong>
 
-Read more in our detailed <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1wAtxQPoqbolPe9YQuui9E3z--P9lxrwRlr9g4z9Ux44/edit" target="_blank">Program Overview</a>. 
+Read more in our detailed <a class="blue-text text-lighten 1"href="https://docs.google.com/document/d/1KWtakxm8SLXioOaOEbdKde3d7x_hxK7Vd9vws-RrzRc/edit" target="_blank">Program Overview</a>. 
 
-We will release more information as it becomes available, including course descriptions and application updates.
+Learn more about how to apply <a class="blue-text text-lighten 1"href="http://outercoast.org/summer/apply/" target="_blank">Here</a>. 
+
+Applications will be accepted on a rolling basis through May 31.
+
+***
+
+<strong>Eligibility & Accessibility</strong>
+
+Current high school sophomores and juniors are eligible to apply. We hope to bring together high-potential students who are invested in community. We place a special emphasis on recruiting students from underserved backgrounds.
+The student body will be limited to Western Hemisphere time zones, to avoid asynchronous learning and maximize real-time community building.
+
+Outer Coast is committed to the virtual accessibility of the Summer Seminar for all students. As such, Outer Coast will work to provide access to the technology required for full participation in the Summer Seminar. 
+If you are unable to apply online, or would prefer to apply by mail, please contact johnny@outercoast.org to request a paper application.
 
 ***
 
 <strong>Summer Seminar 2020 Course List</strong>
-
 
 
 **Intro to Applied Economics – The Economics of Rural Alaskan Water Utilities**
@@ -68,3 +82,12 @@ What are we talking about when we talk about democracy? This course will examine
 This course will be an intensive that teaches students the Tlingit language and also introduces a number of critical    concepts in the field of Indigenous Studies. The daily activities of the class will be divided between language learning and use and the exploration of topics in Indigenous Studies in a place-based and safe learning environment. 
 
 ***
+
+<strong>Application Deadline</strong>
+
+Applications will be considered on a rolling basis through May 31.
+
+Applicants will receive admissions decisions in the first week of June.
+
+Email johnny@outercoast.org with any questions about the application process.
+
