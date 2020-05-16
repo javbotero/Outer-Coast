@@ -24,7 +24,7 @@ Over the course of five weeks, students immerse themselves in three fast-paced, 
 Read more in our detailed [Program Overview](https://docs.google.com/document/d/1KWtakxm8SLXioOaOEbdKde3d7x_hxK7Vd9vws-RrzRc/edit)
 
 
-Learn more about how to apply [Here](http://outercoast.org/summer/apply/)
+Learn more about how to apply [here](http://outercoast.org/summer/apply/)
 
 
 Applications will be accepted on a rolling basis through May 31.
