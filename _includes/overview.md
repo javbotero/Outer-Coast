@@ -14,7 +14,7 @@ Saturday, June 27th - Saturday, August 1st, 2020
 
 <strong>Educational Model</strong>
 
-Over the course of five weeks, students immerse themselves in three fast-paced, college-level academic courses; engage virtually in service to their communities and to the community of Sitka; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
+Over the course of five weeks, students immerse themselves in two or more fast-paced, college-level academic courses; engage virtually in service to their communities and to the community of Sitka; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
 
 
 ***
