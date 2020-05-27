@@ -10,7 +10,7 @@ In addition to the online application above, Outer Coast offers the option for s
 
 #### Application Timeline
 
-Students may apply for the Fall Semester, Spring Semester, or both until May 15, 2020, with decisions announced on June 1, 2020. The application for only the Spring Semester will remain open until September 30, with decisions made on a rolling basis until October 15, 2020.
+Students may apply for the Fall Semester, Spring Semester, or both until June 30, 2020. The application for only the Spring Semester will remain open until September 30, with decisions made on a rolling basis until October 15, 2020.
 
 <!-- This inserts the image -->
 ![Student Service]({{ site.imagesurl }}semester_service_2.png){:height="65%" width="70%"}
