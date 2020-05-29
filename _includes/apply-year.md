@@ -2,7 +2,7 @@
 
 #### Application Timeline
 
-Students may apply for the Fall Semester, Spring Semester, or both until July 12, 2020. The application for only the Spring Semester will remain open until September 30, with decisions made on a rolling basis until October 15, 2020.
+Students may apply for the Fall Semester, Spring Semester, or both until July 12, 2020. Students will receive admissions decisions on a rolling basis based on when they apply. The application for only the Spring Semester will remain open until September 30, with decisions made on a rolling basis until October 15, 2020.
 
 #### Eligibility
 
