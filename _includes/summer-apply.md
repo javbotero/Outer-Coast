@@ -12,9 +12,9 @@ If you are unable to apply online, or would prefer to apply by mail, please cont
 
 #### Application Deadline
  
-Applications will be considered on a rolling basis through May 31.
+Applications will be considered on a rolling basis through June 10.
 
-Applicants will receive admissions decisions in the first week of June.
+Applicants will receive admissions decisions in mid-June.
 
 Email johnny@outercoast.org with any questions about the application process.
 
