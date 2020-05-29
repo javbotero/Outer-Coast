@@ -1,4 +1,4 @@
-# [Apply for the Outer Coast Year](https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html)
+# [Apply to the Outer Coast Year](https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html)
 
 #### Application Timeline
 
