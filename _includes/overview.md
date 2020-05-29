@@ -27,7 +27,7 @@ Read more in our detailed [Program Overview](https://docs.google.com/document/d/
 Learn more about how to apply [here](http://outercoast.org/summer/apply/).
 
 
-Applications will be considered on a rolling basis through May 31.
+Applications will be considered on a rolling basis through June 10.
 
 
 ***
