@@ -12,7 +12,7 @@ If you are unable to apply online, or would prefer to apply by mail, please cont
 
 #### Application Deadline
  
-Applications will be considered on a rolling basis through June 10.
+Applications will be considered on a rolling basis through June 15.
 
 Email johnny@outercoast.org with any questions about the application process.
 
