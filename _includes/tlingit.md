@@ -1,5 +1,4 @@
-### Kashook’ Áa Ḵaa Ee Dultóowu Yé 
-## Tlingit Language Massive Open Online Course
+### Kashook’ Áa Ḵaa Ee Dultóowu Yé  | Tlingit Language Massive Open Online Course
 
 
 Outer Coast is excited to be offering its first Tlingit Language open online course. *Kashook’ Áa Ḵaa Ee Dultóowu Yé* will offer an opportunity for all levels of language learners to practice Tlingit in a welcoming online environment. MCed by X̱’unei Lance Twitchell, this course will invite elders and other teachers from across Southeast Alaska to lead classes and share their knowledge. The course will also facilitate specialized conversation sections where learners of all levels can practice the language with others of their ability.
