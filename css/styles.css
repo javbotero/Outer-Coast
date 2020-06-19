@@ -210,7 +210,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: block; 
   float: none; 
   position: relative; 
-  min-width: 180px; 
+  min-width: 200px; 
 }
 
 #submenu-right {
