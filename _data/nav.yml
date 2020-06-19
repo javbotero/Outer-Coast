@@ -60,6 +60,8 @@ top:
 footer:
   - name: About the Project
     page: about.html
+  - name: Tlingit Language Course
+    page: tlingit/
   - name: Summer Seminar
     page: summer/
   - name: Year
