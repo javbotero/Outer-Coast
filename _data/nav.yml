@@ -6,6 +6,8 @@ top:
         page: about.html
       - name: F.A.Q.
         page: faq.html
+  - name: Tlingit Language Course
+    page: tlingit/
   - name: Summer Seminar
     page: summer/
     subfolderitems:
