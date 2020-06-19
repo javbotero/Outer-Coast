@@ -214,12 +214,12 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-right {
-  min-width: 200px; 
+  min-width: 180px; 
   background-color: #f9f9f9;
 }
 
 #submenu-right:hover {
-  min-width: 200px; 
+  min-width: 180px; 
   filter: alpha(opacity=90);
   opacity: 0.90;
 }
@@ -230,7 +230,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   position: absolute;
   right:0px;
   top:0px;
-  left: 202px; 
+  left: 182px; 
   z-index: 1000; 
   overflow: visible; 
 }
