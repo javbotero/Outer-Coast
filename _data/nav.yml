@@ -11,8 +11,8 @@ top:
             page: team.html
           - name: Join Our Team
             page: join-our-team/
-       - name: F.A.Q.
-         page: faq.html
+      - name: F.A.Q.
+        page: faq.html
   - name: Tlingit Language Course
     page: tlingit/
   - name: Summer Seminar
