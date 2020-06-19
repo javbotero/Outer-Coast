@@ -216,6 +216,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 #submenu-right {
   min-width: 180px; 
   background-color: #f9f9f9;
+  line-height: 1.1 !important; 
 }
 
 #submenu-right:hover {
