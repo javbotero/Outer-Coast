@@ -4,8 +4,15 @@ top:
     subfolderitems:
       - name: What is Outer Coast?
         page: about.html
-      - name: F.A.Q.
-        page: faq.html
+      - name: Who We Are
+        page: team.html
+        subsubfolderitems:
+          - name: Team
+            page: team.html
+          - name: Join Our Team
+            page: join-our-team/
+       - name: F.A.Q.
+         page: faq.html
   - name: Tlingit Language Course
     page: tlingit/
   - name: Summer Seminar
@@ -46,13 +53,6 @@ top:
         page: news.html
       - name: Letters from the Student Body
         page: student-body-letters/
-  - name: Who We Are
-    page: team.html
-    subfolderitems:
-      - name: Team
-        page: team.html
-      - name: Join Our Team
-        page: join-our-team/
   - name: Contribute
     page: contribute
   - name: Contact Us
