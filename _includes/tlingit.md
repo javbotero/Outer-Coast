@@ -18,11 +18,11 @@ This course begins Monday, June 29 and ends Friday, July 31. All sessions will r
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Mondays      | Beginner learners conversation section |
+| Mondays      | Advanced learners conversation section |
 | Tuesdays   | All learners |
 | Wednesdays | Intermediate learners conversation section |
 | Thursdays | All learners |
-| Fridays  | Advanced learners conversation section |
+| Fridays  | Beginner learners conversation section |
 
 
 All learners are welcome to attend all conversation sections and listen, but are asked to actively contribute only to the section most appropriate to their proficiency.
