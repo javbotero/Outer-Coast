@@ -13,7 +13,7 @@ You can sign up for this course below, and Outer Coast will follow up with you b
 
 <strong>Schedule</strong>
 
-This course begins Monday, June 29 and ends Friday, July 31. All sessions will run 7:00 – 8:30pm over Zoom. The session type will follow the recurring schedule below:
+This course begins Monday, June 29 and ends Friday, July 31. All sessions will run 7:00 – 8:30pm AKDT over Zoom. The session type will follow the recurring schedule below:
 
 
 | Syntax      | Description |
