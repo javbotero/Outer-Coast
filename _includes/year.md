@@ -49,6 +49,7 @@ _David Egan, DPhil, University of Oxford_
 What does it mean to be human? Attempts to answer this question often draw comparisons with animals: we’re animals too, but animals of a very special kind. The aim of this course is to think about what we are as human beings by considering the way we think about our relation to other animals.
 Questions we’ll ask include: What relevant differences (if any) might distinguish us from other animals? How do categories like natural/unnatural or wild/domesticated shape our understanding of other animals, and how do they shape our understanding of ourselves? In what ways and to what extent can the sorts of relationships that exist between humans (e.g. friendship, political community, sexual love) exist between a human being and an animal of another species? And with these questions in mind, we’ll consider some of the uses to which animals are put—as food, as subjects of scientific experiments, as pets, etc.—and ask what sorts of limits we ought to draw to their use in these contexts.            
 The readings for the course are intended as a springboard for investigations that will range beyond the texts and take good advantage of the Sitka community as well as our own diverse experiences with animals.
+
 <strong>Term 3 — Liberalism and the Legacy of Colonialism</strong>
 
 <!-- This inserts Nicholas’s headshot -->
@@ -57,6 +58,7 @@ The readings for the course are intended as a springboard for investigations tha
 _Nicholas Gooding, PhD, University of California, Berkeley_
 
 Central to political liberalism is the idea that legitimate political institutions must respect the basic rights and liberties of the individual. It sounds like a fundamentally emancipatory idea, and yet its history has been intertwined with that of European colonialism. In this course, we will explore the relationship between liberalism as a political philosophy and colonialism (and its legacy) as a historical reality, focusing in particular on the colonization of North America and the experience of the people native to the continent. We will read works of political philosophy (from Hobbes and Locke to the present), as well as historical accounts both of the process of colonization and its ongoing impact.
+
 <strong>Term 4 — Bodies and Boundaries</strong>
 
 <!-- This inserts Katherine’s headshot -->
