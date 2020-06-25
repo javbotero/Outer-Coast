@@ -62,7 +62,7 @@ Central to political liberalism is the idea that legitimate political institutio
 <!-- This inserts Katherine’s headshot -->
 ![Katherine Ding]({{ site.imagesurl }}Faculty_Katherine-Ding.jpg){:height="35%" width="35%"}
 
-_Katherine Ding, PhD student, University of California, Berkeley_
+_Katherine Ding, PhD candidate, University of California, Berkeley_
 
 Bodies are defined by their boundaries. We maintain our sense of integrity--as individuals and as a body politic--by continuously enforcing these boundaries and by imagining ourselves to be separate from the bodies existing beyond the lines we draw. But in an age of ecological disaster and mass global displacements, these assumptions are no longer tenable. Our course offers a bold thought experiment that we will collectively examine and revise: what happens if we stop enforcing these boundaries and instead embrace the body as a shifting material being in constant exchange with its environment, and thus whose boundaries are always porous and in flux?
 
