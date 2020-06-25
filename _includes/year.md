@@ -16,24 +16,55 @@ Spring Semester: Tuesday, January 19th – Saturday, May 8th, 2021
 
 <strong>Eligibility:</strong>
 
-High school graduates or GED holders are eligible to apply for the fall semester, spring semester, or both. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. 
+High school graduates or GED holders are eligible to apply for the Fall Semester, Spring Semester, or both until July 12. The Spring Semester application will remain open until September 30.
 
 ***
 
-<strong>Location:</strong>
+<strong>Program Overview:</strong>
 
-The Outer Coast Year is hosted at the Sitka Fine Arts Campus, located on the former Sheldon Jackson Campus at G̱eiy Ta.aan, a beautifully forested, 160-acre National Historic Landmark. 
-
-<!-- This inserts the campus image -->
-![SFAC]({{ site.imagesurl }}SFAC.jpg){:height="65%" width="65%"}
-
-_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
+The Outer Coast Year rests on the three pillars of Academics, Service & Labor, and Self-governance. For more details on the Outer Coast Year, please see the <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1XniH45s2ML6hB-8IsiKOtQ00FPKloqC_js4NkeU41ZY/edit" target="_blank">Program Overview</a>.
 
 ***
 
 <strong>Academics:</strong>
 
 During each semester, students will participate in two consecutive, seven-week, intellectually rigorous courses that introduce students to engaging, discussion-based learning. In small seminars, students must engage fully with the material, the faculty, and their peers. Students may have the option to receive grades and academic credit for their coursework.
+
+<strong>Term 1 — Writing and Place: What is Home</strong>
+
+<!-- This inserts Sanjena’s headshot -->
+![Sanjena Sathian]({{ site.imagesurl }}Faculty_Sanjena-Sathian.jpg){:height="35%" width="35%"}
+
+_Sanjena Sathian, Novelist, MFA, Iowa Writers Workshop_
+
+What does it mean to belong to a place? Can writing about a place make it home? Can reading about a place transport you there? In considering these questions, we'll read Alaskan authors to develop a relationship to the world around OCC, as well as non-Alaskans. By the end of the course, we will have new writing but also, hopefully, a richer relationship to the geographies we call home.
+
+<strong>Term 2 — Humans and Other Animals</strong>
+
+<!-- This inserts the David’s headshot -->
+![David Egan]({{ site.imagesurl }}Faculty_David-Egan.jpg){:height="35%" width="35%"}
+
+_David Egan, DPhil, University of Oxford_
+
+What does it mean to be human? Attempts to answer this question often draw comparisons with animals: we’re animals too, but animals of a very special kind. The aim of this course is to think about what we are as human beings by considering the way we think about our relation to other animals.
+Questions we’ll ask include: What relevant differences (if any) might distinguish us from other animals? How do categories like natural/unnatural or wild/domesticated shape our understanding of other animals, and how do they shape our understanding of ourselves? In what ways and to what extent can the sorts of relationships that exist between humans (e.g. friendship, political community, sexual love) exist between a human being and an animal of another species? And with these questions in mind, we’ll consider some of the uses to which animals are put—as food, as subjects of scientific experiments, as pets, etc.—and ask what sorts of limits we ought to draw to their use in these contexts.            
+The readings for the course are intended as a springboard for investigations that will range beyond the texts and take good advantage of the Sitka community as well as our own diverse experiences with animals.
+<strong>Term 3 — Liberalism and the Legacy of Colonialism</strong>
+
+<!-- This inserts Nicholas’s headshot -->
+![Nicholas Gooding]({{ site.imagesurl }}Faculty_Nicholas-Gooding.jpeg){:height="35%" width="35%"}
+
+_Nicholas Gooding, PhD, University of California, Berkeley_
+
+Central to political liberalism is the idea that legitimate political institutions must respect the basic rights and liberties of the individual. It sounds like a fundamentally emancipatory idea, and yet its history has been intertwined with that of European colonialism. In this course, we will explore the relationship between liberalism as a political philosophy and colonialism (and its legacy) as a historical reality, focusing in particular on the colonization of North America and the experience of the people native to the continent. We will read works of political philosophy (from Hobbes and Locke to the present), as well as historical accounts both of the process of colonization and its ongoing impact.
+<strong>Term 4 — Bodies and Boundaries</strong>
+
+<!-- This inserts Katherine’s headshot -->
+![Katherine Ding]({{ site.imagesurl }}Faculty_Katherine-Ding.jpg){:height="35%" width="35%"}
+
+_Katherine Ding, PhD student, University of California, Berkeley_
+
+Bodies are defined by their boundaries. We maintain our sense of integrity--as individuals and as a body politic--by continuously enforcing these boundaries and by imagining ourselves to be separate from the bodies existing beyond the lines we draw. But in an age of ecological disaster and mass global displacements, these assumptions are no longer tenable. Our course offers a bold thought experiment that we will collectively examine and revise: what happens if we stop enforcing these boundaries and instead embrace the body as a shifting material being in constant exchange with its environment, and thus whose boundaries are always porous and in flux?
 
 ***
 
@@ -45,10 +76,10 @@ During each semester, students will participate in two consecutive, seven-week, 
 | ------------- | ------------- |
 | August 31 | Arrival  |
 | September 1 – 4   | Orientation |
-| September 7 – October 22  | Term 1 |
+| September 7 – October 22  | Term 1 — Writing and Place: What is Home? |
 | October 23 – November 1 | Fall Break |
 | November 2  | Mid-semester Reflection  |
-| November 3 – December 18  | Term 2 |
+| November 3 – December 18  | Term 2 — Humans and Other Animals |
 | &nbsp; &nbsp; November 26 – 27  | No class  |
 | December 19  | Departure |
 
@@ -58,15 +89,10 @@ During each semester, students will participate in two consecutive, seven-week, 
 | ------------- | ------------- |
 | January 19 | Arrival  |
 | January 20 – 22 | Orientation |
-| January 25 – March 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Term 3 |
+| January 25 – March 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Term 3 — Liberalism and the Legacy of Colonialism |
 | March 12 – 21 | Spring Break |
 | March 22 | Mid-semester Reflection  |
-| March 23 – May 7 | Term 4 |
+| March 23 – May 7 | Term 4 — Bodies and Boundaries |
 | May 8 | Departure |
-
-***
-<strong>Program Overview:</strong>
-
-For more details on the Outer Coast Year, please see the <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1XniH45s2ML6hB-8IsiKOtQ00FPKloqC_js4NkeU41ZY/edit" target="_blank">Program Overview</a>. The Program Overview and website will be updated as faculty and course descriptions are announced.
 
 
