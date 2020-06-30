@@ -29,11 +29,11 @@ All learners are welcome to attend all conversation sections and listen, but are
 
 ***
 
-The Tlingit language MOOC is an effort to provide content to a wide audience and continue to explore how education can be a vessel where Alaska Native languages thrive and reach all those in need of the cherished voices of those who came before us as well as those who have yet to arrive.
+*The Tlingit language MOOC is an effort to provide content to a wide audience and continue to explore how education can be a vessel where Alaska Native languages thrive and reach all those in need of the cherished voices of those who came before us as well as those who have yet to arrive.*
 
-Many of our languages are threatened with extinction, and being unable to be in the same physical space as those who are learning has the potential to accelerate language death. This MOOC is a step to mediate language loss, and it can create a model of delivery for other Alaska Native languages. 
+*Many of our languages are threatened with extinction, and being unable to be in the same physical space as those who are learning has the potential to accelerate language death. This MOOC is a step to mediate language loss, and it can create a model of delivery for other Alaska Native languages.*
 
-There are fewer than 100 people who can speak Lingít (Tlingit) at an advanced level, so it is critical to attempt to create access to learning opportunities without barriers of time, space, and cost. 
+*There are fewer than 100 people who can speak Lingít (Tlingit) at an advanced level, so it is critical to attempt to create access to learning opportunities without barriers of time, space, and cost.* 
 
 X̱ʼunei Lance Twitchell
 
