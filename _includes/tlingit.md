@@ -36,3 +36,6 @@ Many of our languages are threatened with extinction, and being unable to be in 
 There are fewer than 100 people who can speak Lingít (Tlingit) at an advanced level, so it is critical to attempt to create access to learning opportunities without barriers of time, space, and cost. 
 
 X̱ʼunei Lance Twitchell
+
+***
+
