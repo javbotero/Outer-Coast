@@ -8,7 +8,7 @@ Over the course of two four-month semesters, students immerse themselves in fast
 
 <strong>Program Dates:</strong>
 
-Fall Semester: Monday, August 31st – Saturday, December 19th, 2020
+Fall Semester: Thursday, August 31st – Saturday, December 19th, 2020
 
 Spring Semester: Tuesday, January 19th – Saturday, May 8th, 2021
 
@@ -74,7 +74,7 @@ Bodies are defined by their boundaries. We maintain our sense of integrity--as i
 
 | Date          | Event     |
 | ------------- | ------------- |
-| August 31 | Arrival  |
+| August 27 | Arrival  |
 | September 1 – 4   | Orientation |
 | September 7 – October 22  | Term 1 — Writing and Place: What is Home? |
 | October 23 – November 1 | Fall Break |
@@ -87,8 +87,8 @@ Bodies are defined by their boundaries. We maintain our sense of integrity--as i
 
 | Date          | Event     |
 | ------------- | ------------- |
-| January 19 | Arrival  |
-| January 20 – 22 | Orientation |
+| January 14 | Arrival  |
+| January 19 – 22 | Orientation |
 | January 25 – March 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Term 3 — Liberalism and the Legacy of Colonialism |
 | March 12 – 21 | Spring Break |
 | March 22 | Mid-semester Reflection  |
