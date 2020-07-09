@@ -1,2 +1,1 @@
-COVID-19 (coronavirus) is in our communities and on our minds. To ensure the safety of Outer Coast students, staffulty, and the community of Sitka, we will be running a **virtual model** of the Summer Seminar 2020 for students to participate in from their homes. 
-
+The Outer Coast Year will run **in person** in Sitka during the 2020-21 academic year. To ensure the safety of students, staffulty, and the community of Sitka, we are developing comprehensive COVID-19 health and safety protocols for fall, which we will share publicly here.
