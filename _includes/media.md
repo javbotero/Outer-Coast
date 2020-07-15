@@ -2,13 +2,19 @@
 
 ***
 
+##The Sitka Sentinel
+<p><a href="http://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/16901-class-opens-door-to-learning-tlingit" target="blank">"Class Opens Door to Learn Tlingit" </a></p>
+*July 2020*
+
+***
+
 ##The New York Times
 <p><a href="https://www.nytimes.com/2019/06/08/opinion/sunday/college-anti-college-mainstream-universities.html" target="blank">"The Anti-College is on the Rise"</a></p>
 *June 2019*
 
 ***
 
-##The Sitka Sentinel  
+##The Sitka Sentinel
 <p><a href="http://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/15096-decolonizing-the-outer-coast-classroom?tmpl=component&print=1&page=" target="blank">"Decolonizing the Outer Coast Classroom"</a></p>
 *August 2019*
 
