@@ -3,7 +3,7 @@
 ***
 
 ##The Sitka Sentinel
-<p><a href="http://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/16901-class-opens-door-to-learning-tlingit" target="blank">"Class Opens Door to Learn Tlingit" </a></p>
+<p><a href="http://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/16901-class-opens-door-to-learning-tlingit?tmpl=component&print=1&page=" target="blank">"Class Opens Door to Learn Tlingit" </a></p>
 *July 2020*
 
 ***
