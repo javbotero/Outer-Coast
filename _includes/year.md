@@ -30,7 +30,7 @@ The Outer Coast Year rests on the three pillars of Academics, Service & Labor, a
 
 During each semester, students will participate in two consecutive, seven-week, intellectually rigorous courses that introduce students to engaging, discussion-based learning. In small seminars, students must engage fully with the material, the faculty, and their peers. Students may have the option to receive grades and academic credit for their coursework.
 
-<strong>Term 1 — Writing and Place: What is Home</strong>
+<strong>Term 1 — Writing and Place: What is Home?</strong>
 
 <!-- This inserts Sanjena’s headshot -->
 ![Sanjena Sathian]({{ site.imagesurl }}Faculty_Sanjena-Sathian.jpg){:height="35%" width="35%"}
