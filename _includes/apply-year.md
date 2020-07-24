@@ -2,11 +2,11 @@
 
 #### Application Timeline
 
-Students may apply for the Fall Semester, Spring Semester, or both until July 12, 2020. Students will receive admissions decisions on a rolling basis based on when they apply. The application for only the Spring Semester will remain open until September 30, with decisions made on a rolling basis until October 15, 2020.
+Students may apply for the Spring Semester only until September 30, 2020. The Fall Semester application has closed.
 
 #### Eligibility
 
-High school graduates or GED holders are eligible to apply for the fall semester, spring semester, or both. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. 
+High school graduates or GED holders are eligible to apply. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. 
 
 #### Mail-in Application
 
