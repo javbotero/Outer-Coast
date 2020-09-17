@@ -1,4 +1,4 @@
-# [Apply to the Outer Coast Year](https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html)
+# [Apply to the Spring Semester of the Outer Coast Year](https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html)
 
 ### Outer Coast Year 2020–21
 
@@ -10,7 +10,7 @@ Over the course of two four-month semesters, students immerse themselves in fast
 
 Fall Semester: Thursday, August 27th – Saturday, December 19th, 2020
 
-Spring Semester: Tuesday, January 19th – Saturday, May 8th, 2021
+Spring Semester: Tuesday, January 14th – Saturday, May 8th, 2021
 
 ***
 
