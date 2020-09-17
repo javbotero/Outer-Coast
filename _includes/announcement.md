@@ -1,1 +1,1 @@
-The Outer Coast Year will run **in person** in Sitka during the 2020-21 academic year. To ensure the safety of students, staffulty, and the community of Sitka, we are developing comprehensive COVID-19 health and safety protocols for fall, which we will share publicly here.
+The Outer Coast Year is currently running **in person** in Sitka during the 2020-21 academic year. To ensure the safety of students, staffulty, and the community of Sitka, we have developed comprehensive COVID-19 health and safety protocols for the fall, which we will share publicly here.
