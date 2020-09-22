@@ -1,5 +1,10 @@
 # Media
 
+***
+
+##The Sitka Sentinel 
+<p><a href="https://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/17180-sitka-s-outer-coast-starts-full-year-program?tmpl=component&print=1&page=" target="blank">"Sitka’s Outer Coast Starts Full-Year Program" </a></p>
+*September 2020*
 
 ***
 
