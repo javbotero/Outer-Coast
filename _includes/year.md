@@ -6,6 +6,12 @@ The Outer Coast Year offers a diverse cohort of up to 20 Alaskan, Lower 48, and 
 
 Over the course of two four-month semesters, students immerse themselves in fast-paced, intellectually rigorous academic coursework; engage in work-based service and meaningful labor in Sitka; and practice self-governance of key aspects of the Outer Coast experience. Through small seminars, close-knit residential living, and involvement in the wider Sitka community, Outer Coast Year students will learn how to identify, analyze, and address the challenges — both big and small — that face the world today.
 
+<!-- This inserts the photo of students -->
+![Students in Sitka National Historical Park]({{ site.imagesurl }}tasha-boyer-2.png){:height="35%" width="35%"}
+
+_Students gather for a convocation ceremony at Sitka National Historical Park and learn from Louise Brady about Lingít Aaní_
+
+
 <strong>Program Dates:</strong>
 
 Fall Semester: Thursday, August 27th – Saturday, December 19th, 2020
@@ -25,6 +31,11 @@ High school graduates or GED holders are eligible to apply for the Spring Semest
 The Outer Coast Year rests on the three pillars of Academics, Service & Labor, and Self-governance. For more details on the Outer Coast Year, please see the <a class="blue-text text-lighten-1" href="https://docs.google.com/document/d/1XniH45s2ML6hB-8IsiKOtQ00FPKloqC_js4NkeU41ZY/edit" target="_blank">Program Overview</a>.
 
 ***
+
+<!-- This inserts the photo of students -->
+![Students in Sitka]({{ site.imagesurl }}tasha-boyer-1.png){:height="35%" width="35%"}
+
+_Imaan (Fishers, Indiana) and Tatum (Anchorage, AK) explore Sitka on their first day at the Outer Coast Year_
 
 <strong>Academics:</strong>
 
