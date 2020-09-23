@@ -11,6 +11,7 @@ Over the course of two four-month semesters, students immerse themselves in fast
 
 _Students gather for a convocation ceremony at Sitka National Historical Park and learn from Louise Brady about Lingít Aaní_
 
+***
 
 <strong>Program Dates:</strong>
 
@@ -36,6 +37,8 @@ The Outer Coast Year rests on the three pillars of Academics, Service & Labor, a
 ![Students in Sitka]({{ site.imagesurl }}tasha-boyer-1.png){:height="35%" width="35%"}
 
 _Imaan (Fishers, Indiana) and Tatum (Anchorage, AK) explore Sitka on their first day at the Outer Coast Year_
+
+***
 
 <strong>Academics:</strong>
 
