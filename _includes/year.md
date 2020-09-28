@@ -23,7 +23,7 @@ Spring Semester: Tuesday, January 14th – Saturday, May 8th, 2021
 
 <strong>Eligibility:</strong>
 
-High school graduates or GED holders are eligible to apply for the Spring Semester until September 30. The application for the Fall Semester has closed.
+High school graduates or GED holders are eligible to apply for the Spring Semester until October 4, 2020. The application for the Fall Semester has closed.
 
 ***
 
