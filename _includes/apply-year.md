@@ -2,7 +2,7 @@
 
 #### Application Timeline
 
-Students may apply for the Spring Semester only until September 30, 2020. The Fall Semester application has closed.
+Students may apply for the Spring Semester only until October 4, 2020. The Fall Semester application has closed.
 
 #### Eligibility
 
