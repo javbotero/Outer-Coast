@@ -1,6 +1,6 @@
 # Contribute
 
-The vision for Outer Coast has made improbable progress over the last three years because many motivated people have invested their time, dollars, and expertise. Would you like to contribute to the cause?
+The vision for Outer Coast has made improbable progress since 2015 because many motivated people have invested their time, dollars, and expertise. Would you like to contribute to the cause?
 
 ## Contribute Financially
 
