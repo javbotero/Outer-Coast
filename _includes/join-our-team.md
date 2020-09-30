@@ -10,7 +10,7 @@ The Academic Life Coordinator will support students in their academic pursuits b
 The Residential Life Coordinator will support students in their lives outside the classroom by building meaningful relationships and fostering a safe and vibrant campus culture.
 
 
-#### Join the Project Staff
+#### Join the Build Team
 
 Outer Coast offers two year-long positions through the [Alaska Fellows Program](http://alaskafellows.org/), a residential fellowship program that nurtures the next generation of Alaska-based leaders by pairing talented young people with strong communities and professional mentors.
 
