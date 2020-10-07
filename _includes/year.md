@@ -64,7 +64,7 @@ What does it mean to be human? Attempts to answer this question often draw compa
 
 <strong>Term 3 — Political Philosophy</strong>
 
-<strong>Term 4 — Literature</strong>
+<strong>Term 4 — Literature</strong> 
 
 ***
 
