@@ -5,7 +5,7 @@ top:
       - name: What is Outer Coast?
         page: about.html
       - name: Who We Are
-        page: team/
+        page: team.html
         subsubfolderitems:
           - name: Team
             page: team.html
