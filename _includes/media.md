@@ -2,6 +2,12 @@
 
 ***
 
+##KCAW Raven Radio
+<p><a href="https://www.kcaw.org/2020/10/13/sitkas-outer-coast-year-offers-college-students-an-alternative-for-higher-education/" target="blank">"Sitka’s Outer Coast Year offers college students an alternative for higher education" </a></p>
+*October 2020*
+
+***
+
 ##The Sitka Sentinel 
 <p><a href="https://sitkasentinel.com/7/2012-05-10-22-08-10/local-news/17180-sitka-s-outer-coast-starts-full-year-program?tmpl=component&print=1&page=" target="blank">"Sitka’s Outer Coast Starts Full-Year Program" </a></p>
 *September 2020*
