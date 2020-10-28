@@ -3,6 +3,8 @@
 ### *Tlingit Language Massive Open Online Course* 
 
 
+Read the <A HREF = "https://drive.google.com/file/d/1vLFRP3Dr89ymkbLSI64VxuwBKV9JDwPB/view?usp=sharing">Tlingit Language MOOC Course Spotlight</A>
+
 Outer Coast is excited to partner with the Sealaska Heritage Institute in order to offer its first Tlingit Language open online course. Kashook’ Áa Ḵaa Ee Dultóowu Yé will offer an opportunity for all levels of language learners to practice Tlingit in a welcoming online environment. MCed by X̱’unei Lance Twitchell, this course will invite elders and other teachers from across Southeast Alaska to lead classes and share their knowledge. The course will also facilitate specialized conversation sections where learners of all levels can practice the language with others of their ability.
 
 *Kashook’ Áa Ḵaa Ee Dultóowu Yé* is offered at no cost to all who wish to participate.
