@@ -42,6 +42,8 @@ Applications will be considered on a rolling basis through June 15.
 
   _Barbara Johnson, Natural Resources and Sustainability Program, University of Alaska Fairbanks_
 
+Read the <A HREF = "https://drive.google.com/file/d/1Mc4cujo8Ptc0Q308Hi3XJ7iS2M5VPhJU/view?usp=sharing">Economics of Rural Alaskan Water Utilities Course Spotlight</A> 
+
 In this course, students will learn applied economics by exploring the economics of drinking water and wastewater treatment systems in Alaska. Alaska has the highest rate of households without in-home access to drinking water and sanitation services in the United States. Why? We will answer this question using economics, which is the study of how we, as individuals or as a society, decide to allocate resources. We will learn about economies of scale, incentives, prices, and the laws of demand and supply. We will touch on the cultural dimension of economics and the colonial roots of infrastructure development in rural Alaska. Students will also collaborate on a research project, which will be published. By the end of this course students will be thinking like economists.
 
 
@@ -61,6 +63,8 @@ The term “Anthropocene,” which has gained a lot of traction both for climate
 ![Joel Schlosser]({{ site.imagesurl }}joel _schlosser.png){:height="35%" width="35%"}
 
   _Joel Schlosser, Associate Professor of Political Science, Bryn Mawr College_
+  
+Read the <A HREF = "https://drive.google.com/file/d/1KRScK4hRHpCLejELKm-2xNrD9fNta_h0/view?usp=sharing">Living a Democratic Life Course Spotlight</A> 
 
 What are we talking about when we talk about democracy? This course will examine the history, theory, and practice of democracy from its origins in ancient Athens to the present day. Is democracy a matter of political institutions or does it require a particular culture and set of beliefs? What obligations does a citizen of a democracy have? Do we even want to live in a democracy? Approaching these questions from a variety of angles, we will also seek to reflect on the powers and responsibilities of self-governance at Outer Coast. What does it mean to participate in a self-governing community? How can self-governance at Outer Coast inform governance in political life more broadly? Readings will include ancient Greek drama and philosophy, American history and literature, and contemporary film.
 
