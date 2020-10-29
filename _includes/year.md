@@ -51,6 +51,8 @@ During each semester, students will participate in two consecutive, seven-week, 
 
 _Sanjena Sathian, Novelist, MFA, Iowa Writers Workshop_
 
+Read the [Writing and Place: What is Home? Course Spotlight](https://drive.google.com/file/d/1qnzIjyaPq7Rin5Pvsr_2iqnbbLerZsmG/view?usp=sharing)
+
 What does it mean to belong to a place? Can writing about a place make it home? Can reading about a place transport you there? In considering these questions, we'll read Alaskan authors to develop a relationship to the world around OCC, as well as non-Alaskans. By the end of the course, we will have new writing but also, hopefully, a richer relationship to the geographies we call home.
 
 <strong>Term 2 — Humans and Other Animals</strong>
