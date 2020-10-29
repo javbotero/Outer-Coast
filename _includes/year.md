@@ -58,7 +58,9 @@ What does it mean to belong to a place? Can writing about a place make it home? 
 <strong>Term 2 — Humans and Other Animals</strong>
 
 <!-- This inserts the David’s headshot -->
-![David Egan]({{ site.imagesurl }}Faculty_David-Egan.jpg){:height="35%" width="35%"}
+![David Egan]({{ site.imagesurl }}David Egan.jpg){:height="35%" width="35%"}
+
+_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
 
 _David Egan, DPhil, University of Oxford_
 
