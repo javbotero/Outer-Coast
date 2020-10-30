@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 
 As the academic year wraps up (in a way none of us could have imagined), students around the world are wondering what‘s next and when school will “go back to normal.” We too wish we knew. Like many institutions, we’re preparing for the 2020–21 academic year with careful consideration and optimism.
 
+<!--more-->
+
  <br>
 
 <strong>Staff openings at the Outer Coast Year</strong>
