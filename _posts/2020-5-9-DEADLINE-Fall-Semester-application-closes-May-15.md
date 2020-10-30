@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 
 The deadline to apply for the Fall Semester or both semesters of the Outer Coast Year is fast approaching! If you are a student who wants to enroll in the Outer Coast Year this fall, make sure you submit your application by 11:59pm Alaska Daylight Time on Friday, May 15.
 
+<!--more-->
+
 <strong>[Apply to the Outer Coast Year](http://outercoast.org/year/apply/)</strong>
 
 <br>
