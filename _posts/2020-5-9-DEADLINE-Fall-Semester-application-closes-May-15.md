@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: DEADLINE: Fall Semester application closes May 15
+title: Fall Semester application closes May 15
 date: May 9, 2020
 published: true
 excerpt_separator: <!--more-->
