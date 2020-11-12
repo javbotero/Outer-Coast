@@ -16,7 +16,7 @@ We have been busy gathering all the parts for the upcoming Summer Seminar, but i
 
 [Apply to the Outer Coast Summer Seminar](http://outercoast.org/summer/apply/)
 
-If you have any questions about the application or want to schedule a time to talk to someone on the team before applying, contact Johnny at [johnny@outercoast.org](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=johnny@outercoast.org).
+If you have any questions about the application or want to schedule a time to talk to someone on the team before applying, contact Johnny at johnny@outercoast.org.
 
 Wishing everyone the best of health,
 
