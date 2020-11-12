@@ -4,7 +4,7 @@
 
 The Outer Coast Year offers a diverse cohort of up to 20 Alaskan, Lower 48, and international high school graduates a transformative educational experience in Sitka, Alaska founded on the belief that students should have agency and ownership of every aspect of their academic and personal lives and the responsibility to positively affect the communities to which they belong.
 
-Over the course of two four-month semesters, students immerse themselves in fast-paced, intellectually rigorous academic coursework; engage in work-based service and meaningful labor in Sitka; and practice self-governance of key aspects of the Outer Coast experience. Through small seminars, close-knit residential living, and involvement in the wider Sitka community, Outer Coast Year students will learn how to identify, analyze, and address the challenges — both big and small — that face the world today.
+Over the course of two 4-month semesters, students immerse themselves in fast-paced, intellectually rigorous academic coursework; engage in work-based service and meaningful labor in Sitka; and practice self-governance of key aspects of the Outer Coast experience. Through small seminars, close-knit residential living, and involvement in the wider Sitka community, Outer Coast Year students will learn how to identify, analyze, and address the challenges — both big and small — that face the world today.
 
 <!-- This inserts the photo of students -->
 ![Students in Sitka National Historical Park]({{ site.imagesurl }}tasha-boyer-2.png){:height="35%" width="35%"}
