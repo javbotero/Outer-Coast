@@ -5,7 +5,6 @@ date: May 1, 2020
 published: true
 excerpt_separator: <!--more-->
 ---
-
 As the academic year wraps up (in a way none of us could have imagined), students around the world are wondering what‘s next and when school will “go back to normal.” We too wish we knew. Like many institutions, we’re preparing for the 2020–21 academic year with careful consideration and optimism.
 
 <!--more-->
@@ -16,9 +15,9 @@ As the academic year wraps up (in a way none of us could have imagined), student
 
 As we lay the foundations for the Year — our first program for high school graduates —  we are excited to start our search for two significant hires:
 
-<strong>[The Academic Life Coordinator](https://docs.google.com/document/d/1epkgNI1le5iWEtgpbrKKX8zEzo9UMsJhrREu_9rcWR0/edit)</strong> will support students in their academic pursuits by assisting faculty and refining Outer Coast’s pedagogical structures for the long term.
+[The Academic Life Coordinator](https://docs.google.com/document/d/1epkgNI1le5iWEtgpbrKKX8zEzo9UMsJhrREu_9rcWR0/edit) will support students in their academic pursuits by assisting faculty and refining Outer Coast’s pedagogical structures for the long term.
 
-<strong>[The Residential Life Coordinator](https://docs.google.com/document/d/1KcfmbXKztxfmpBzblRpu1axEgIz_gR7DdpaId0vvZYA/edit)</strong> will support students in their lives outside the classroom by building meaningful relationships and fostering a safe and vibrant campus culture.
+[The Residential Life Coordinator](https://docs.google.com/document/d/1KcfmbXKztxfmpBzblRpu1axEgIz_gR7DdpaId0vvZYA/edit) will support students in their lives outside the classroom by building meaningful relationships and fostering a safe and vibrant campus culture.
 
 Both coordinators will play important mentorship roles in the lives of Year students and make lasting contributions to the Outer Coast project more broadly.
 
@@ -37,11 +36,11 @@ The deadline to apply for the Fall Semester or for the full Year is May 15, and 
 - Graduating high school seniors
 - Recent high school graduates with less than a Bachelor’s degree, including current college students.
 
-The application is available online at [outercoast.org/year/apply](http://outercoast.org/year/apply/). Don’t hesitate to reach out to [johnny@outercoast.org](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=Johnny@outercoast.org) if you have any questions.
+The application is available online at [outercoast.org/year/apply](http://outercoast.org/year/apply/). Don’t hesitate to reach out to johnny@outercoast.org if you have any questions.
 
  <br>
 
-<strong>[Nominate a student](http://outercoast.org/year/nominate/)</strong>
+[Nominate a student](http://outercoast.org/year/nominate/)
 
 Know a student who might be interested in the Year? 
 
@@ -55,4 +54,4 @@ Thank you for your continued support of Outer Coast and wishing you the best of 
 
 The Outer Coast team
 
-<strong>[Contribute to Outer Coast](http://outercoast.org/contribute/)</strong>
+[Contribute to Outer Coast](http://outercoast.org/contribute/)
