@@ -5,7 +5,6 @@ date: May 21, 2020
 published: true
 excerpt_separator: <!--more-->
 ---
-
 Dear Friends of Outer Coast,
 
 After much consideration, we have concluded that we will not be able to run the 2020 Summer Seminar in-person in Sitka as originally conceived. This was a difficult decision to make, but protecting the health and safety of Outer Coast students, staffulty, and the community of Sitka makes it the right one. 
@@ -19,7 +18,7 @@ Now that students will be able to participate from home, we are reopening the ap
 <!--more-->
 <br>
 
-<strong>[Apply to the Summer Seminar](http://outercoast.org/summer/apply/)</strong>
+[Apply to the Summer Seminar](http://outercoast.org/summer/apply/)
 
 <br>
 
@@ -47,4 +46,4 @@ All the best to you and your loved ones,
 The Outer Coast Team
 <br>
 
-<strong>[Contribute to Outer Coast](http://outercoast.org/contribute/)</strong>
+[Contribute to Outer Coast](http://outercoast.org/contribute/)
