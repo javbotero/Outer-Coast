@@ -5,7 +5,6 @@ date: June 20, 2020
 published: true
 excerpt_separator: <!--more-->
 ---
-
 With COVID-19 continuing to threaten communities across Alaska, ongoing Tlingit language revitalization efforts are particularly at risk. Many Tlingit culture camps and language study opportunities have been cancelled or postponed this summer, and elders are more isolated from the communities with which they usually share their knowledge.
 
 In response, we are partnering with the Sealaska Heritage Institute to co-host Kashook’ Áa Ḵaa Ee Dultóowu Yé, a Tlingit Language Massive Open Online Course (MOOC) for language learners in Sitka, Southeast, and beyond.
