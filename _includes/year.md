@@ -17,7 +17,7 @@ _Students gather for a convocation ceremony at Sitka National Historical Park an
 
 Fall Semester: Thursday, August 27th – Saturday, December 19th, 2020
 
-Spring Semester: Tuesday, January 14th – Saturday, May 8th, 2021
+Spring Semester: Thursday, January 14th – Saturday, May 8th, 2021
 
 ***
 
