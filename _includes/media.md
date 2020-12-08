@@ -9,6 +9,12 @@
 ***
 
 ##KCAW Raven Radio
+<p><a href="https://www.kcaw.org/2020/11/19/opening-in-a-pandemic-outer-coasts-remote-location-offers-college-students-an-alternative-in-person-education/" target="blank">"Opening in a pandemic, Outer Coast’s remote location offers college students an alternative, in-person education" </a></p>
+*November 2020*
+
+***
+
+##KCAW Raven Radio
 <p><a href="https://www.kcaw.org/2020/10/13/sitkas-outer-coast-year-offers-college-students-an-alternative-for-higher-education/" target="blank">"Sitka’s Outer Coast Year offers college students an alternative for higher education" </a></p>
 *October 2020*
 
