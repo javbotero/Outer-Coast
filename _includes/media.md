@@ -2,6 +2,12 @@
 
 ***
 
+##First Alaskans Institute
+<p><a href="https://magazine.firstalaskans.org/issue/fall-2020/learning-the-tlingit-language-in-a-pandemic/" target="blank">"Learning the Tlingit Language in a Pandemic" </a></p>
+*November 2020*
+
+***
+
 ##KCAW Raven Radio
 <p><a href="https://www.kcaw.org/2020/10/13/sitkas-outer-coast-year-offers-college-students-an-alternative-for-higher-education/" target="blank">"Sitka’s Outer Coast Year offers college students an alternative for higher education" </a></p>
 *October 2020*
