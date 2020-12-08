@@ -1,5 +1,3 @@
-# [Apply to the Spring Semester](https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html)
-
 ### Outer Coast Year 2020–21
 
 The Outer Coast Year offers a diverse cohort of up to 20 Alaskan, Lower 48, and international high school graduates a transformative educational experience in Sitka, Alaska founded on the belief that students should have agency and ownership of every aspect of their academic and personal lives and the responsibility to positively affect the communities to which they belong.
