@@ -1,7 +1,7 @@
 
 #### Outer Coast Year Hiring
 
-[Outer Coast Faculty](https://docs.google.com/document/d/1cCFmD5Ttjc7oM7wxPhYRSrBRCUVE4wfAHP5dnr-yNFg/edit?usp=sharing)
+[Outer Coast Faculty Position Description and Application](https://docs.google.com/document/d/1cCFmD5Ttjc7oM7wxPhYRSrBRCUVE4wfAHP5dnr-yNFg/edit?usp=sharing)
 
 Outer Coast seeks faculty to develop and teach engaging and innovative college-level courses during the Outer Coast Year. Faculty are encouraged to augment their course with visits from experts, both in person and virtually. 
 
