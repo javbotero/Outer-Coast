@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Join Outer Coast’s Online Tlingit Language Course
+title: Join the Online Tlingit Language Course
 date: June 20, 2020
 published: true
 excerpt_separator: <!--more-->
@@ -15,18 +15,13 @@ Led by Outer Coast faculty member and UAS Associate Professor of Alaska Native L
 
 We will also work alongside our partners to connect with elders in order to bring their knowledge into the MOOC. We are committed to providing the technology and connectivity support for any elder interested in joining the MOOC, whether that be through MiFi internet access or tablets and laptops. Reach out to us if you or any elder you know may be interested.
 
-
-
 To express your interest in this course and receive more information, visit [outercoast.org/tlingit](outercoast.org/tlingit).
 
 We look forward to offering Kashook’ Áa Ḵaa Ee Dultóowu Yé this summer and hopefully seeing you there. If you would like to support Outer Coast’s capacity to offer this course, consider making a contribution below.
-
 
 
 All the best,
 
 The Outer Coast Team
 
-
-
-**[Contribute to Outer Coast](http://outercoast.org/contribute/)**
+[Contribute to Outer Coast](http://outercoast.org/contribute/)
