@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Join Online Tlingit Language Course
-date: May 21, 2020
+date: June 22, 2020
 published: true
 excerpt_separator: <!--more-->
 ---
