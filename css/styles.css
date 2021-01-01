@@ -294,6 +294,13 @@ li {
   text-transform: none;
 }
 
+.btn-2 {
+  color: #fff; 
+  background-color: #607d8b; 
+  text-align: center; 
+  padding: 2% 4%; 
+}
+
 .body-link {
   font-style: italic;
   font-size: 1.1rem;
