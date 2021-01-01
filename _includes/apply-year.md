@@ -4,7 +4,7 @@
 
 **Both Summer Seminar and Fall & Spring Semester applicants can follow the same link below.**
 
-[CLICK TO APPLY TO OUTER COAST](https://fs29.formsite.com/Gd7elL/v32rghhomi/index.html)
+#[Click here to apply to Outer Coast](https://fs29.formsite.com/Gd7elL/v32rghhomi/index.html)
 
 
 <!-- This inserts the photo of students at cabin -->
