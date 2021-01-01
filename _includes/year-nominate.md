@@ -7,6 +7,6 @@ Nominations are the most effective way for us to reach potential student applica
 Please note that nominations do not impact a student’s chances of being admitted to the program and that students do not need to be nominated in order to apply to the program.
 
 <!-- This inserts the photo of students -->
-![Indigenous Peoples Day]({{ site.imagesurl }}volunteering.jpg){:height="35%" width="35%"}
+![Indigenous Peoples Day]({{ site.imagesurl }}volunteering.jpg){:height="45%" width="45%"}
 
 _Year student Adonna (Anchorage, AK) prepares akutaq and frybread for Indigenous Peoples’ Day_
