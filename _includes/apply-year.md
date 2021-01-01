@@ -8,7 +8,7 @@
 
 
 <!-- This inserts the photo of students at cabin -->
-![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="35%" width="35%"}
+![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="45%" width="45%"}
 
 _Outer Coast Year students camping at Samsing Cove Cabin_
 
