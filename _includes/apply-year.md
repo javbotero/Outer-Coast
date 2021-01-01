@@ -1,18 +1,43 @@
-# [Apply to the Spring Semester](https://fs29.formsite.com/Gd7elL/1rgug3ug6t/index.html)
+### Apply
 
-#### Application Timeline
+**The student application to the Summer Seminar and Fall & Spring Semesters of the Outer Coast Year 2021–22 is open!**
 
-Students may apply for the Spring Semester only until October 4, 2020. The Fall Semester application has closed.
+**Both Summer Seminar and Fall & Spring Semester applicants can follow the same link below.**
 
-#### Eligibility
+[CLICK TO APPLY TO OUTER COAST](https://fs29.formsite.com/Gd7elL/v32rghhomi/index.html)
 
-High school graduates or GED holders are eligible to apply. We are looking for students who want to develop their critical thinking, listening, and communication skills while engaging with the communities around them, both big and small. Students do not need to be nominated to apply. 
 
-#### Mail-in Application
+<!-- This inserts the photo of students at cabin -->
+![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="35%" width="35%"}
 
-In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Year by mail, you may print [a student application here](https://drive.google.com/file/d/1rWE8F6JuFHVH9Zik0gQ5BtSgMvO_jmfx/view?usp=sharing). Applications should be mailed to Outer Coast at PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
+_Outer Coast Year students camping at Samsing Cove Cabin_
 
-<!-- This inserts the image -->
-![Student Service]({{ site.imagesurl }}semester_service_2.png){:height="65%" width="70%"}
+***
 
-_Students cleaning fire trucks for the Sitka Fire Department_
+**Admissions Timeline**
+
+**_Early Cycle Deadline (for all programs): February 14, 2021_**
+Decisions by March 4, 2021
+
+**_Regular Cycle Deadline (for all programs): April 4, 2021_**
+Decisions by April 30, 2021
+
+Both the Summer Seminar and Fall & Spring Semester applications follow the same timeline. Students indicate which program(s) they're applying for on the application.
+
+**Our Student Body**
+
+Outer Coast students are intellectually curious, community-minded, and driven to create positive change in their lives and communities. 
+
+Outer Coast seeks to serve a student body that is national and international in breadth and diverse in many ways, including racial, ethnic, cultural, and gender identities, and socioeconomic status. Outer Coast emphasizes reaching students from across Alaska, particularly Alaska Natives and rural Alaskans, as well as other high-potential students from backgrounds underrepresented and underserved in American higher education.
+
+Admissions at Outer Coast are need-blind. 
+
+**Eligibility**
+
+Rising high school juniors and seniors from Alaska, as well as all Outer Coast alumni who are still in high school, are eligible to apply for the Summer Seminar.
+
+Any high school graduate or GED holder who has not yet completed a postsecondary degree is eligible for the Fall & Spring Semesters. Students may apply for either the Fall Semester, Spring Semester, or both, and preference may be given to applicants who apply for both semesters. Applicants may also opt to be considered for the Summer Seminar.
+
+**Mail-In Application**
+
+In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Year by mail, you may print a Summer Seminar application here or a Fall & Spring Semesters application here. Applications should be mailed to Outer Coast at PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
