@@ -24,7 +24,7 @@ top:
             page: student-body-letters/
   - name: Tlingit Language Course
     page: tlingit/
-  - name: Summer Seminar 2021 & Year 2020-21
+  - name: Summer Seminar 2021 & Year 2021-22
     page: year/
     subfolderitems:
       - name: About
