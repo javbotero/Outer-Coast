@@ -305,6 +305,10 @@ li {
   transform: translate(-50%, -50%);
 }
 
+.btn-2:hover {
+  background-color: #6B8360; 
+}
+
 .body-link {
   font-style: italic;
   font-size: 1.1rem;
