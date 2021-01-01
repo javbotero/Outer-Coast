@@ -38,6 +38,8 @@ top:
       - name: Past Programs
         page: year/
         subsubfolderitems:
+          - name: Year 2020-21
+            page: year-2020/
           - name: Summer Seminar 2020
             page: summer/
           - name: Summer Seminar 2019
