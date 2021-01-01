@@ -299,6 +299,10 @@ li {
   background-color: #607d8b; 
   text-align: center; 
   padding: 2% 4%; 
+  position: relative;
+  margin-top: 30px;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .body-link {
