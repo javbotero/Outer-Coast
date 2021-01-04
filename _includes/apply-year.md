@@ -4,9 +4,6 @@
 
 **Both Summer Seminar and Fall & Spring Semester applicants can follow the same link below.**
 
-### [Click here to apply to Outer Coast](https://fs29.formsite.com/Gd7elL/v32rghhomi/index.html)
-
-
 <!-- This inserts the photo of students at cabin -->
 ![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="45%" width="45%"}
 
