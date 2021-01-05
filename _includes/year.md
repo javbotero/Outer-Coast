@@ -1,4 +1,4 @@
-### Outer Coast Year 2021–22
+# Outer Coast Year 2021–22
 
 The Outer Coast Year offers a diverse cohort of Alaskan, Lower 48, and international high school and postsecondary students a transformative educational experience in Sitka, Alaska, founded on the belief that students should have agency and ownership in their education and the responsibility to positively affect the communities to which they belong.
 
@@ -6,7 +6,7 @@ Over the course of two four-month semesters and an intensive four-week Summer Se
 
 
 <!-- This inserts the photo of students -->
-![Students jump on Bridge in Sitka]({{ site.imagesurl }}bridge_jump.jpg){:height="45%" width="45%"}
+![Students jump on Bridge in Sitka]({{ site.imagesurl }}bridge_jump.jpg){:height="55%" width="55%"}
 
 _Year students jumping on the O’Connell Bridge in Sitka_
 
