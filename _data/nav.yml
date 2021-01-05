@@ -35,7 +35,7 @@ top:
         page: year/apply/
       - name: Nominate a Student
         page: year/nominate/
-      - name: Past Programs
+      - name: Current and Past Programs
         page: year/
         subsubfolderitems:
           - name: Year 2020-21
