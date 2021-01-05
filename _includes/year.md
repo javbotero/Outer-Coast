@@ -4,6 +4,7 @@ The Outer Coast Year offers a diverse cohort of Alaskan, Lower 48, and internati
 
 Over the course of two four-month semesters and an intensive four-week Summer Seminar, up to 20 students immerse themselves in fast-paced, intellectually rigorous academic coursework; engage in work-based service and meaningful labor in Sitka; and practice self-governance of key elements of the Outer Coast experience. Through small seminars, close-knit residential living, and involvement in the wider Sitka community, Outer Coast Year students will learn how to identify, analyze, and address the challenges — both big and small — that face the world today.
 
+[Read more in the program overview here.](https://docs.google.com/document/d/1rUegr9-h375wjwI4nkQR5kg_upHWrWG_BvBZ6fy-k5g/edit)
 
 <!-- This inserts the photo of students -->
 ![Students jump on Bridge in Sitka]({{ site.imagesurl }}bridge_jump.jpg){:height="55%" width="55%"}
@@ -40,7 +41,4 @@ The Outer Coast Year consists of Fall and Spring Semesters, with discrete classe
 At both the Summer Seminar and the Fall & Spring Semesters of the Outer Coast Year, students earn college credit, practice the mechanics of making change, and build meaningful relationships as part of an **intentional, in-person learning community in Sitka with comprehensive COVID-19 safety protocols.**
 
 Academic courses will appear here when courses have been announced.
-
-
-[Read more in the program overview here.](https://docs.google.com/document/d/1rUegr9-h375wjwI4nkQR5kg_upHWrWG_BvBZ6fy-k5g/edit)
 
