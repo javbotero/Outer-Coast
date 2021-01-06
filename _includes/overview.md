@@ -1,4 +1,4 @@
-### Outer Coast Summer Seminar 2020: Overview
+# Outer Coast Summer Seminar 2020: Overview
 
 The Outer Coast Summer Seminar offers a diverse cohort of Alaskan, Lower 48, and international high school students (current sophomores and juniors) a transformative academic and service based experience that is founded on the belief that students should have agency and ownership of every aspect of their academic and personal lives and the responsibility to positively affect the communities to which they belong.
 
