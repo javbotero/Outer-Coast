@@ -28,6 +28,10 @@ hr {
   margin: auto;
 }
 
+p img {
+  margin: auto;
+}
+
 .card {
   margin: 0 0 .6em 0;
   border-radius: .4em;
