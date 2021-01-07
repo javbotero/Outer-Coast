@@ -29,9 +29,9 @@ hr {
 }
 
 p img {
-  margin: auto;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
-
 .card {
   margin: 0 0 .6em 0;
   border-radius: .4em;
