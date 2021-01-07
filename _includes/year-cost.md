@@ -9,5 +9,5 @@ Outer Coast will meet 100% of demonstrated financial need for all students, incl
 <!-- This inserts the photo of students on the seawalk -->
 ![Students on Sitka Seawalk]({{ site.imagesurl }}seawalk.jpg){:height="75%" width="75%"}
 
-_The Outer Coast team at the Crescent Harbor pier in Sitka_
+<div align="center"><em>The Outer Coast team at the Crescent Harbor pier in Sitka</em></div>
 
