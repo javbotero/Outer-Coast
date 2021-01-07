@@ -9,7 +9,7 @@ Over the course of two four-month semesters and an intensive four-week Summer Se
 <!-- This inserts the photo of students -->
 ![Students jump on Bridge in Sitka]({{ site.imagesurl }}bridge_jump.jpg){:height="55%" width="55%"}
 
-_Year students jumping on the O’Connell Bridge in Sitka_
+<div align="center"><em>Year students jumping on the O’Connell Bridge in Sitka</em></div>
 
 ***
 
