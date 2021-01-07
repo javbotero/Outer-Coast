@@ -3,9 +3,9 @@
 **Both Summer Seminar and Fall & Spring Semester applicants can follow the same link below.**
 
 <!-- This inserts the photo of students at cabin -->
-![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="45%" width="45%"}
+![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="65%" width="65%"}
 
-_Outer Coast Year students camping at Samsing Cove Cabin_
+<div align="center"><em>Outer Coast Year students camping at Samsing Cove Cabin</em></div>
 
 ***
 
