@@ -7,4 +7,4 @@ Please note that nominations do not impact a student’s chances of being admitt
 <!-- This inserts the photo of students -->
 ![Indigenous Peoples Day]({{ site.imagesurl }}volunteering.jpg){:height="45%" width="45%"}
 
-_Year student Adonna (Anchorage, AK) prepares akutaq and frybread for Indigenous Peoples’ Day_
+<div align="center"><em>Year student Adonna (Anchorage, AK) prepares akutaq and frybread for Indigenous Peoples’ Day</em></div>
