@@ -40,7 +40,7 @@ Applications will be considered on a rolling basis through June 15.
 <!-- This inserts the image -->
 ![Barbara Johnson]({{ site.imagesurl }}barbara_johnson.png){:height="35%" width="35%"}
 
-  _Barbara Johnson, Natural Resources and Sustainability Program, University of Alaska Fairbanks_
+ <div align="center"><em>Barbara Johnson, Natural Resources and Sustainability Program, University of Alaska Fairbanks</em></div>
 
 Read the <A HREF = "https://drive.google.com/file/d/1Mc4cujo8Ptc0Q308Hi3XJ7iS2M5VPhJU/view?usp=sharing">Economics of Rural Alaskan Water Utilities Course Spotlight</A> 
 
@@ -52,7 +52,7 @@ In this course, students will learn applied economics by exploring the economics
 <!-- This inserts the image -->
 ![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="35%" width="35%"}
 
-  _Sol Neely (for his second year at Outer Coast!), Associate Professor of English and Philosophy, University of Alaska Southeast_ 
+ <div align="center"><em>Sol Neely (for his second year at Outer Coast!), Associate Professor of English and Philosophy, University of Alaska Southeast</em></div>
 
 The term “Anthropocene,” which has gained a lot of traction both for climate scientists and activists, occasions an important critical framework for rendering legible the role of human development in visibly affecting the geological record. However, the term has also come under scrutiny by Indigenous scholars and activists who see it as both irreducibly Eurocentric and as obscuring long Indigenous traditions of climate justice and stewardship. In this seminar, we will take up these Indigenous critiques within and against appeal to the Anthropocene. We will begin by analyzing global climate change as an extension and intensification of colonialism, giving due critical attention to the economic, environmental, and cultural sorrows of late-stage capitalism. Then, we will draw from a broad array of interdisciplinary and Indigenous source materials — from origin stories to Indigenous futurisms — in order to imagine decolonial futures rooted in Indigenous land management, economic equity, and environmental justice.
 
@@ -62,7 +62,7 @@ The term “Anthropocene,” which has gained a lot of traction both for climate
 <!-- This inserts the image -->
 ![Joel Schlosser]({{ site.imagesurl }}joel _schlosser.png){:height="35%" width="35%"}
 
-  _Joel Schlosser, Associate Professor of Political Science, Bryn Mawr College_
+<div align="center"><em>Joel Schlosser, Associate Professor of Political Science, Bryn Mawr College</em></div>
   
 Read the <A HREF = "https://drive.google.com/file/d/1KRScK4hRHpCLejELKm-2xNrD9fNta_h0/view?usp=sharing">Living a Democratic Life Course Spotlight</A> 
 
@@ -74,7 +74,7 @@ What are we talking about when we talk about democracy? This course will examine
 <!-- This inserts the image -->
 ![Xunei]({{ site.imagesurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg){:height="35%" width="35%"}
 
-  _X’unei Twitchell (for his third year at Outer Coast!), Associate Professor of Alaska Native Languages, University of Alaska Southeast_
+<div align="center"><em>X’unei Twitchell (for his third year at Outer Coast!), Associate Professor of Alaska Native Languages, University of Alaska Southeast</em></div>
 
 This course will be an intensive that teaches students the Tlingit language and also introduces a number of critical    concepts in the field of Indigenous Studies. The daily activities of the class will be divided between language learning and use and the exploration of topics in Indigenous Studies in a place-based and safe learning environment. 
 
