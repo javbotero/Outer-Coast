@@ -32,7 +32,7 @@ Over the course of the Summer Seminar, students logged a total of 84 service hou
 
 ![OCSS 2018 Students Painting]({{ site.imagesurl }}OCSS2018_Painting.JPG){:height="65%" width="65%"}
 
-_OCSS 2018 Students Painting the Rasmusson Building on the historic Sheldon Jackson campus._
+<div align="center"><em>OCSS 2018 Students Painting the Rasmusson Building on the historic Sheldon Jackson campus.</em></div>
 
 ***
 
