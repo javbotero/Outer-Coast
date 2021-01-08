@@ -5,7 +5,7 @@ Outer Coast Summer Seminar 2019 brought together 23 incredible students from acr
 <!-- This inserts the campus image -->
 ![SFAC]({{ site.imagesurl }}SFAC.jpg){:height="65%" width="65%"}
 
-_The historic Sheldon Jackson campus. Photo Credit: Berett Wilber_
+<div align="center"><em>The historic Sheldon Jackson campus. Photo Credit: Berett Wilber</em></div>
 
 <strong>Academics:</strong>
 
@@ -19,7 +19,7 @@ This summer, Outer Coast offered three fast-paced, college-level academic course
 <!-- This inserts the image -->
 ![Sol Neely]({{ site.imagesurl }}OCSS2019Faculty_Sol-Neely.jpg){:height="25%" width="25%"}
 
-_Sol Neely, Associate Professor of English and Philosophy, University of Alaska Southeast_
+<div align="center"><em>Sol Neely, Associate Professor of English and Philosophy, University of Alaska Southeast</em></div>
 
 Many of the world’s problems today are the result of a collapsed political imagination, which occasions a fundamental inability to imagine society otherwise than what we’ve inherited. This course asked students to identify contemporary social problems in their genealogical contexts and boldly imagine projects of social transformation that address these issues.
 
@@ -28,7 +28,7 @@ Many of the world’s problems today are the result of a collapsed political ima
 <!-- This inserts image -->
 ![Jenell Paris]({{ site.imagesurl }}OCSS2019Faculty_Jenell-Paris.jpg ){:height="25%" width="25%"}
 
-_Jenell Paris, Professor of Anthropology, Messiah College._
+<div align="center"><em>Jenell Paris, Professor of Anthropology, Messiah College.</em></div>
 
 This course relied on the inquiry method of anthropological study to guide students toward asking important questions and seeking answers. Students reflected on the social construction of knowledge and societal priorities by reading works that explore nature, indigeneity, and self-reflection in several cultural traditions.
 
@@ -37,7 +37,7 @@ This course relied on the inquiry method of anthropological study to guide stude
 <!-- This inserts the image -->
 ![X'unei Lance Twitchell]({{ site.imagesurl }}OCSS2019Faculty_X'unei-Lance-Twitchell.jpg ){:height="25%" width="25%"}
 
-_X‘unei Lance Twitchell, Associate Professor of Alaska Native Languages, University of Alaska Southeast._
+<div align="center"><em>X‘unei Lance Twitchell, Associate Professor of Alaska Native Languages, University of Alaska Southeast.</em></div>
 
 This seminar taught students the Tlingit language and also introduced a number of critical concepts in the field of Indigenous Studies. The daily activities of the class were divided between language learning and use, and the exploration of topics in Indigenous Studies in a place-based and safe learning environment.
 
@@ -50,7 +50,7 @@ Students participated in meaningful service to the Sitka community, each complet
 <!-- This inserts the image -->
 ![Students doing service]({{ site.imagesurl }}summer_service.jpg){:height="65%" width="65%"}
 
-_OCSS 2019 Students doing service._
+<div align="center"><em>OCSS 2019 Students doing service.</em></div>
 
 Their largest projects included:
 
@@ -72,7 +72,7 @@ Other volunteer organizations included: Sitka Volunteer Fire Department, The Clo
 
 ![OCSS 2019 Students]({{ site.imagesurl }}student_governance_1.png){:height="65%" width="65%"}
 
-_OCSS 2019 Students in a Student Body meeting._
+<div align="center"><em>OCSS 2019 Students in a Student Body meeting.</em></div>
 
 ***
 
