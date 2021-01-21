@@ -1,33 +1,8 @@
-# Outer Coast Summer Seminar 2020: Overview
+# Outer Coast Summer Seminar 2020
 
-The Outer Coast Summer Seminar offers a diverse cohort of Alaskan, Lower 48, and international high school students (current sophomores and juniors) a transformative academic and service based experience that is founded on the belief that students should have agency and ownership of every aspect of their academic and personal lives and the responsibility to positively affect the communities to which they belong.
+The Outer Coast Summer Seminar 2020 brought together 23 incredible students from across Alaska and the Lower 48 virtually for a five-week exploration of Outer Coast’s three pillars of Academics, Service & Labor, and Self Governance. 
 
-Due to circumstances of the COVID-19 pandemic, and concerns for the health and safety of Outer Coast students, faculty and staff, and the community of Sitka, we will be moving forward with a virtual program for students to participate in from home. This program will be a unique endeavor, designed for this specific moment in time — but will maintain the dynamic learning environment of past Summer Seminars. In the interest of best serving our students we are crafting a program with a focus on promoting intellectual engagement, purpose, and belonging during this uncertain time.
-
-***
-
-<strong>Program Dates</strong>
-
-Saturday, June 27th - Saturday, August 1st, 2020
-
-***
-
-<strong>Educational Model</strong>
-
-Over the course of five weeks, students immerse themselves in two or more fast-paced, college-level academic courses; engage virtually in service to their communities and to the community of Sitka; and explore the powers and responsibilities of self-governance. Both inside and outside the classroom, Summer Seminar students will learn how to identify, analyze, and respond to the challenges that face the world today.
-
-
-***
-
-<strong>Program Overview</strong>
-
-Read more in our detailed [Program Overview](https://docs.google.com/document/d/1KWtakxm8SLXioOaOEbdKde3d7x_hxK7Vd9vws-RrzRc/edit).
-
-
-Learn more about how to apply [here](http://outercoast.org/summer/apply/).
-
-
-Applications will be considered on a rolling basis through June 15.
+Due to circumstances of the COVID-19 pandemic, and concerns for the health and safety of Outer Coast students, faculty and staff, and the community of Sitka, the 2020 Summer Seminar became a virtual program for students to participate in from home.  [Read what the student body wrote about the program here!](https://docs.google.com/document/d/1WzeKom3ceJEsFy1akR-ebgyo2tKXZM6wAG5DHd0eysg/edit)
 
 
 ***
