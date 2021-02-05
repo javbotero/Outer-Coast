@@ -1,6 +1,6 @@
 **The student application to the Summer Seminar and Fall & Spring Semesters of the Outer Coast Year 2021–22 is open!**
 
-**Both Summer Seminar and Fall & Spring Semester applicants can follow the same link below.**
+**Both Summer Seminar and Fall & Spring Semester applicants can follow the same link above.**
 
 <!-- This inserts the photo of students at cabin -->
 ![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="65%" width="65%"}
