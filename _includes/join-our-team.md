@@ -11,4 +11,4 @@ We’re hiring for a:
 
 For both positions, the deadline to apply is March 14, 2021.
 
-Reach out to Frank Eccher at [frank@outercoast.org](frank@outercoast.org) if you have any questions about the roles or the Alaska Fellows Program.
+Reach out to Frank Eccher at frank@outercoast.org if you have any questions about the roles or the Alaska Fellows Program.
