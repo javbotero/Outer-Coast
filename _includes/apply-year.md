@@ -29,7 +29,7 @@ Admissions at Outer Coast are need-blind.
 
 **Eligibility**
 
-Rising high school juniors and seniors from Alaska, as well as all Outer Coast alumni who are still in high school, are eligible to apply for the Summer Seminar.
+Rising high school juniors and seniors, as well as all Outer Coast alumni who are still in high school, are eligible to apply for the Summer Seminar. Graduating seniors from Alaska are also eligible to apply for the Summer Seminar.
 
 Any high school graduate or GED holder who has not yet completed a postsecondary degree is eligible for the Fall & Spring Semesters. Students may apply for either the Fall Semester, Spring Semester, or both, and preference may be given to applicants who apply for both semesters. Applicants may also opt to be considered for the Summer Seminar.
 
