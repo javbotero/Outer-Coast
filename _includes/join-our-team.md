@@ -1,14 +1,10 @@
 
-#### Outer Coast Fellows Hiring
+#### Outer Coast Academic & Residential Advisor Hiring
 
-Outer Coast is hiring for two positions in Sitka through the Alaska Fellows Program for Fall 2021 – Spring 2022. 
+Outer Coast seeks an Academic & Residential Advisor to foster a supportive and purposeful learning environment for all students at the Outer Coast Year. The Academic & Residential Advisor is responsible for providing guidance to students in all three pillars of the program: academics, self-governance, and service & labor. 
 
-We’re hiring for a:
+During the Year and with assistance from the Outer Coast Programs and Operations staff and the Program Coordinator, the Academic & Residential Advisor supports students through successes and challenges and responds appropriately. 
 
-[Development and Communications Fellow](https://docs.google.com/document/d/1v5e_8GzsJ8XuG3pJVBeZ8rNNfOyw2K3Rbo2SB2XxMGY/edit?userstoinvite=meredithredick@gmail.com&ts=60121436&actionButton=1) who will engage Outer Coast stakeholders by communicating the organization’s vision, mission, and impact and manage development structures and processes. 
+[Read more about the position here.](https://docs.google.com/document/d/1EdEnjYTH2Ykm8Vp1-Zi7heVbiclod2gDXgxLUyxYy3k/edit?usp=sharing)
 
-[Program Design and Recruitment Fellow](https://docs.google.com/document/d/16lquc2h6x1247f-xR5ZOAq12ucF_wpIELHUba0OsRIc/edit) who will design future programs, build out our student recruitment systems, and cultivate organizational relationships across the state and beyond. 
-
-For both positions, the deadline to apply is March 14, 2021.
-
-Reach out to Frank Eccher at frank@outercoast.org if you have any questions about the roles or the Alaska Fellows Program.
+Please submit all application materials to Bryden Sweeney-Taylor (bryden@outercoast.org), Johnny Elliott (johnny@outercoast.org), and Cecilia Koai Dumouchel (cecilia@outercoast.org) with the subject “Name of Applicant: Outer Coast Year Academic & Residential Advisor Application.” You will be contacted regarding next steps within one week of submission. The position is open until filled.
