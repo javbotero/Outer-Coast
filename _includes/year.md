@@ -45,13 +45,14 @@ At both the Summer Seminar and the Fall & Spring Semesters of the Outer Coast Ye
 ##Summer Seminar 2021 Academic Course
 
 **Wealth and Commonwealth**
+
 _Lizzie Krontiris, PhD_
 
 What do we rightfully own as individuals, and what do we owe to the common good? What does the distribution of wealth – who owns what and how much – tell us about what we value as a society, what we invest in, and what sort of world we are choosing to build? Should there be a limit to how much wealth one person can possess? What sorts of goods should be made publicly available to everyone and what should individuals have to purchase privately? Who should pay, for example, for education, healthcare, and childcare? The purpose of this course is to think about the fairness and political significance of the distribution of wealth and material resources in American society. Readings will draw on political philosophy and social theory, as well as current public policy debate. 
 
 
 <!-- This inserts the image -->
-![LizzieKrontiris]({{ site.imagesurl }}lizzie_krontiris.jpg){:height="35%" width="35%"}
+![LizzieKrontiris]({{ site.imagesurl }}lizzie_krontiris.jpg){:height="25%" width="25%"}
 
 **Lizzie Krontiris**
 
