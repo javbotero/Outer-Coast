@@ -1,6 +1,6 @@
-**The student application to the Summer Seminar and Fall & Spring Semesters of the Outer Coast Year 2021–22 is open!**
+**The Outer Coast Summer Seminar 2021 application cycle is now closed.**
 
-**Both Summer Seminar and Fall & Spring Semester applicants can follow the same link above.**
+**We are extending a rolling admissions cycle through June 13, 2021 for the Fall & Spring Semesters of the Outer Coast Year. Applications will be reviewed as they are received, and spots will fill up quickly.**
 
 <!-- This inserts the photo of students at cabin -->
 ![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="65%" width="65%"}
