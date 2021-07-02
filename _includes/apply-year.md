@@ -11,16 +11,6 @@
 
 ***
 
-**Admissions Timeline**
-
-**_Early Cycle Deadline (for all programs): February 14, 2021_**
-Decisions by March 4, 2021
-
-**_Regular Cycle Deadline (for all programs): April 4, 2021_**
-Decisions by April 30, 2021
-
-Both the Summer Seminar and Fall & Spring Semester applications follow the same timeline. Students indicate which program(s) they're applying for on the application.
-
 **Our Student Body**
 
 Outer Coast students are intellectually curious, community-minded, and driven to create positive change in their lives and communities. 
@@ -37,4 +27,4 @@ Any high school graduate or GED holder who has not yet completed a postsecondary
 
 **Mail-In Application**
 
-In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Year by mail, you may print a Summer Seminar application [here](https://drive.google.com/file/d/1I96R_4cjjEVdFsBUQ68Y3GwuJsh0JXDM/view) or a Fall & Spring Semesters application [here](https://drive.google.com/file/d/17XBVrao4SEbOtfgurwFTTvkXW1ZBGF1o/view). Applications should be mailed to Outer Coast at PO Box 6573 Sitka, AK 99835 and postmarked by the application deadline.
+In addition to the online application above, Outer Coast offers the option for students to mail in their application. If you would like to apply to the Year by mail, you may print an application application [here](https://drive.google.com/file/d/17XBVrao4SEbOtfgurwFTTvkXW1ZBGF1o/view). Applications should be mailed to Outer Coast at PO Box 6573 Sitka, AK 99835.
