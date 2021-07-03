@@ -16,24 +16,6 @@ You can sign up for this course below, and Outer Coast will follow up with you b
 
 ***
 
-<strong>Schedule</strong>
-
-This course begins Monday, June 29, 2020 and ends Friday, July 31, 2020. All sessions will run 7:00 – 8:30pm AKDT over Zoom. The session type will follow the recurring schedule below:
-
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Mondays      | Advanced learners conversation section |
-| Tuesdays   | All learners |
-| Wednesdays | Intermediate learners conversation section |
-| Thursdays | All learners |
-| Fridays  | Beginner learners conversation section |
-
-
-All learners are welcome to attend all conversation sections and listen, but are asked to actively contribute only to the section most appropriate to their proficiency.
-
-***
-
 *The Tlingit language MOOC is an effort to provide content to a wide audience and continue to explore how education can be a vessel where Alaska Native languages thrive and reach all those in need of the cherished voices of those who came before us as well as those who have yet to arrive.*
 
 *Many of our languages are threatened with extinction, and being unable to be in the same physical space as those who are learning has the potential to accelerate language death. This MOOC is a step to mediate language loss, and it can create a model of delivery for other Alaska Native languages.*
