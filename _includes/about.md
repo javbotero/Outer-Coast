@@ -4,9 +4,9 @@
 
 Outer Coast seeks to teach and inspire promising young people to create virtuous change in the world and in their own lives. It aims to accomplish this mission by providing a rigorous and challenging academic curriculum marked by exceptional pedagogy and faculty engagement; by imparting the value of labor and service to a diverse student body entrusted with broad powers of self-governance; by cultivating love for community and respect for nature within the setting of Sitka, Alaska; by fostering creativity, curiosity, honesty, generosity, resilience, self-reliance, and good humor; and by accompanying students in their search for self-understanding and moral worth.
 
-#### Whom We Serve
+#### Our Student Body
 
-The student body of Outer Coast will be national and international in breadth, and diverse in many ways, including race, gender, and socioeconomic status. The project will make a special effort to recruit students from Alaska, particularly Alaska Natives and rural Alaskans, as well as high-achieving students from underserved backgrounds.
+Outer Coast seeks to serve a student body that is national and international in breadth and diverse in many ways, including racial, ethnic, cultural, and gender identities, and socioeconomic status. Outer Coast emphasizes reaching students from across Alaska, particularly Alaska Natives and rural Alaskans, as well as other high-potential students from backgrounds underrepresented and underserved in American higher education.
 
 <!-- This inserts the image -->
 <div class="center">
