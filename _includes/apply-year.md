@@ -2,7 +2,7 @@
 
 **We are extending a rolling admissions cycle for the Fall & Spring Semesters of the Outer Coast Year until spots are filled. Applications will be reviewed as they are received, and spots will fill up quickly.**
 
-**Want to learn more before you apply? [Click here to request more information](https://airtable.com/shrLXiJ4jiBpft64f).**
+**Want to learn more before you apply? [Click here to request more information](https://airtable.com/shrfaAnBNcffMwWc2).**
 
 <!-- This inserts the photo of students at cabin -->
 ![Students at Samsing cabin]({{ site.imagesurl }}students_at_samsing.jpg){:height="65%" width="65%"}
