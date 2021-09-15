@@ -4,4 +4,4 @@ Nominations are the most effective way for us to reach potential student applica
 
 Please note that nominations do not impact a student’s chances of being admitted to the program and that students do not need to be nominated in order to apply to the program.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrlNAryEF6eGLGK7?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/shrlNAryEF6eGLGK7?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
