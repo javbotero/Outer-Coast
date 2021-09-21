@@ -1,6 +1,6 @@
-**The Outer Coast Summer Seminar 2021 application cycle is now closed.**
+*The application for Spring Semester 2022 is open. You can find the application by clicking the button above.* 
 
-**We are extending a rolling admissions cycle for the Fall & Spring Semesters of the Outer Coast Year until spots are filled. Applications will be reviewed as they are received, and spots will fill up quickly.**
+**Applications are due by 11:59 pm AKDT on October 31, 2021.**
 
 **Want to learn more before you apply? [Click here to request more information](https://airtable.com/shrfaAnBNcffMwWc2).**
 
