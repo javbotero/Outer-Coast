@@ -1,4 +1,4 @@
-# Outer Coast Year 2021–22 & Summer Seminar 2021
+# Outer Coast Year 2021–22
 
 The Outer Coast Year offers a diverse cohort of Alaskan, Lower 48, and international high school and postsecondary students a transformative educational experience in Sitka, Alaska, founded on the belief that students should have agency and ownership in their education and the responsibility to positively affect the communities to which they belong.
 
