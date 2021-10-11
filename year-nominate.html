@@ -7,12 +7,15 @@ permalink: /year/nominate/
 {% include slider.html photos=site.data.images.year_page.top %}
 
 <div class="main-section summer-seminar-page">
+  
+  <h1 style="text-align:center;">Nominate a Student</h1>
+      <form>
+         <button type="submit" formaction="https://airtable.com/shrlNAryEF6eGLGK7" class="btn-2">Click here to nominate a student</button>
+      </form>
+  
   <div class="container">
 
     {% capture my-include %}{% include year-nominate.md %}{% endcapture %}
     {{ my-include | markdownify }}
     
-    <form>
-         <button type="submit" formaction="https://airtable.com/shrlNAryEF6eGLGK7" class="btn-2">Click here to nominate a student</button>
-      </form>
 </div>
