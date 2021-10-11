@@ -24,7 +24,7 @@ top:
             page: student-body-letters/
   - name: Tlingit Language Course
     page: tlingit/
-  - name: Summer Seminar 2021 & Year 2021-22
+  - name: Year 2021-22
     page: year/
     subfolderitems:
       - name: About
@@ -35,7 +35,7 @@ top:
         page: year/apply/
       - name: Nominate a Student
         page: year/nominate/
-      - name: Current and Past Programs
+      - name: Past Programs
         page: year/
         subsubfolderitems:
           - name: Year 2020-21
