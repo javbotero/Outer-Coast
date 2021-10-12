@@ -8,6 +8,11 @@ sitemap:
 
 {% include slider.html photos=site.data.images.front_page.top %}
 
+<div class="social-media">
+  <a href="https://www.facebook.com/outercoastsitka"><i class="fab fa-instagram-square"></i></a>
+  <a href="https://www.instagram.com/outer.coast/"><i class="fab fa-facebook-square"></i></a>
+</div>
+
 <div class="row-announcement announcement-banner" align="center">
   {% capture my-include %}{% include announcement.md %}{% endcapture %}
   {{ my-include | markdownify }}
