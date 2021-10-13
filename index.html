@@ -8,11 +8,6 @@ sitemap:
 
 {% include slider.html photos=site.data.images.front_page.top %}
 
-<div class="social-media">
-  <i class="fab fa-facebook-f"></i>
-  <i class="fab fa-instagram"></i>
-</div>
-
 <div class="row-announcement announcement-banner" align="center">
   {% capture my-include %}{% include announcement.md %}{% endcapture %}
   {{ my-include | markdownify }}
