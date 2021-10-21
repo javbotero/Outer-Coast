@@ -7,7 +7,19 @@ sitemap:
   priority: 1.0
 ---
 
-<head>
-	<meta http-equiv="refresh" content="0; url=http://outercoast.org/test/">
-	<link rel="canonical" href="http://outercoast.org/test/" />
-    </head>
+
+{% include slider.html photos=site.data.images.faq_page.top %}
+
+<div class="main-section summer-seminar-page">
+  <div class="container">
+
+    {% capture my-include %}{% include nominate.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+	  
+	  {% include Facebook-f_Logo-Blue-Logo.wine.svg %}
+	  
+	   {% capture my-include %}{% include Facebook-f_Logo-Blue-Logo.wine.svg %}{% endcapture %}
+  <img src="{{ my-include | markdownify }}" style="max-width:10px;">
+
+  </div>
+</div>
