@@ -81,11 +81,11 @@ Additionally, she has taught the Alaska issues curriculum that is embedded in th
 <!-- This inserts the image -->
 ![Peter Williams]({{ site.imagesurl }}peter_williams.jpg){:height="35%" width="35%"}
 
-**Peter Williams**
+**Ilgavak**
 
-Peter Williams (Yup’ik) is a culture bearer, artist, designer, filmmaker, and educator based in Sitka, Alaska. His hand-sewn works repurpose skin from self-harvested traditional foods, bridging worlds of Indigenous art, fashion, and subsistence.
+Ilgavak (Yup’ik) is a culture bearer, artist, designer, filmmaker, and educator based in Sitka, Alaska. His hand-sewn works repurpose skin from self-harvested traditional foods, bridging worlds of Indigenous art, fashion, and subsistence.
 
-Williams completed artist residencies at Santa Fe Art Institute and Institute of American Indian Arts and has guest lectured and/or taught skin sewing at Yale University, Stanford University, UCLA, Portland Art Museum, and Alaska State Museum, among others. His art has been shown at museums and galleries across North America.
+Ilgavak completed artist residencies at Santa Fe Art Institute and Institute of American Indian Arts and has guest lectured and/or taught skin sewing at Yale University, Stanford University, UCLA, Portland Art Museum, and Alaska State Museum, among others. His art has been shown at museums and galleries across North America.
 
 His presentations at New York Fashion Week and Fashion Week Brooklyn in 2015 and 2016 led to profiles in The Guardian and The New York Times. He co-produced the documentary Harvest:Quyurciq, which received a Native Peoples Action project grant and screened internationally. He was a 2020 Luce Indigenous Knowledge Fellow and nominated for the Joan Mitchell Foundation Painters and Sculptors Grant.
 
