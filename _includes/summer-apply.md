@@ -1,5 +1,3 @@
-# Apply
-
 <!-- This inserts the image -->
 ![Outer Coast Summer Seminar]({{ site.imagesurl }}appcomm.jpg){:height="65%" width="65%"}
 
