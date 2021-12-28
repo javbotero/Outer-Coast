@@ -1,4 +1,4 @@
-# Outer Coast Year 2021–22
+# Outer Coast Year 2022–23
 
 <!-- This inserts the image -->
 ![OCYEAR]({{ site.imagesurl }}OCYStarrigavanSunset.jpg){:height="65%" width="65%"}
