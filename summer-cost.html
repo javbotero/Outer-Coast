@@ -6,13 +6,11 @@ permalink: /summer-cost/
 
 {% include slider.html photos=site.data.images.faq_page.top %}
 <div class="row-announcement announcement-banner" align="center">
-  {% capture my-include %}{% include summer-cost.md %}{% endcapture %}
-  {{ my-include | markdownify }}
 </div>
 <div class="main-section summer-seminar-page">
   <div class="container">
 
-    {% capture my-include %}{% include cost-of-attendance.md %}{% endcapture %}
+    {% capture my-include %}{% include summer-cost.md %}{% endcapture %}
     {{ my-include | markdownify }}
 
   </div>
