@@ -1,7 +1,7 @@
 <!-- This inserts the image -->
 ![SFAC]({{ site.imagesurl }}appcomm.jpg){:height="65%" width="65%"}
 
-The application for the Outer Coast Year 2022-23 will open on January 2nd. Check back to access the application. 
+The application for the Outer Coast Year 2022-23 will open on January 7, 2022. Check back to access the application. 
 
 **Preliminary applications are due by 11:59 pm AKDT on March 15, 2022. All preliminary applications submitted after March 15, 2022 will be considered on a rolling basis.**
 
