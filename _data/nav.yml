@@ -35,7 +35,7 @@ top:
         page: summer/apply/
       - name: Nominate a Student
         page: summer/nominate/
-  - name: Year 2021-22
+  - name: Year 2022-23
     page: year/
     subfolderitems:
       - name: Overview
