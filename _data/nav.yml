@@ -29,7 +29,7 @@ top:
     subfolderitems:
       - name: Overview
         page: summer/
-      - name: Cost of Attendance
+      - name: Cost and Affordability
         page: summer-cost/
       - name: Apply
         page: summer/apply/
@@ -38,9 +38,9 @@ top:
   - name: Year 2021-22
     page: year/
     subfolderitems:
-      - name: About
+      - name: Overview
         page: year/
-      - name: Cost of Attendance
+      - name: Cost and Affordability
         page: year/cost/
       - name: Apply
         page: year/apply/
