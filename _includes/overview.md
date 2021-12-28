@@ -15,10 +15,6 @@ Read more about student life at Outer Coast in the [“Day in the Life of a Summ
 
 [Apply now for the Summer Seminar 2022](https://airtable.com/shrfaAnBNcffMwWc2)
 
-<!-- This inserts the image -->
-![Outer Coast Summer Seminar]({{ site.imagesurl }}RebeccaScienceCenter.jpg){:height="65%" width="65%"}
-
-
 *It has been the most formative experience I’ve ever had in such a short span of time. It showed me what was valuable in my life: learning, meaningful relationships, meaningful work, and that creating a society, even temporarily, of all these things is possible.*
 
 **— Rebecca, Summer Seminar 2018 and Outer Coast Year 2021-22 student from Phoenix, AZ**
