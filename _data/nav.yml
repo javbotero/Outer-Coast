@@ -24,6 +24,17 @@ top:
             page: student-body-letters/
   - name: Tlingit Language Course
     page: tlingit/
+  - name: Summer Seminar 2022
+    page: summer/
+    subfolderitems:
+      - name: Overview
+        page: summer/
+      - name: Cost of Attendance
+        page: summer-cost/
+      - name: Apply
+        page: summer/apply/
+      - name: Nominate a Student
+        page: summer/nominate/
   - name: Year 2021-22
     page: year/
     subfolderitems:
@@ -35,17 +46,6 @@ top:
         page: year/apply/
       - name: Nominate a Student
         page: year/nominate/
-      - name: Past Programs
-        page: year/
-        subsubfolderitems:
-          - name: Year 2020-21
-            page: year-2020/
-          - name: Summer Seminar 2020
-            page: summer-seminar-2020/
-          - name: Summer Seminar 2019
-            page: summer-seminar-2019/
-          - name: Summer Seminar 2018
-            page: summer-seminar-2018.html
   - name: Contribute
     page: contribute
   - name: Contact Us
