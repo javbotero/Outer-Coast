@@ -4,6 +4,12 @@ title: Overview
 permalink: /summer/
 ---
 
+{% include slider.html photos=site.data.images.year_page.top %}
 
-  <meta http-equiv="refresh" content="0; url=http://outercoast.org/year/">
-  <p>If you are not redirected in five seconds, <a href="http://outercoast.org/year/">click here</a>.</p>
+<div class="main-section summer-seminar-page">
+  <div class="container">
+    {% capture my-include %}{% include overview.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+  </div>
+</div>
