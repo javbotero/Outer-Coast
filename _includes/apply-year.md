@@ -17,6 +17,8 @@ Within two weeks of submitting the secondary application, applicants may be invi
 
 Outer Coast Year applicants who wish to receive a decision by the end of April 2022 must submit a preliminary application by the priority application deadline on **March 15, 2022.** All preliminary applications received after March 15 will be reviewed on a rolling basis.
 
+---
+
 **Our Student Body**
 
 Outer Coast students are intellectually curious, community-minded, and driven to create positive change in their lives and communities. 
@@ -25,9 +27,13 @@ Outer Coast seeks to serve a student body that is national and international in 
 
 Admissions at Outer Coast are need-blind. 
 
+---
+
 **Eligibility**
 
 **High school seniors and graduates (or GED holders)** who have not yet completed a postsecondary degree are eligible for the Outer Coast Year. Students may apply for either the Fall Semester, Spring Semester, or both, and preference may be given to applicants who apply for both semesters. Applicants may also opt to be considered for the Summer Seminar.
+
+---
 
 **Mail-In Application**
 
