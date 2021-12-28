@@ -3,9 +3,6 @@
 <!-- This inserts the image -->
 ![Outer Coast Summer Seminar]({{ site.imagesurl }}appcomm.jpg){:height="65%" width="65%"}
 
-[Click here to apply](https://airtable.com/shrfaAnBNcffMwWc2)
-[Click here to request information](https://airtable.com/shrfaAnBNcffMwWc2)
-
 The application for Summer Seminar 2022 is open. You can access the application by clicking the button above.
 
 **Applications are due by 11:59 pm AKST on March 1, 2022.**
@@ -22,7 +19,7 @@ Summer Seminar applicants must complete the written application in full by March
 
 Applicants will receive decisions by early April 2022.
 
-	---
+---
 
 **Our Student Body**
 
@@ -32,7 +29,7 @@ Outer Coast seeks to serve a student body that is national and international in 
 
 Admissions at Outer Coast are need-blind. 
 
-	---
+---
 
 **Eligibility**
 
