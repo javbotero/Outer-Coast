@@ -1,7 +1,7 @@
 <!-- This inserts the image -->
 ![Outer Coast Summer Seminar]({{ site.imagesurl }}appcomm.jpg){:height="65%" width="65%"}
 
-The application for the Summer Seminar 2022 will open on January 7, 2022 via the link above. 
+The application for the Summer Seminar 2022 will open on January 8, 2022 via the link above. 
 
 **Applications are due by 11:59 pm AKST on March 1, 2022.**
 
