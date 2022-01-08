@@ -11,7 +11,7 @@ The Summer Seminar application process consists of a written application and an 
 
 The written application includes a number of short-answer questions and one essay question. We also ask for a high school transcript and at least one recommendation from a teacher. The written application is intended to give applicants the opportunity to demonstrate their interest in Outer Coast, their preparedness academically and socially for the Outer Coast community, and their ability to persevere through challenges.
 
-Within two weeks of submitting the written application, applicants may be invited to an interview with 2-3 members of AppComm. AppComm aims to create a welcoming environment during the interview, in which the main goal is to learn more about the applicant and their interest in joining the Outer Coast community. Applicants may bring any and all questions they  have about Outer Coast to the interview in addition to the questions AppComm members will have for applicants. 
+After submitting the written application, applicants may be invited to an interview with 2-3 members of AppComm. AppComm aims to create a welcoming environment during the interview, in which the main goal is to learn more about the applicant and their interest in joining the Outer Coast community. Applicants may bring any and all questions they  have about Outer Coast to the interview in addition to the questions AppComm members will have for applicants. 
 
 Summer Seminar applicants must complete the written application in full by March 1, 2022 to be considered for the Summer Seminar 2022.
 
