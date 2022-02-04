@@ -10,7 +10,7 @@ The Fall 2022 Semester hiring process will occur in Fall 2021. The Spring 2023 S
 
 Applications for the Fall Semester 2022 are due by 11:59 pm AKDT on **October 17, 2021**.
 
-Applications for the Spring Semester 2023 are due by 11:59 pm AKST on **February 20, 2022**.
+Applications for the Spring Semester 2023 are due by 11:59 pm AKST on **March 1, 2022**.
 
 Applicants are welcome to apply for both semesters, but must do so by **October 17, 2021** in order to be considered for Fall 2022.
 
