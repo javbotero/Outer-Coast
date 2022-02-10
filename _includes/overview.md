@@ -9,6 +9,12 @@ Over the course of an intensive month, up to 20 students undertake fast-paced, i
 
 In the fast-paced Summer Seminar environment, students earn college credit, practice the mechanics of making change, and build meaningful relationships as part of an intentional learning community. 
 
+**How To Do Nothing: Work, Refusal, and Politics**
+
+*Profs. Lizzie Krontiris and Joel Schlosser*
+
+“Nothing is harder to do these days than nothing,” writes Jenny Odell in How To Do Nothing. Everything vies for our attention: important news, exciting updates from friends, cat videos, advertisements. How could we possibly do nothing when there’s always something? And shouldn’t we be doing something? This course investigates how and why doing nothing might be the most important thing to do at a time when it feels like there’s so much to do. Thinking with classic and contemporary texts, we will also experiment with different forms of writing that avoid just doing something and instead cultivate attention and intention. In dialogue with Odell’s book, this course will investigate the role that work plays in contemporary life and the capitalist imperative to be productive and keep busy; the resistance and refusal of “doing nothing”; and how we might imagine and pursue more ecological and just ways of living together.
+
 Read more about the Summer Seminar 2022 in the [Program Overview here.](https://docs.google.com/document/d/1DsIOOm24KI2uV8v_MtxF8bGk5l8VVIG1b0u4BgJdycg/edit?usp=sharing)
 
 Read more about student life at Outer Coast in the [“Day in the Life of a Summer Seminar Student” feature here.](https://mailchi.mp/2150ea1f950c/a-day-in-the-life-of-an-outer-coast-student?e=[UNIQID])
