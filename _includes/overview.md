@@ -19,7 +19,7 @@ Read more about the Summer Seminar 2022 in the [Program Overview here.](https://
 
 Read more about student life at Outer Coast in the [“Day in the Life of a Summer Seminar Student” feature here.](https://mailchi.mp/2150ea1f950c/a-day-in-the-life-of-an-outer-coast-student?e=[UNIQID])
 
-[Apply now for the Summer Seminar 2022](https://airtable.com/shrfaAnBNcffMwWc2)
+[Apply now for the Summer Seminar 2022](https://fs29.formsite.com/Gd7elL/jo7itq2y4b/index.html)
 
 *It has been the most formative experience I’ve ever had in such a short span of time. It showed me what was valuable in my life: learning, meaningful relationships, meaningful work, and that creating a society, even temporarily, of all these things is possible.*
 
